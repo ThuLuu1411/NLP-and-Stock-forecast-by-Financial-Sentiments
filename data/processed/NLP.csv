@@ -1,0 +1,822 @@
+date,hour,ma_ck,title,weekday,title_new
+2023-02-24,17.5,ABC,ABC: Miễn nhiệm bà Dương Thị Thương - Kế toán trưởng từ 24/02/2023,Friday,miễn_nhiệm dương thị_thương kế_toán_trưởng
+2023-02-24,17.2,ABC,"ABC: 3.3.2023, ngày GDKHQ Tham dự Đại hội đồng cổ đông thường niên năm 2023",Friday,tham_dự đại_hội_đồng cổ_đông thường_niên
+2023-02-20,15.3,ABC,ABC: Bổ nhiệm bà Hồ Thị Hà giữ chức người công bố thông tin từ 22/02/2023,Monday,bổ_nhiệm hồ thị hà giữ chức người công_bố thông_tin
+2023-01-31,17.2,ABC,ABC: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-01-30,15.5,ACM,ACM: Đính chính Báo cáo quản trị công ty năm 2022,Monday,đính_chính báo_cáo quản_trị công_ty
+2023-02-17,15.0,AGF,"AGF: 14.3.2023, ngày GDKHQ Tham dự đại hội đồng cổ đông thường niên năm 2023",Friday,tham_dự đại_hội_đồng cổ_đông thường_niên
+2023-02-13,16.5,AGF,AGF: Nghị quyết HĐQT thống nhất tổ chức ĐHĐCĐ TN 2023,Monday,nghị_quyết hđqt thống_nhất tổ_chức đhđcđ
+2023-02-10,14.4,AGF,AGF: Nghị quyết HĐQT v/v tổ chức ĐHĐCĐ TN 2023,Friday,nghị_quyết hđqt v v tổ_chức đhđcđ
+2023-01-17,14.5,AGF,AGF: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-02-20,16.1,AMD,AMD: Nghị quyết HĐQT v/v triệu tập ĐHĐCĐ bất thường năm 2023,Monday,nghị_quyết hđqt v v triệu_tập đhđcđ bất_thường
+2023-02-20,16.1,AMD,AMD: Ngày ĐKCC để thực hiện quyền tham dự ĐHCĐ bất thường năm 2023,Monday,thực_hiện quyền tham_dự đhcđ bất_thường
+2023-02-06,12.5,AMD,"Lỗ kỷ lục năm 2022, một doanh nghiệp “họ” FLC bất ngờ thông báo tìm được đơn vị kiểm toán cho BCTC bán niên",Monday,lỗ kỷ_lục doanh_nghiệp bất_ngờ thông_báo tìm được đơn_vị kiểm_toán bctc
+2023-02-06,11.0,AMD,"AMD: Giải trình nguyên nhân, biện pháp khắc phục tình trạng cổ phiếu vào diện hạn chế giao dịch",Monday,giải_trình nguyên_nhân biện_pháp khắc_phục tình_trạng cổ_phiếu diện hạn_chế
+2023-02-02,17.1,AMD,AMD: Ký hợp đồng kiểm toán,Thursday,ký hợp_đồng
+2023-02-01,15.5,AMD,"Ông Trịnh Văn Quyết bị bắt khiến một DN họ FLC thất thoát 90% doanh thu, lỗ kỷ lục 127 tỷ trong quý 4",Wednesday,trịnh văn quyết bị bắt khiến dn thất_thoát doanh_thu lỗ kỷ_lục
+2023-01-31,15.4,AMD,AMD: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-09,15.2,AMD,AMD: Bổ nhiệm ông Nguyễn Công Tuấn giữ chức Phó Tổng Giám đốc từ 7.1.2023,Monday,bổ_nhiệm nguyễn công tuấn giữ chức tổng_giám_đốc
+2023-01-19,16.5,AMP,AMP: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-02-09,9.3,APT,APT: Thông báo hủy ủy quyền thực hiện công bố thông tin của ông Nguyễn Thành Vinh,Thursday,thông_báo hủy ủy_quyền thực_hiện công_bố thông_tin nguyễn_thành_vinh
+2023-02-09,9.2,APT,APT: Thay đổi giấy đăng ký kinh doanh,Thursday,thay_đổi giấy đăng_ký
+2023-01-31,18.1,APT,APT: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-01-19,16.5,APT,APT: Nghị quyết HĐQT phê duyệt kế hoạch SXKD năm 2023,Thursday,nghị_quyết hđqt phê_duyệt kế_hoạch sxkd
+2023-01-19,16.4,APT,APT: Nghị quyết HĐQT v/v ký hợp đồng với Công ty Quản lý và Kinh doanh Chợ Bình Điền,Thursday,nghị_quyết hđqt v v ký hợp_đồng công_ty quản_lý kinh_doanh chợ
+2023-01-19,16.4,APT,APT: Nghị quyết HĐQT v/v ký hợp đồng với Trung tâm phân phối SATRA,Thursday,nghị_quyết hđqt v v ký hợp_đồng trung_tâm phân_phối
+2023-02-14,9.2,ASA,ASA: Quyết định về việc duy trì diện đình chỉ giao dịch,Tuesday,quyết_định việc duy_trì diện đình_chỉ
+2023-01-31,14.3,AST,AST: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-30,18.1,AST,"AST: Giải trình, báo cáo tình hình khắc phục tình trạng chứng khoán bị kiểm soát",Monday,giải_trình báo_cáo tình_hình khắc_phục tình_trạng chứng_khoán bị kiểm_soát
+2023-01-30,18.0,AST,AST: Giải trình biến động KQKD quý 4/2022 so với cùng kỳ năm trước,Monday,giải_trình biến_động kqkd so cùng kỳ trước
+2023-02-10,17.4,ATA,"ATA: 27.2.2023, ngày GDKHQ Tổ chức Đại hội đồng cổ đông thường niên năm 2023",Friday,tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-02-02,9.2,ATA,ATA: Nghị quyết HĐQT v/v tổ chức ĐHĐCĐ TN 2023,Thursday,nghị_quyết hđqt v v tổ_chức đhđcđ
+2023-01-09,11.1,ATA,ATA: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-02-01,16.1,ATB,ATB: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-16,11.2,ATG,ATG: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-01-10,17.3,ATG,ATG: Bổ nhiệm ông Nguyễn Thanh Tùng giữ chức Phụ trách kế toán từ 06/01/2023,Tuesday,bổ_nhiệm nguyễn thanh_tùng giữ chức phụ_trách kế_toán
+2023-02-03,19.0,BHC,BHC: Báo cáo quản trị công ty năm 2022,Sunday,báo_cáo quản_trị công_ty
+2023-02-23,14.0,BHT,BHT: Nghị quyết Đại hội đồng cổ đông thường niên năm 2023,Thursday,nghị_quyết đại_hội_đồng cổ_đông thường_niên
+2023-02-13,14.1,BHT,BHT: Quyết định về việc đưa vào diện cảnh báo,Monday,quyết_định việc đưa diện
+2023-02-13,14.1,BHT,BHT: Thông báo về trạng thái chứng khoán,Monday,thông_báo trạng_thái
+2023-02-13,14.1,BHT,BHT: Quyết định về việc duy trì hạn chế giao dịch,Monday,quyết_định việc duy_trì hạn_chế
+2023-02-02,10.0,BHT,BHT: CBTT Tài liệu họp Đại hội đồng cổ đông thường niên năm 2023,Thursday,cbtt tài_liệu họp đại_hội_đồng cổ_đông thường_niên
+2023-02-01,16.3,BHT,BHT: Giải trình liên quan đến Báo cáo tài chính năm 2022,Wednesday,giải_trình liên_quan báo_cáo tài_chính
+2023-02-01,16.3,BHT,BHT: Công văn giải trình ý kiến kiểm toán ngoại trừ,Wednesday,công_văn giải_trình ý_kiến kiểm_toán
+2023-01-31,17.1,BHT,BHT: Thông báo triệu tập Đại hội đồng cổ đông thường niên năm 2023,Tuesday,thông_báo triệu_tập đại_hội_đồng cổ_đông thường_niên
+2023-01-16,14.5,BHT,BHT: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-01-10,13.1,BHT,"BHT: 19.1.2023, ngày GDKHQ Tổ chức Đại hội đồng cổ đông thường niên năm 2023",Tuesday,tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-01-16,16.5,BT6,BT6: Giải trình liên quan đến Báo cáo tài chính kiểm toán bán niên năm 2022,Monday,giải_trình liên_quan báo_cáo tài_chính kiểm_toán bán_niên
+2023-01-10,17.3,BT6,BT6: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-01-19,16.5,C12,C12: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-01-31,17.4,CDO,CDO: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-02-10,17.5,CEG,"CEG: 24.2.2023, ngày GDKHQ Tham dự Đại hội đồng cổ đông thường niên năm 2023",Friday,tham_dự đại_hội_đồng cổ_đông thường_niên
+2023-02-09,9.5,CEG,CEG: Thông báo ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2023,Thursday,thông_báo thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-01-27,15.5,CEG,CEG: Báo cáo quản trị công ty năm 2022,Friday,báo_cáo quản_trị công_ty
+2023-02-24,17.1,CIG,CIG: Điều chỉnh thời gian tổ chức ĐHĐCĐ thường niên năm 2023,Friday,điều_chỉnh thời_gian tổ_chức đhđcđ thường_niên
+2023-02-20,16.4,CIG,CIG: Ngày ĐKCC để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2023,Monday,thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-17,17.5,CIG,CIG: Bà Trần Thị Liên đã mua 7.620.000 cp trở thành CĐL,Friday,trần thị đã mua cp trở_thành
+2023-02-16,17.5,CIG,CIG: CTCP Đầu tư FIDEL đã bán 18.100.000 cp,Thursday,ctcp đầu_tư fidel đã bán
+2023-02-16,17.5,CIG,CIG: Ông Nguyễn Văn Đạt đã mua 7.620.000 cp trở thành CĐL,Thursday,nguyễn_văn_đạt đã mua cp trở_thành
+2023-02-02,16.5,CIG,CIG: Nghị quyết HĐQT v/v thông qua nội dung phiên họp HĐQT ngày 02/02/2023,Thursday,nghị_quyết hđqt v v thông_qua nội_dung phiên họp hđqt
+2023-02-02,16.5,CIG,CIG: Nghị quyết HĐQT v/v thông qua nội dung chốt DSCĐ có quyền tham dự ĐHĐCĐTN 2023,Thursday,nghị_quyết hđqt v v thông_qua nội_dung chốt dscđ có quyền tham_dự
+2023-01-31,15.0,CIG,CIG: Giải trình LNST quý 4/2022 so với cùng kỳ năm trước,Tuesday,giải_trình lnst so cùng kỳ trước
+2023-01-31,15.0,CIG,CIG: Giải trình phương án khắc phục tình trạng chứng khoán bị cảnh báo,Tuesday,giải_trình phương_án khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-01-18,18.0,CIG,CIG: Báo cáo tình hình quản trị công ty năm 2022,Wednesday,báo_cáo tình_hình quản_trị công_ty
+2023-02-14,9.2,CLG,CLG: Quyết định về việc đưa vào diện cảnh báo,Tuesday,quyết_định việc đưa diện
+2023-02-14,9.2,CLG,CLG: Thông báo về việc điều chỉnh tình trạng chứng khoán,Tuesday,thông_báo việc điều_chỉnh tình_trạng
+2023-02-06,19.1,CMI,CMI: Giải trình nguyên nhân báo cáo KQKD quý 4.2022 lợi nhuận sau thuế âm,Monday,giải_trình nguyên_nhân báo_cáo kqkd lợi_nhuận sau thuế
+2023-01-31,17.1,CMI,CMI: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-01-16,17.2,CMI,CMI: Nghị quyết HĐQT v/v lựa chọn đơn vị kiểm toán BCTC năm tài chính kết thúc ngày 31/12/2022,Monday,nghị_quyết hđqt v v lựa_chọn đơn_vị kiểm_toán bctc kết_thúc
+2023-02-22,17.2,CPI,CPI: Nghị quyết HĐQT v/v tổ chức ĐHĐCĐ TN 2023,Wednesday,nghị_quyết hđqt v v tổ_chức đhđcđ
+2023-02-17,10.0,CPI,CPI: CTCP Cảng Quảng Ninh đăng ký bán 50.187 CP,Friday,ctcp cảng quảng_ninh đăng_ký bán
+2023-01-19,16.5,CPI,CPI: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-02-14,9.4,CTA,CTA: Thông báo về việc điều chỉnh tình trạng chứng khoán,Tuesday,thông_báo việc điều_chỉnh tình_trạng
+2023-02-14,9.2,CTA,CTA: Quyết định đưa vào diện đình chỉ giao dịch,Tuesday,quyết_định đưa diện đình_chỉ
+2023-01-31,17.3,CYC,CYC: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-01-31,17.3,DCT,DCT: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-02-22,17.1,DDM,DDM: Thông báo về việc chốt Danh sách cổ đông dự họp ĐHĐCĐ thường niên năm 2023,Wednesday,thông_báo việc chốt danh_sách cổ_đông dự họp đhđcđ thường_niên
+2023-02-01,15.1,DDM,DDM: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-27,17.2,DDM,DDM: Giải trình liên quan đến Báo cáo tài chính Quý 4/2022,Friday,giải_trình liên_quan báo_cáo tài_chính
+2023-02-17,15.4,DHB,DHB: Bổ nhiệm ông Nguyễn Đình Hồng giữ chức Phó TGĐ từ 16/02/2023,Friday,bổ_nhiệm nguyễn_đình_hồng giữ chức tgđ
+2023-02-10,19.0,DHB,"Lãi cao kỷ lục năm 2022, nhưng các doanh nghiệp ngành phân bón đã bước qua đỉnh lợi nhuận?",Saturday,lãi cao kỷ_lục doanh_nghiệp ngành phân_bón đã bước qua đỉnh
+2023-01-31,17.1,DHB,DHB: Giải trình liên quan đến báo cáo tài chính Quý 4/2022,Tuesday,giải_trình liên_quan báo_cáo tài_chính
+2023-01-31,17.1,DHB,DHB: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-01-30,8.0,DHB,Đạm Hà Bắc lãi kỷ lục gần 1.800 tỷ đồng trong năm 2022,Monday,đạm hà bắc lãi kỷ_lục gần
+2023-02-14,9.4,DIC,DIC: Thông báo về việc điều chỉnh tình trạng chứng khoán,Tuesday,thông_báo việc điều_chỉnh tình_trạng
+2023-02-14,9.4,DIC,DIC: Quyết định đưa vào diện cảnh báo,Tuesday,quyết_định đưa diện
+2023-01-19,15.0,DIC,DIC: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-02-07,16.0,DLG,"DLG: Quyết định của HĐQT về chủ trương thực hiện các hợp đồng, giao dịch với các bên liên quan",Tuesday,quyết_định hđqt chủ_trương thực_hiện hợp_đồng giao_dịch bên
+2023-02-03,17.5,DLG,DLG: Đính chính BCTC HN quý 4/2022,Friday,đính_chính bctc hn
+2023-01-31,15.1,DLG,DLG: Giải trình BCTC quý 4/2022 so với cùng kỳ năm trước,Tuesday,giải_trình bctc so cùng kỳ trước
+2023-01-31,14.5,DLG,DLG: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,9.5,DLG,Đức Long Gia Lai (DLG): Quý 4 lỗ kỷ lục gần 500 tỷ đồng do trích lập dự phòng,Tuesday,đức long gia lai lỗ kỷ_lục gần trích lập
+2023-01-18,9.5,DLG,"Kinh doanh thua lỗ, Đức Long Gia Lai (DLG) xin lùi thời gian trả nợ hơn 181 tỷ đồng",Wednesday,kinh_doanh thua_lỗ đức long gia lai xin lùi thời_gian trả nợ hơn
+2023-02-01,15.0,DLR,DLR: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-18,16.1,DLR,DLR: Giải trình lợi nhuận sau thuế BCTC quý 4/2022,Wednesday,giải_trình lợi_nhuận sau thuế bctc
+2023-02-24,17.4,DP2,DP2: Chốt danh sách cổ đông để tổ chức Đại hội đồng cổ đông thường niên năm 2023,Friday,chốt danh_sách cổ_đông tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-01-12,17.0,DP2,DP2: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-01-31,15.0,DXV,DXV: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-17,16.2,DXV,DXV: Giải trình chênh lệch lợi nhuận sau thuế quý 4/2022 so với quý 4/2021,Tuesday,giải_trình chênh_lệch lợi_nhuận sau thuế so
+2023-01-17,16.1,DXV,DXV: Các biện pháp và lộ trình khắc phục lỗ lũy kế tại 31/12/2022,Tuesday,biện_pháp lộ_trình khắc_phục lỗ lũy kế
+2023-02-27,16.1,FLC,ĐHCĐ bất thường của Tập đoàn FLC vào ngày 4/3 sắp tới sẽ bàn về vấn đề gì?,Monday,đhcđ bất_thường tập_đoàn sắp tới sẽ bàn vấn_đề
+2023-02-27,13.4,FLC,Đã có những lãnh đạo cấp cao nào rời FLC từ ngày “định mệnh”?,Monday,đã có lãnh_đạo cấp cao rời
+2023-02-27,11.1,FLC,Tổng Giám đốc FLC Bùi Hải Huyền và hai cấp phó đồng loạt xin từ nhiệm,Monday,tổng_giám_đốc bùi_hải huyền cấp đồng_loạt xin
+2023-02-24,17.0,FLC,FLC: Thông báo về trạng thái chứng khoán của CTCP Tập đoàn FLC,Friday,thông_báo trạng_thái chứng_khoán ctcp tập_đoàn
+2023-02-24,17.0,FLC,"FLC: Ngày 03/03/2023, giao dịch 709.997.807 cổ phiếu đăng ký giao dịch",Friday,cổ_phiếu đăng_ký
+2023-02-24,16.5,FLC,FLC: Quyết định về việc đình chỉ giao dịch đối với cổ phiếu của CTCP Tập đoàn FLC,Friday,quyết_định việc đình_chỉ giao_dịch đối_với cổ_phiếu ctcp tập_đoàn
+2023-02-24,16.5,FLC,FLC: Quyết định chấp thuận đăng ký giao dịch của CTCP Tập đoàn FLC,Friday,quyết_định chấp_thuận đăng_ký giao_dịch ctcp tập_đoàn
+2023-02-22,15.4,FLC,Vì sao cổ phiếu FLC chưa giao dịch trên UPCoM?,Wednesday,vì_sao cổ_phiếu chưa giao_dịch
+2023-02-17,19.0,FLC,"Gần 710 triệu cổ phiếu FLC sẽ chuyển dữ liệu đăng ký, lưu ký về UPCOM từ ngày 22/2",Sunday,gần cổ_phiếu sẽ chuyển dữ_liệu đăng_ký lưu ký upcom
+2023-02-17,16.0,FLC,"Tổng giám đốc FLC gửi lời xin lỗi cổ đông, giãi bày về nỗ lực nhằm không huỷ niêm yết cổ phiếu nhưng không thành công",Friday,tổng_giám_đốc gửi lời xin_lỗi cổ_đông giãi_bày nỗ_lực nhằm không_huỷ niêm_yết cổ_phiếu
+2023-02-15,11.2,FLC,FLC: Thông báo v/v hủy niêm yết đối với cổ phiếu,Wednesday,thông_báo v v hủy niêm_yết đối_với
+2023-02-14,17.2,FLC,FLC kiến nghị cơ quan quản lý xem xét lại quyết định hủy niêm yết cổ phiếu,Tuesday,kiến_nghị cơ_quan quản_lý xem_xét lại quyết_định hủy niêm_yết
+2023-02-14,17.1,FLC,"Trong vòng chưa đầy 1 năm, hơn 20 dự án có liên quan đến Tập đoàn FLC bị thu hồi, chấm dứt hoạt động...",Tuesday,vòng chưa đầy hơn có liên_quan tập_đoàn bị thu_hồi chấm_dứt
+2023-02-14,14.2,FLC,"12 năm thăng trầm trên sàn chứng khoán của FLC: Lọt rổ hàng loạt quỹ đầu tư, 'vua thanh khoản' cho đến hủy niêm yết",Tuesday,sàn chứng_khoán lọt rổ hàng_loạt quỹ đầu_tư vua thanh khoản hủy
+2023-02-14,13.4,FLC,"FLC: Tài sản tăng phi mã từ 200 tỷ lên gần 40.000 tỷ sau 10 năm, ngậm ngùi hủy niêm yết với khoản lỗ 1.900 tỷ đồng",Tuesday,tài_sản tăng phi_mã lên gần sau hủy niêm_yết khoản lỗ
+2023-02-14,10.3,FLC,Cổ phiếu FLC chính thức bị hủy niêm yết từ ngày 20/2/2023,Tuesday,cổ_phiếu chính_thức bị hủy niêm_yết
+2023-02-14,9.4,FLC,FLC: Quyết định hủy niêm yết cổ phiếu từ 20.2.2023,Tuesday,quyết_định hủy niêm_yết cổ_phiếu
+2023-02-13,14.4,FLC,"FLC: Thời gian, địa điểm và link cung cấp tài liệu họp ĐHĐCĐ bất thường năm 2023 lần 2",Monday,thời_gian địa_điểm link cung_cấp tài_liệu họp đhđcđ bất_thường
+2023-02-10,19.0,FLC,FLC chốt ngày tổ chức ĐHĐCĐ bất thường lần 2,Saturday,chốt đhđcđ bất_thường
+2023-02-07,14.4,FLC,FLC: Cuộc họp ĐHĐCĐ bất thường lần 1 năm 2023 không đủ điều kiện tiến hành,Tuesday,cuộc họp đhđcđ điều_kiện
+2023-02-03,19.0,FLC,"Đại hội cổ đông bất thường của FLC không đủ điều kiện tiến hành, bà Bùi Hải Huyền là lãnh đạo duy nhất của công ty xuất hiện",Sunday,đại_hội cổ_đông bất_thường không_đủ điều_kiện tiến_hành bùi hải huyền là lãnh_đạo duy_nhất công_ty
+2023-02-03,19.0,FLC,"Tập đoàn Hòa Bình, Apax Holdings, FLC, Vĩnh Hoàn... bị HoSE 'tuýt còi' vì chưa công bố báo cáo tài chính quý 4",Saturday,tập_đoàn hòa_bình apax holdings vĩnh hoàn_bị hose tuýt còi chưa công_bố báo_cáo tài_chính
+2023-01-31,14.5,FLC,FLC: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-16,20.0,FLC,"FLC tổ chức ĐHĐCĐ bất thường, miễn nhiệm chức vụ của ông Đặng Tất Thắng",Monday,tổ_chức đhđcđ bất_thường miễn_nhiệm chức_vụ đặng
+2023-01-16,10.3,FLC,FLC: CBTT họp ĐHĐCĐ bất thường năm 2023,Monday,cbtt họp đhđcđ bất_thường
+2023-01-12,14.4,FLC,"Tập đoàn FLC thông báo thay đổi nhân sự, bộ phận Kiểm toán nội bộ chính thức không còn ai",Thursday,tập_đoàn thông_báo thay_đổi nhân_sự bộ_phận kiểm_toán nội_bộ chính_thức không_còn
+2023-01-12,14.2,FLC,FLC: Miễn nhiệm ông Nguyễn Mạnh Cường - Trưởng ban Kiểm toán nội bộ từ 10.1.2023,Thursday,miễn_nhiệm nguyễn_mạnh cường trưởng_ban kiểm_toán nội_bộ
+2023-01-11,9.4,FLC,FLC: CBTT nhận đơn từ nhiệm bà Trần Thị Mỹ Dung - TV bộ phận KTNB,Wednesday,cbtt nhận đơn nhiệm trần thị mỹ_dung tv bộ_phận
+2023-01-11,9.1,FLC,Tất cả thành viên Bộ phận Kiểm toán nội bộ FLC xin từ chức,Wednesday,tất_cả thành_viên bộ_phận kiểm_toán nội_bộ xin
+2023-02-24,16.2,GAB,GAB: Giải trình và phương án khắc phục tình trạng chứng khoán bị đình chỉ giao dịch,Friday,giải_trình phương_án khắc_phục tình_trạng chứng_khoán bị đình_chỉ
+2023-02-21,16.3,GAB,GAB: Chuyển cp từ diện hạn chế giao dịch sang diện đình chỉ giao dịch,Tuesday,chuyển cp diện hạn_chế giao_dịch sang diện đình_chỉ
+2023-02-21,16.3,GAB,GAB: Quyết định v/v chuyển cổ phiếu từ diện hạn chế giao dịch sang diện đình chỉ giao dịch từ 27.2.2023,Tuesday,quyết_định v v chuyển cổ_phiếu diện hạn_chế giao_dịch sang diện đình_chỉ giao_dịch
+2023-02-16,20.3,GAB,Thêm một cổ phiếu “họ” FLC vào diện đình chỉ giao dịch,Thursday,thêm cổ_phiếu diện đình_chỉ
+2023-02-16,18.2,GAB,GAB: Cổ phiếu GAB rơi vào diện đình chỉ giao dịch,Thursday,cổ_phiếu rơi diện đình_chỉ
+2023-02-10,16.0,GAB,GAB: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 11,Friday,giấy chứng_nhận đăng_ký doanh_nghiệp thay_đổi thứ
+2023-01-30,17.0,GAB,GAB: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-01-18,9.5,GAB,Công ty khai khoáng và quản lý tài sản FLC (GAB) chính thức có Chủ tịch mới,Wednesday,công_ty khai_khoáng quản_lý_tài_sản chính_thức có chủ_tịch mới
+2023-01-17,17.5,GAB,GAB: Bổ nhiệm ông Lưu Văn Thịnh giữ chức Chủ tịch HĐQT từ 17.1.2023,Tuesday,bổ_nhiệm lưu văn thịnh giữ chức chủ_tịch hđqt
+2023-01-17,16.3,GAB,GAB: Biên bản họp và Nghị quyết ĐHĐCĐ bất thường năm 2022,Tuesday,biên_bản họp nghị_quyết đhđcđ bất_thường
+2023-01-09,15.1,GAB,"GAB: Danh sách liên quan đến ứng viên Thành viên HĐQT, Thành viên BKS",Monday,danh_sách liên_quan ứng_viên thành_viên hđqt thành_viên
+2023-01-27,16.1,GGG,GGG: Báo cáo quản trị công ty năm 2022,Friday,báo_cáo quản_trị công_ty
+2023-02-15,7.1,HAG,Hoàng Anh Gia Lai tiếp tục đạt gần 100 tỷ lợi nhuận trong tháng đầu năm 2023,Wednesday,hoàng gia lai tiếp_tục đạt gần lợi_nhuận đầu
+2023-02-13,8.2,HAG,"Đằng sau việc Bầu Đức “bán” 35% vốn Bapi HAGL: Muốn là DN đầu tiên “từ trang trại đến bàn ăn” có đủ từ thịt, rau, đến tỏi, ớt",Monday,đằng sau việc bầu đức bán vốn bapi hagl muốn là dn đầu_tiên trang_trại bàn ăn có đủ thịt rau tỏi
+2023-02-10,19.0,HAG,"Chủ tịch Carabao Group: 'Dù kết quả với VPF ra sao, chúng tôi vẫn tài trợ cho HAGL và bầu Đức'",Sunday,chủ_tịch carabao group kết_quả vpf ra_sao chúng_tôi vẫn tài_trợ hagl bầu
+2023-02-09,16.5,HAG,HAG: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 31,Thursday,giấy chứng_nhận đăng_ký doanh_nghiệp thay_đổi thứ
+2023-02-06,8.2,HAG,"Bầu Đức lần đầu đón 'đúng sóng': Giá sầu riêng tăng nóng từng ngày, vượt 200.000 đồng/kg, HAGL sẵn sàng vườn sầu riêng 1.000ha",Monday,bầu đầu đón đúng sóng giá sầu_riêng tăng nóng từng vượt hagl sẵn_sàng vườn
+2023-02-03,19.0,HAG,"Kết lại năm 2022 nuôi heo của các 'đại gia': ThaiHoldings nhảy vào đúng lúc thị trường xuống, Hoà Phát năm thứ 3 tăng trưởng âm, Dabaco và BaF bất ngờ báo lỗ",Saturday,kết lại nuôi heo đại_gia thaiholdings nhảy đúng lúc thị_trường xuống hoà phát thứ âm dabaco baf bất_ngờ báo
+2023-02-02,10.5,HAG,Hoàng Anh Gia Lai (HAGL) đưa đề xuất mới tại V-League 2023: Bố trí phòng riêng cho những khách uống nước tăng lực Carabao,Thursday,hoàng gia lai hagl đưa đề_xuất mới v league bố_trí phòng riêng khách uống nước tăng_lực
+2023-02-02,7.1,HAG,"Bán gần 300.000 con heo và 300.000 tấn chuối chưa đủ trả lãi vay, “bí mật” cho mức lãi đều đặn trăm tỷ/tháng của Hoàng Anh Gia Lai là gì?",Thursday,bán gần heo chuối chưa đủ trả_lãi vay bí_mật mức lãi đều_đặn hoàng_anh gia lai là
+2023-02-01,16.4,HAG,HAG: Biện pháp và lộ trình khắc phục tình trạng chứng khoán bị cảnh báo,Wednesday,biện_pháp lộ_trình khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-01-30,14.3,HAG,HAG: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-01-20,9.4,HAG,Cục thuế Gia Lai xử phạt Hoàng Anh Gia Lai (HAGL) hơn 260 triệu đồng,Friday,thuế gia lai xử_phạt hoàng_anh gia lai hagl hơn
+2023-01-19,20.4,HAG,"Bapi HAGL - Công ty chủ quản Heo ăn chuối sắp phát hành thêm 5 triệu cổ phiếu, sẽ không còn là công ty con của HAGL",Thursday,bapi hagl công_ty chủ_quản heo ăn chuối sắp phát_hành thêm cổ_phiếu sẽ không_còn là công_ty_con
+2023-01-19,17.3,HAG,HAG: Quyết định của Cục thuế Tỉnh Gia Lai v/v xử phạt vi phạm hành chính về thuế,Thursday,quyết_định thuế tỉnh gia lai v v xử_phạt vi_phạm hành_chính thuế
+2023-01-18,17.4,HAG,HAG: Công văn của UBCKNN về chấp thuận chào bán riêng lẻ cổ phiếu,Wednesday,công_văn ubcknn chấp_thuận chào bán riêng_lẻ
+2023-01-18,13.2,HAG,"HAGL mời cổ đông nắm trên 200.000 cổ phiếu gặp gỡ ban lãnh đạo đầu năm mới, công bố nhà tài trợ mới cho CLB bóng đá",Wednesday,hagl mời cổ_đông nắm cổ_phiếu gặp_gỡ ban lãnh_đạo đầu mới công_bố nhà tài_trợ mới clb
+2023-01-12,12.5,HAG,"Hoàng Anh Gia Lai (HAGL) bán bánh chưng Tết nhân Heo ăn chuối Bapi, giá 90.000 đồng/chiếc",Thursday,hoàng gia lai hagl bán bánh_chưng tết heo ăn chuối giá đồng
+2023-01-09,17.1,HAG,"Hoàng Anh Gia Lai (HAGL) lãi ngàn tỷ trở lại sau 8 năm, bầu Đức hào phóng thưởng đậm cho nhân viên, mức cao nhất 150 triệu đồng thuộc về người 'trồng chuối'",Monday,hoàng gia lai hagl lãi trở_lại sau đức hào_phóng thưởng đậm nhân_viên mức cao thuộc người trồng chuối
+2023-01-06,19.0,HAG,Triển vọng sáng năm 2023 của doanh nghiệp sản xuất thịt,Sunday,triển_vọng sáng doanh_nghiệp sản_xuất thịt
+2023-01-30,17.1,HAI,"HAI: Giải trình nguyên nhân, biện pháp khắc phục tình trạng chứng khoán bị đình chỉ giao dịch",Monday,giải_trình nguyên_nhân biện_pháp khắc_phục tình_trạng chứng_khoán bị đình_chỉ
+2023-01-30,16.3,HAI,HAI: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-01-12,13.4,HAI,Bà Bùi Hải Huyền - Phó Chủ tịch thường trực kiêm Tổng giám đốc FLC từ nhiệm vị trí thành viên HĐQT Nông dược H.A.I,Thursday,bùi hải huyền chủ_tịch thường_trực kiêm tổng_giám_đốc nhiệm vị_trí thành_viên hđqt nông_dược h a
+2023-01-12,9.3,HAI,HAI: CBTT nhận đơn từ nhiệm bà Bùi Hải Huyền - TVHĐQT,Thursday,cbtt nhận đơn nhiệm bùi hải huyền
+2023-02-24,16.2,HAS,HAS: Nghị quyết HĐQT về kế hoạch tổ chức họp ĐHĐCĐ thường niên 2023 và kế hoạch tiền lương,Friday,nghị_quyết hđqt kế_hoạch tổ_chức họp đhđcđ thường_niên kế_hoạch
+2023-02-17,16.5,HAS,HAS: Đính chính báo cáo tình hình quản trị công ty năm 2022,Friday,đính_chính báo_cáo tình_hình quản_trị công_ty
+2023-01-31,16.4,HAS,HAS: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,15.0,HAS,"HAS: Nghị quyết HĐQT v/v thông qua dự kiến kế hoạch doanh thu, lợi nhuận sau thuế năm 2023",Tuesday,nghị_quyết hđqt v v thông_qua dự_kiến kế_hoạch doanh_thu lợi_nhuận sau thuế
+2023-01-19,16.4,HAS,HAS: Giải trình biến động lợi nhuận BCTC HN và riêng quý 4/2022 so với cùng kỳ năm trước,Thursday,giải_trình biến_động lợi_nhuận bctc hn riêng so cùng kỳ trước
+2023-01-11,16.3,HAS,HAS: Quyết định của Cục thuế Hà Nội v/v xử lý vi phạm hành chính về thuế,Wednesday,quyết_định thuế hà nội v v xử_lý vi_phạm hành_chính thuế
+2023-01-16,15.4,HFX,HFX: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-02-03,19.0,HKB,HKB: Báo cáo quản trị công ty năm 2022,Sunday,báo_cáo quản_trị công_ty
+2023-02-22,14.1,HLG,HLG: Cổ đông lớn Nguyễn Văn Được đã mua 1.338.580 CP,Wednesday,cổ_đông lớn nguyễn_văn được đã mua
+2023-02-22,14.0,HLG,HLG: Anh bà Lê Ngọc Ánh - Phó Tổng Giám đốc đã mua 1.422.410 CP,Wednesday,lê ngọc ánh tổng_giám_đốc đã mua
+2023-02-22,13.4,HLG,HLG: Chị dâu bà Lê Ngọc Ánh - Phó Tổng Giám đốc đã bán 1.422.410 CP,Wednesday,dâu lê ngọc ánh tổng_giám_đốc đã bán
+2023-02-15,9.4,HLG,HLG: Anh bà Lê Ngọc Ánh - Phó Tổng Giám đốc đăng ký mua 1.422.410 CP,Wednesday,lê ngọc ánh tổng_giám_đốc đăng_ký mua
+2023-02-15,9.4,HLG,HLG: Chị bà Lê Ngọc Ánh - Phó Tổng Giám đốc đăng ký bán 1.422.410 CP,Wednesday,lê ngọc ánh tổng_giám_đốc đăng_ký bán
+2023-02-14,15.2,HLG,HLG: Chị dâu bà Lê Ngọc Ánh - Phó Tổng Giám đốc chưa bán CP,Tuesday,dâu lê ngọc ánh tổng_giám_đốc chưa bán
+2023-02-14,15.2,HLG,HLG: Anh bà Lê Ngọc Ánh - Phó Tổng Giám đốc chưa mua CP,Tuesday,lê ngọc ánh tổng_giám_đốc chưa mua
+2023-02-14,9.4,HLG,HLG: Thông báo về việc điều chỉnh tình trạng chứng khoán,Tuesday,thông_báo việc điều_chỉnh tình_trạng
+2023-02-14,9.3,HLG,HLG: Quyết định đưa vào diện đình chỉ giao dịch,Tuesday,quyết_định đưa diện đình_chỉ
+2023-01-31,17.0,HLG,HLG: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-01-31,17.0,HLG,HLG: Giải trình liên quan đến Báo cáo tài chính Quý 4/ 2022 của công ty mẹ,Tuesday,giải_trình liên_quan báo_cáo tài_chính công_ty mẹ
+2023-01-12,16.3,HLG,HLG: Chị dâu bà Lê Ngọc Ánh - Phó Tổng Giám đốc đăng ký bán 1.422.410 CP,Thursday,dâu lê ngọc ánh tổng_giám_đốc đăng_ký bán
+2023-01-12,16.3,HLG,HLG: Anh bà Lê Ngọc Ánh - Phó Tổng Giám đốc đăng ký mua 1.422.410 CP,Thursday,lê ngọc ánh tổng_giám_đốc đăng_ký mua
+2023-01-12,16.0,HLG,HLG: Ông Phạm Phúc Toại - Chủ tịch HĐQT đã bán 2.813.997 CP,Thursday,phạm phúc toại chủ_tịch hđqt đã bán
+2023-01-12,16.0,HLG,HLG: Bà Phạm Thúy An - Phó Chủ tịch HĐQT đã mua 1.137.500 CP,Thursday,phạm thúy an phó_chủ_tịch hđqt đã mua
+2023-01-12,15.4,HLG,HLG: Ông Phạm Hoàng Long - Phó Tổng Giám đốc đã mua 831.500 CP,Thursday,phạm hoàng long tổng_giám_đốc đã mua
+2023-01-12,15.4,HLG,HLG: Con ông Phạm Phúc Toại - Chủ tịch HĐQT đã mua 844.997 CP,Thursday,con phạm phúc toại chủ_tịch hđqt đã mua
+2023-02-23,14.2,HLY,HLY: Nghị quyết HĐQT v/v chốt danh sách cổ đông tham dự ĐHĐCĐ TN 2023,Thursday,nghị_quyết hđqt v v chốt danh_sách cổ_đông tham_dự đhđcđ
+2023-02-17,15.3,HLY,HLY: Báo cáo quản trị công ty năm 2022,Friday,báo_cáo quản_trị công_ty
+2023-01-31,13.1,HNG,"HAGL Agrico (HNG) lỗ kỷ lục 2.800 tỷ trong quý 4/2022, gần 7.000 tỷ lỗ luỹ kế đã 'ngốn' hơn nửa vốn chủ",Tuesday,hagl agrico lỗ kỷ_lục gần lỗ luỹ kế đã ngốn hơn nửa vốn chủ
+2023-01-31,8.4,HNG,HNG: Giải trình biện pháp và lộ trình khắc phục tình trạng chứng khoán bị cảnh báo,Tuesday,giải_trình biện_pháp lộ_trình khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-01-31,8.4,HNG,HNG: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-13,10.2,HNG,HAGL Agrico (HNG) xin gia hạn thời gian nộp BCTC quý 4/2022,Friday,hagl agrico xin gia_hạn thời_gian nộp bctc
+2023-01-13,9.0,HNG,HNG: Xin gia hạn thời gian nộp BCTC quý 4 năm 2022 và Báo cáo tình hình quản trị năm 2022,Friday,xin gia_hạn thời_gian nộp bctc báo_cáo tình_hình quản_trị
+2023-02-14,9.4,HNM,HNM: Thông báo về việc điều chỉnh tình trạng chứng khoán,Tuesday,thông_báo việc điều_chỉnh tình_trạng
+2023-02-14,9.2,HNM,HNM: Quyết định đưa ra khỏi diện hạn chế giao dịch,Tuesday,quyết_định đưa ra khỏi diện hạn_chế
+2023-01-30,17.0,HNM,HNM: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-02-24,16.2,HOT,HOT: Nghị quyết HĐQT v/v tổ chức họp ĐHĐCĐ thường niên 2023,Friday,nghị_quyết hđqt v v tổ_chức họp đhđcđ
+2023-02-09,9.4,HOT,Loạt doanh nghiệp đối mặt với án hủy niêm yết,Thursday,doanh_nghiệp đối_mặt án hủy
+2023-02-08,19.3,HOT,"Loạt doanh nghiệp lỗ triền miên, cổ phiếu vào 'tầm ngắm' phải rời sàn",Wednesday,doanh_nghiệp lỗ triền_miên cổ_phiếu tầm ngắm phải rời sàn
+2023-02-06,16.0,HOT,HOT: Báo cáo phương án khắc phục tình trạng cổ phiếu có khả năng hủy niêm yết,Monday,báo_cáo phương_án khắc_phục tình_trạng cổ_phiếu có khả_năng hủy
+2023-02-02,16.4,HOT,HOT: Nghị quyết HĐQT v/v tiếp tục tạm ngừng hoạt động đối với 02 Văn phòng đại diện,Thursday,nghị_quyết hđqt v v tiếp_tục tạm ngừng hoạt_động đối_với văn_phòng
+2023-02-02,16.4,HOT,HOT: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 11,Thursday,giấy chứng_nhận đăng_ký doanh_nghiệp thay_đổi thứ
+2023-02-01,17.3,HOT,HOT: Lưu ý Công ty về khả năng hủy niêm yết,Wednesday,lưu_ý công_ty khả_năng hủy
+2023-01-19,17.2,HOT,HOT: Giải trình về tình trạng chứng khoán bị kiểm soát,Thursday,giải_trình tình_trạng chứng_khoán bị kiểm_soát
+2023-01-19,17.2,HOT,HOT: Giải trình KQKD quý 4/2022 so với cùng kỳ năm trước,Thursday,giải_trình kqkd so cùng kỳ trước
+2023-01-13,16.5,HOT,HOT: Bổ nhiệm bà Nguyễn Thị Ngọc Lan giữ chức Tổng GĐ từ 1.1.2023,Friday,bổ_nhiệm nguyễn_thị ngọc_lan giữ chức gđ
+2023-01-12,17.5,HOT,HOT: Báo cáo tình hình quản trị công ty năm 2022,Thursday,báo_cáo tình_hình quản_trị công_ty
+2023-01-18,11.1,HPI,HPI: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-02-14,7.5,HSA,"HSA: 3.3.2023, ngày GDKHQ Đại hội đồng cổ đông thường niên năm 2023",Tuesday,đại_hội_đồng cổ_đông thường_niên
+2023-02-06,15.2,HSA,HSA: Nghị quyết HĐQT v/v chốt danh sách cổ đông tổ chức ĐHĐCĐ TN 2023,Monday,nghị_quyết hđqt v v chốt danh_sách cổ_đông tổ_chức đhđcđ
+2023-01-09,15.4,HSA,HSA: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-01-18,15.4,HSI,HSI: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-02-13,15.0,HTT,HTT: Ông Đào Văn Chiến - Chủ tịch HĐQT đăng ký mua 630.900 CP,Monday,đào văn chiến chủ_tịch hđqt đăng_ký mua
+2023-02-13,14.2,HTT,HTT: Ông Đào Văn Chiến - Chủ tịch HĐQT chưa mua CP,Monday,đào văn chiến chủ_tịch hđqt chưa mua
+2023-01-19,16.5,HTT,HTT: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-01-12,10.0,HTT,HTT: Ông Đào Văn Chiến - Chủ tịch HĐQT đăng ký mua 630.900 CP,Thursday,đào văn chiến chủ_tịch hđqt đăng_ký mua
+2023-01-11,13.5,HTT,HTT: Ông Đào Văn Chiến - Chủ tịch HĐQT chưa mua CP,Wednesday,đào văn chiến chủ_tịch hđqt chưa mua
+2023-02-15,11.3,HU1,HU1: Bổ sung thông tin trên Báo cáo quản trị Công ty năm 2022,Wednesday,bổ_sung thông_tin báo_cáo quản_trị công_ty
+2023-02-15,11.2,HU1,HU1: Nghị quyết HĐQT v/v góp vốn thành lập công ty liên kết,Wednesday,nghị_quyết hđqt v v góp vốn thành_lập công_ty
+2023-02-13,13.2,HU1,HU1: Nghị quyết và Biên bản kiểm phiếu ĐHĐCĐ lấy ý kiến cổ đông bằng văn bản,Monday,nghị_quyết biên_bản kiểm_phiếu đhđcđ lấy ý_kiến cổ_đông văn_bản
+2023-01-31,16.0,HU1,HU1: Giải trình khắc phục tình trạng chứng khoán bị kiểm soát,Tuesday,giải_trình khắc_phục tình_trạng chứng_khoán bị kiểm_soát
+2023-01-18,16.4,HU1,HU1: Giải trình chênh lệch LNST quý 4/2022 so với cùng kỳ năm trước,Wednesday,giải_trình chênh_lệch lnst so cùng kỳ trước
+2023-01-17,10.4,HU1,HU1: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-17,10.4,HU1,HU1: Tài liệu họp ĐHĐCĐ bất thường năm 2023 lấy ý kiến cổ đông bằng văn bản,Tuesday,tài_liệu họp đhđcđ lấy ý_kiến cổ_đông văn_bản
+2023-01-27,13.2,HU3,HU3: Giải trình khắc phục tình trạng chứng khoán bị kiểm soát,Friday,giải_trình khắc_phục tình_trạng chứng_khoán bị kiểm_soát
+2023-01-18,14.2,HU3,HU3: Báo cáo tình hình quản trị công ty năm 2022,Wednesday,báo_cáo tình_hình quản_trị công_ty
+2023-02-14,9.5,HVG,HVG: Thông báo điều chỉnh tình trạng chứng khoán,Tuesday,thông_báo điều_chỉnh tình_trạng
+2023-02-14,9.3,HVG,HVG: Quyết định đưa vào diện đình chỉ giao dịch,Tuesday,quyết_định đưa diện đình_chỉ
+2023-01-09,13.4,HVG,HVG: Cổ đông lớn Phạm Thị Thu Hà đã mua 785.000 CP,Monday,cổ_đông lớn phạm thị thu hà đã mua
+2023-02-14,9.2,HVN,Hàng loạt cổ phiếu có nguy cơ bị huỷ niêm yết do nhiều năm thua lỗ triền miên,Tuesday,hàng_loạt cổ_phiếu có nguy_cơ bị huỷ niêm_yết nhiều
+2023-02-09,16.4,HVN,Năm kinh doanh ‘buồn’ của 2 ông lớn hàng không,Thursday,buồn lớn
+2023-02-09,9.4,HVN,Loạt doanh nghiệp đối mặt với án hủy niêm yết,Thursday,doanh_nghiệp đối_mặt án hủy
+2023-02-03,19.0,HVN,Vietnam Airlines muốn bán Skypec - công ty nhiên liệu hàng không lớn nhất Việt Nam để 'từng bước xoá lỗ'?,Sunday,vietnam airlines muốn bán skypec công_ty nhiên_liệu hàng_không lớn nhất việt nam từng bước xoá lỗ
+2023-02-02,14.2,HVN,HoSE tiếp tục lưu ý khả năng hủy niêm yết cổ phiếu của Vietnam Airlines (HVN),Thursday,hose tiếp_tục lưu_ý khả_năng hủy niêm_yết cổ_phiếu vietnam airlines
+2023-02-02,10.4,HVN,HVN: Lưu ý về khả năng hủy niêm yết,Thursday,lưu_ý khả_năng hủy
+2023-01-30,13.0,HVN,Lộ diện các doanh nghiệp lỗ lớn năm 2022,Monday,lộ diện doanh_nghiệp lỗ lớn
+2023-01-23,8.0,HVN,Vietnam Airlines lỗ lũy kế hơn 34.000 tỷ đồng,Monday,vietnam airlines lỗ lũy kế hơn
+2023-01-19,17.1,HVN,HVN: Giải trình LNST quý 4/2022 và lộ trình khắc phục tình trạng bị kiểm soát,Thursday,giải_trình lnst lộ_trình khắc_phục tình_trạng bị kiểm_soát
+2023-01-17,18.0,HVN,HVN: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-02-22,13.5,ISG,ISG: Bổ nhiệm ông Nguyễn Ngọc Minh giữ chức Chủ tịch HĐQT từ 05/05/2023,Wednesday,bổ_nhiệm nguyễn_ngọc_minh giữ chức chủ_tịch hđqt
+2023-01-16,15.5,ISG,ISG: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-02-24,13.2,ITA,"ITA: 24.3.2023, ngày GDKHQ tổ chức ĐHĐCĐ thường niên năm 2023",Friday,tổ_chức đhđcđ thường_niên
+2023-02-21,9.5,ITA,ITA: Ngày ĐKCC để thực hiện quyền tham dự ĐHĐCĐ thường niên 2023,Tuesday,thực_hiện quyền tham_dự đhđcđ
+2023-02-14,17.3,ITA,ITA: Nhắc nhở chậm công bố Quyết định của HĐQT v/v thoái vốn tại công ty liên kết,Tuesday,nhắc_nhở chậm công_bố quyết_định hđqt v v thoái vốn công_ty
+2023-02-08,10.4,ITA,Tân Tạo (ITA) thoái vốn tại Phát triển Năng lượng Tân Tạo và Đầu tư & Phát triển Đô thị Tân Tạo,Wednesday,tân_tạo thoái vốn phát_triển năng_lượng tân_tạo đầu_tư phát_triển đô_thị
+2023-02-07,17.2,ITA,ITA: Quyết định của HĐQT v/v thoái vốn tại CTCP Đầu tư & Phát triển Đô thị Tân Tạo,Tuesday,quyết_định hđqt v v thoái vốn ctcp đầu_tư phát_triển đô_thị
+2023-02-07,17.0,ITA,ITA: Quyết định v/v thoái vốn tại CTCP Đầu tư & phát triển đô thị Tân Tạo,Tuesday,quyết_định v v thoái vốn ctcp đầu_tư phát_triển đô_thị
+2023-02-01,15.1,ITA,ITA: HĐQT thông qua việc điều chuyển tiền giữa công ty với các bên có liên quan,Wednesday,hđqt thông_qua việc điều_chuyển tiền công_ty bên có
+2023-02-01,0.3,ITA,"Buộc thanh lý hợp đồng dự án Kiên Lương, Tân Tạo (ITA) của bà Đặng Thị Hoàng Yến ghi nhận doanh thu âm hàng nghìn tỷ, lỗ ròng kỷ lục 330 tỷ đồng",Wednesday,buộc thanh_lý hợp_đồng dự_án kiên lương tân_tạo đặng_thị hoàng_yến ghi_nhận doanh_thu âm hàng lỗ ròng kỷ_lục
+2023-01-31,15.3,ITA,ITA: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-19,17.4,ITA,ITA: Quyết định của HĐQT số 15 ngày 30/12/2022,Thursday,quyết_định hđqt số
+2023-01-30,9.4,JOS,JOS: Giải trình chênh lệch lợi nhuận báo cáo tài chính quý 4/2022,Monday,giải_trình chênh_lệch lợi_nhuận báo_cáo tài_chính
+2023-02-24,18.3,JVC,JVC: Đơn xin từ nhiệm của ông Lê Minh Chung - Thành viên HĐQT,Friday,đơn xin nhiệm lê_minh chung thành_viên
+2023-02-24,13.4,JVC,JVC: Bổ nhiệm ông Phạm Thanh Nam giữ chức danh Tổng Giám đốc từ 22.2.2023,Friday,bổ_nhiệm phạm thanh nam giữ chức_danh tổng_giám_đốc
+2023-02-17,16.2,JVC,JVC: Nhận được các quyết định của cơ quan thuế và công ty đã nộp tiền vi phạm theo quyết định,Friday,nhận được quyết_định cơ_quan_thuế công_ty đã nộp tiền vi_phạm theo quyết_định
+2023-02-10,16.0,JVC,"JVC: Nghị quyết HĐQT v/v thực hiện các hợp đồng, giao dịch với bên có liên quan",Friday,nghị_quyết hđqt v v thực_hiện hợp_đồng giao_dịch bên có
+2023-01-31,15.4,JVC,JVC: Giải trình biến động LNST quý 3/2022 so với cùng kỳ năm trước,Tuesday,giải_trình biến_động lnst so cùng kỳ trước
+2023-01-19,13.3,JVC,JVC: Báo cáo tình hình quản trị công ty năm 2022,Thursday,báo_cáo tình_hình quản_trị công_ty
+2023-02-24,17.0,KAC,KAC: Nghị quyết HĐQT v/v chuyển nhượng 6% vốn điều lệ của Công ty tại Công ty TNHH Kinh doanh Nhà An Việt Land,Friday,nghị_quyết hđqt v v chuyển_nhượng vốn điều_lệ công_ty công_ty tnhh kinh_doanh nhà an việt
+2023-02-14,10.4,KAC,KAC: Quyết định về việc đưa vào diện đình chỉ giao dịch,Tuesday,quyết_định việc đưa diện đình_chỉ
+2023-02-14,10.4,KAC,KAC: Thông báo về việc điều chỉnh trạng thái chứng khoán,Tuesday,thông_báo việc điều_chỉnh trạng_thái
+2023-02-02,14.4,KHL,KHL: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-02-14,10.4,KSH,KSH: Thông báo về việc điều chỉnh tình trạng chứng khoán,Tuesday,thông_báo việc điều_chỉnh tình_trạng
+2023-02-14,10.4,KSH,KSH: Quyết định về việc đưa vào diện cảnh báo,Tuesday,quyết_định việc đưa diện
+2023-01-12,13.5,KSH,KSH: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-02-14,9.0,LCC,LCC: Quyết định về việc đưa vào diện cảnh báo,Tuesday,quyết_định việc đưa diện
+2023-01-11,10.2,LCM,LCM: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-02-22,17.4,LHG,LHG: Ngày ĐKCC để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2023,Wednesday,thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-22,17.3,LHG,LHG: Nghị quyết HĐQT v/v thống nhất kế hoạch tổ chức ĐHĐCĐ thường niên năm 2023,Wednesday,nghị_quyết hđqt v v thống_nhất kế_hoạch tổ_chức đhđcđ thường_niên
+2023-01-30,17.4,LHG,LHG: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-01-16,16.5,LM3,LM3: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-01-12,14.1,LO5,LO5: Nghị quyết Đại hội đồng cổ đông bất thường năm 2023,Thursday,nghị_quyết đại_hội_đồng cổ_đông bất_thường
+2023-01-12,14.0,LO5,LO5: Ký hợp đồng kiểm toán Báo cáo tài chính năm 2022,Thursday,ký hợp_đồng kiểm_toán báo_cáo tài_chính
+2023-01-09,16.0,LO5,LO5: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-02-14,10.3,LQN,LQN: Quyết định về việc đưa ra khỏi diện hạn chế giao dịch,Tuesday,quyết_định việc đưa ra khỏi diện hạn_chế
+2023-02-14,10.3,LQN,LQN: Thông báo về việc điều chỉnh tình trạng chứng khoán,Tuesday,thông_báo việc điều_chỉnh tình_trạng
+2023-02-02,9.2,LQN,LQN: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-02-22,8.3,LTC,LTC: Đính chính Báo cáo quản trị công ty năm 2022,Wednesday,đính_chính báo_cáo quản_trị công_ty
+2023-01-30,14.1,LTC,LTC: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-02-09,9.4,MCG,Loạt doanh nghiệp đối mặt với án hủy niêm yết,Thursday,doanh_nghiệp đối_mặt án hủy
+2023-02-08,19.3,MCG,"Loạt doanh nghiệp lỗ triền miên, cổ phiếu vào 'tầm ngắm' phải rời sàn",Wednesday,doanh_nghiệp lỗ triền_miên cổ_phiếu tầm ngắm phải rời sàn
+2023-02-03,13.2,MCG,MCG: Cổ phiếu MCG có khả năng bị hủy niêm yết bắt buộc,Friday,cổ_phiếu có khả_năng bị hủy niêm_yết
+2023-02-01,14.3,MCG,MCG: Báo cáo giải trình KQKD quý 4/2022 và tình trạng khắc phục chứng khoán bị kiểm soát,Wednesday,báo_cáo giải_trình kqkd tình_trạng khắc_phục chứng_khoán bị kiểm_soát
+2023-01-30,17.2,MCG,MCG: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-02-01,15.5,MCI,MCI: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-02-02,14.3,MES,MES: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-01-30,18.3,MHC,MHC: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-01-13,16.4,MPT,MPT: Báo cáo quản trị công ty năm 2022,Friday,báo_cáo quản_trị công_ty
+2023-02-27,16.3,MSN,MSN: Đính chính báo cáo kết quả phát hành trái phiếu ra công chúng,Monday,đính_chính báo_cáo kết_quả phát_hành trái_phiếu ra
+2023-02-24,15.1,MSN,MSN: Ngày ĐKCC để thực hiện quyền tham dự ĐHCĐ thường niên năm 2023,Friday,thực_hiện quyền tham_dự đhcđ thường_niên
+2023-02-24,14.3,MSN,MSN121015: Thông báo về ngày ĐKCC để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2023,Friday,thông_báo thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-23,16.2,MSN,MSN121015: Báo cáo kết quả phát hành trái phiếu MSNH2227002 ra công chúng,Thursday,báo_cáo kết_quả phát_hành trái_phiếu ra
+2023-02-23,10.4,MSN,MSN: Báo cáo kết quả phát hành trái phiếu MSNH2227002 ra công chúng,Thursday,báo_cáo kết_quả phát_hành trái_phiếu ra
+2023-02-22,16.4,MSN,MSN12001: Thông báo trái phiếu MSN12001 có khả năng bị hủy bỏ niêm yết,Wednesday,thông_báo trái_phiếu có khả_năng bị hủy_bỏ
+2023-02-21,15.2,MSN,MSN: Báo cáo kết quả đợt chào bán trái phiếu ra công chúng,Tuesday,báo_cáo kết_quả đợt chào bán trái_phiếu ra
+2023-02-21,15.2,MSN,MSN: CBTT chào bán trái phiếu ra công chúng,Tuesday,cbtt chào bán trái_phiếu ra
+2023-02-21,15.1,MSN,MSN12001: Thông báo ngày đăng ký cuối cùng để thanh toán tiền lãi và gốc trái phiếu,Tuesday,cuối_cùng thanh_toán tiền lãi gốc
+2023-02-21,15.1,MSN,MSN121015: Báo cáo kết quả phát hành trái phiếu MSNH2227001 ra công chúng,Tuesday,báo_cáo kết_quả phát_hành trái_phiếu ra
+2023-02-21,15.1,MSN,MSN12001: Thông báo ngày ĐKCC và xác nhận danh sách người sở hữu chứng khoán mã trái phiếu MSN12001,Tuesday,xác_nhận danh_sách người sở_hữu_chứng_khoán mã
+2023-02-20,17.2,MSN,MSN121015: Thông báo chào bán trái phiếu ra công chúng mã trái phiếu MSNH2328001,Monday,thông_báo chào bán trái_phiếu ra công_chúng mã
+2023-02-17,14.0,MSN,"Đến thời gian đáo hạn, HNX huỷ niêm yết lô trái phiếu 3.000 tỷ của Masan",Friday,thời_gian đáo hạn hnx huỷ niêm_yết lô trái_phiếu
+2023-02-16,15.3,MSN,MSN12001: Thông báo về ngày ĐKCC và xác nhận người sở hữu chứng khoán đối với mã trái phiếu MSN12001,Thursday,thông_báo xác_nhận người sở_hữu_chứng_khoán đối_với mã
+2023-02-16,14.4,MSN,MSN12002: Thông báo hủy niêm yết trái phiếu MSN12002,Thursday,thông_báo hủy niêm_yết
+2023-02-10,15.2,MSN,MSN12002: Thông báo trái phiếu MSN12002 có khả năng bị hủy bỏ niêm yết,Friday,thông_báo trái_phiếu có khả_năng bị hủy_bỏ
+2023-02-09,15.2,MSN,MSN12002: Thông báo về ngày ĐKCC và xác nhận danh sách người sở hữu chứng khoán đối với mã trái phiếu MSN12002,Thursday,thông_báo xác_nhận danh_sách người sở_hữu_chứng_khoán đối_với mã
+2023-02-09,10.3,MSN,MSN121015: Nghị quyết HĐQT phê duyệt việc ký kết Hợp đồng tín dụng và Hợp đồng Bảo lãnh với các ngân hàng,Thursday,nghị_quyết hđqt phê_duyệt việc ký_kết hợp_đồng tín_dụng hợp_đồng bảo_lãnh ngân_hàng
+2023-02-09,0.0,MSN,"Giữa lúc AI gây sốt toàn cầu, tỷ phú Nguyễn Đăng Quang sắp rót 105 triệu USD vào công ty trí tuệ nhân tạo Singapore, tham vọng phát triển Retail AI, Consumer AI",Thursday,lúc gây_sốt toàn_cầu tỷ_phú nguyễn đăng_quang sắp rót công_ty trí_tuệ nhân_tạo singapore tham_vọng phát_triển retail consumer
+2023-02-08,17.5,MSN,MSN: Nghị quyết HĐQT v/v ký kết Hợp đồng tín dụng và Hợp đồng bảo lãnh với các ngân hàng,Wednesday,nghị_quyết hđqt v v ký_kết hợp_đồng tín_dụng hợp_đồng bảo_lãnh ngân_hàng
+2023-02-08,17.1,MSN,MSN12002: Thông báo ngày đăng ký cuối cùng trả lãi Trái Phiếu MSN12002 kỳ tính lãi 06,Wednesday,cuối_cùng trả_lãi trái_phiếu kỳ tính lãi
+2023-02-08,17.1,MSN,MSN121015: Công văn làm rõ nội dung NQ HDQT trong BCQT 2022,Wednesday,công_văn làm rõ nội_dung nq hdqt
+2023-02-07,9.0,MSN,MSN121015: Đính chính nội dung tại Bảng kết quả kinh doanh tại trang 8 của thông cáo báo chí tình hình KQKD Quý 4/2022 (bản tiếng Anh),Tuesday,đính_chính nội_dung bảng kết_quả kinh_doanh trang thông_cáo báo_chí tình_hình kqkd tiếng
+2023-02-07,9.0,MSN,MSN121015: Đính chính nội dung tại dòng 25 trang 5 và Bảng KQKD trong thông cáo báo chí tình hình KQDK Quý 4/2022,Tuesday,đính_chính nội_dung dòng trang bảng kqkd thông_cáo báo_chí tình_hình kqdk
+2023-02-07,8.4,MSN,MSN121015: Thông cáo báo chí tình hình kết quả kinh doanh quý 4/2022 (chưa kiểm toán),Tuesday,thông_cáo báo_chí tình_hình kết_quả kinh_doanh chưa kiểm_toán
+2023-02-06,17.1,MSN,MSN: Làm rõ nội dung Nghị quyết HĐQT trong Báo cáo tình hình quản trị công ty năm 2022,Monday,làm rõ nội_dung nghị_quyết hđqt báo_cáo tình_hình quản_trị công_ty
+2023-02-03,16.5,MSN,"MSN12002: Báo cáo định kỳ thanh toán gốc, lãi trái phiếu doanh nghiệp",Friday,báo_cáo định_kỳ thanh_toán gốc lãi trái_phiếu
+2023-02-03,16.5,MSN,"MSN12005: Báo cáo định kỳ tình hình thanh toán gốc, lãi trái phiếu doanh nghiệp",Friday,báo_cáo định_kỳ tình_hình thanh_toán gốc lãi trái_phiếu
+2023-02-03,16.5,MSN,"MSN121015: Báo cáo định kỳ thanh toán gốc, lãi trái phiếu doanh nghiệp",Friday,báo_cáo định_kỳ thanh_toán gốc lãi trái_phiếu
+2023-02-03,16.5,MSN,"MSN12001: Báo cáo định kỳ tình hình thanh toán gốc, lãi trái phiếu doanh",Friday,báo_cáo định_kỳ tình_hình thanh_toán gốc lãi trái_phiếu
+2023-02-03,16.5,MSN,"MSN120007: Báo cáo định kỳ tình hình thanh toán gốc, lãi trái phiếu doanh nghiệp",Friday,báo_cáo định_kỳ tình_hình thanh_toán gốc lãi trái_phiếu
+2023-02-02,16.3,MSN,MSN121015: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-02-01,17.3,MSN,MSN: Đính chính KQKD quý 4/2022,Wednesday,đính_chính kqkd
+2023-01-31,15.0,MSN,MSN: Thông cáo báo chí kết quả kinh doanh quý 4/2022,Tuesday,thông_cáo báo_chí kết_quả kinh_doanh
+2023-01-30,18.3,MSN,MSN: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-01-30,15.2,MSN,"Masan Group báo lãi ròng 3.567 tỷ đồng trong năm 2022, mở mới 730 siêu thị WinMart+, doanh thu Phúc Long vươn gần 1.600 tỷ đồng",Monday,masan group báo lãi_ròng mở mới siêu_thị winmart doanh_thu phúc long vươn gần
+2023-01-27,17.3,MSN,MSN121015: Báo cáo tình hình thanh toán gốc lãi trái phiếu 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-27,17.3,MSN,MSN11906: Báo cáo tình hình thanh toán gốc lãi TP 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-27,17.2,MSN,MSN121014: Báo cáo tình hình thanh toán gốc lãi trái phiếu 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-27,17.2,MSN,MSN121013: Báo cáo tình hình thanh toán gốc lãi trái phiếu 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-27,17.2,MSN,MSN120011: Báo cáo tình hình thanh toán gốc lãi TP 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-27,17.2,MSN,MSN120012: Báo cáo tình hình thanh toán gốc lãi TP 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-27,17.2,MSN,MSN120009: Báo cáo tình hình thanh toán gốc lãi trái phiếu 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-27,17.2,MSN,MSN120010: Báo cáo tình hình thanh toán gốc lãi TP 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-27,17.2,MSN,MSN120008: Báo cáo tình hình thanh toán gốc lãi trái phiếu 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-27,17.2,MSN,MSN120007: Báo cáo tình hình thanh toán gốc lãi trái phiếu 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-27,17.2,MSN,MSN12005: Báo cáo tình hình thanh toán gốc lãi TP 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-27,17.2,MSN,MSN12001: Báo cáo tình hình thanh toán gốc lãi TP 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-27,17.2,MSN,MSN12003: Báo cáo tình hình thanh toán gốc lãi kỳ 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi kỳ cuối
+2023-01-27,17.2,MSN,MSN12002: Báo cáo tình hình thanh toán gốc lãi trái phiếu 6 tháng cuối năm 2022,Friday,báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-16,17.5,MSN,MSN: Giải trình về việc chậm công bố thông tin,Monday,giải_trình việc chậm công_bố
+2023-01-16,15.3,MSN,MSN120011: Thông báo chào bán trái phiếu MSNH2227002 ra công chúng,Monday,thông_báo chào bán trái_phiếu ra
+2023-01-16,15.2,MSN,MSN120011: Thông báo chào bán trái phiếu MSNH2227001 ra công chúng,Monday,thông_báo chào bán trái_phiếu ra
+2023-01-13,17.5,MSN,"MSN: CBTT chào bán TP MSNH2227001, MSNH2227002 ra công chúng",Friday,cbtt chào bán tp ra
+2023-01-12,13.4,MSN,"MSN: Chào bán trái phiếu MSNH2227001, MSNH2227002 ra công chúng",Thursday,chào bán trái_phiếu ra
+2023-01-09,15.4,MSN,MSN121015: Thông báo lãi suất kỳ 5 của trái phiếu MSN121015,Monday,thông_báo lãi_suất kỳ
+2023-01-09,15.4,MSN,MSN121014: Thông báo lãi suất kỳ 5 của Trái phiếu MSN121014,Monday,thông_báo lãi_suất kỳ
+2023-01-09,15.4,MSN,MSN121013: Thông báo về lãi kì 5 của TP MSN121013,Monday,thông_báo lãi kì
+2023-01-06,19.0,MSN,VCBS: Chiến lược cao cấp hóa của Masan đang đối mặt với vấn đề gì?,Sunday,vcbs chiến_lược cao_cấp hóa masan đang đối_mặt vấn_đề
+2023-02-24,19.0,MWG,VNDirect dự báo lợi nhuận Thế giới di động khả quan hơn trong nửa cuối năm khi Bách Hóa Xanh đạt điểm hòa vốn,Saturday,vndirect dự_báo lợi_nhuận thế_giới di_động khả_quan hơn nửa cuối khi bách hóa xanh đạt điểm hòa vốn
+2023-02-24,10.3,MWG,"Nửa thập kỷ dang dở của Thế giới Di động: Tham vọng từ chuỗi kính mắt, Điện thoại siêu rẻ, 5 chuỗi AVA... cho đến Bluetronics đều thành 'sửa sai'",Friday,nửa thập_kỷ dang_dở thế_giới di_động tham_vọng chuỗi kính mắt điện_thoại rẻ chuỗi ava bluetronics đều thành
+2023-02-21,11.0,MWG,Điểm danh những thương hiệu của Thế giới Di động bị 'khai tử',Tuesday,điểm_danh thương_hiệu thế_giới di_động bị khai_tử
+2023-02-17,19.0,MWG,"Tư duy mở chuỗi của ông Nguyễn Đức Tài: “Đi lên thành phố làm việc, không gửi tiền về cho ba mẹ mà còn nói ba mẹ gửi tiền lên là có chuyện!”",Sunday,tư_duy mở chuỗi nguyễn_đức tài đi lên thành_phố làm_việc không_gửi tiền về ba_mẹ mà_còn nói ba_mẹ gửi tiền lên có chuyện
+2023-02-17,19.0,MWG,Vì sao Thế giới di động bất ngờ tuyên bố rút hoàn toàn khỏi Campuchia và dồn lực vào Indonesia?,Saturday,thế_giới di_động bất_ngờ tuyên_bố rút hoàn_toàn khỏi campuchia dồn_lực
+2023-02-17,11.3,MWG,"MWG đặt mục tiêu lãi ròng tối thiểu 4.200 tỷ đồng, ngưng mở mới An Khang, “dọn dẹp” chuỗi Bluetronics và AvaSprort trong năm 2023",Friday,đặt mục_tiêu lãi_ròng tối_thiểu ngưng mở mới an_khang dọn_dẹp chuỗi bluetronics avasprort
+2023-02-15,9.0,MWG,"MWG: 27.2.2023, ngày GDKHQ tổ chức ĐHĐCĐ thường niên năm 2023",Wednesday,tổ_chức đhđcđ thường_niên
+2023-02-10,11.5,MWG,Quỹ ngoại quy mô tỷ đô vừa mua vào hơn 4 triệu cổ phiếu Thế Giới Di Động (MWG),Friday,quỹ ngoại quy_mô vừa mua hơn cổ_phiếu thế_giới di_động
+2023-02-09,17.1,MWG,MWG: Báo cáo thay đổi về sở hữu của nhóm NĐTNN có liên quan,Thursday,báo_cáo thay_đổi sở_hữu nhóm nđtnn có
+2023-02-09,13.2,MWG,"Lợi nhuận tăng trưởng âm, chính sách ESOP từng gây tranh cãi của Thế giới Di động (MWG) tạm thời gián đoạn?",Thursday,lợi_nhuận tăng_trưởng âm chính_sách esop từng gây tranh_cãi thế_giới di_động tạm_thời
+2023-02-08,17.5,MWG,MWG: Nghị quyết HĐQT v/v triệu tập họp ĐHĐCĐ thường niên năm 2023,Wednesday,nghị_quyết hđqt v v triệu_tập họp đhđcđ thường_niên
+2023-02-08,17.5,MWG,Vụ Thế giới Di động sa thải 7.000 nhân viên: Do nhầm lẫn số liệu?,Wednesday,vụ thế_giới di_động sa_thải nhân_viên nhầm_lẫn
+2023-02-08,10.3,MWG,"Nỗ lực tái cấu trúc của ông Nguyễn Đức Tài có trái ngọt đầu tiên: Biên lợi nhuận cửa hàng Bách Hoá Xanh đổi chiều từ âm sang dương, nợ ròng quý 4 của MWG giảm gần 80% so với quý 3",Wednesday,nỗ_lực tái cấu_trúc nguyễn_đức tài có trái ngọt đầu_tiên biên lợi_nhuận cửa_hàng bách_hoá xanh đổi_chiều âm sang dương nợ ròng giảm gần so
+2023-02-08,9.1,MWG,"Nhiều ngân hàng tuyển thêm cả nghìn người năm 2022, Vinhomes, FPT tăng hơn 5.000 người, Đất Xanh và Thế giới Di động có động thái cắt giảm gây sốc",Wednesday,nhiều ngân_hàng tuyển thêm người fpt tăng hơn người đất xanh thế_giới di_động có động_thái cắt_giảm gây sốc
+2023-02-07,17.3,MWG,MWG: Báo cáo thay đổi về sở hữu của nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn,Tuesday,báo_cáo thay_đổi sở_hữu nhóm nhà_đầu_tư nước_ngoài có liên_quan là cổ_đông lớn
+2023-02-07,11.3,MWG,"Quỹ đầu tư của SGI Capital chốt lời VCB, tăng tỷ trọng MWG trong tháng đầu năm 2023",Tuesday,quỹ đầu_tư sgi capital chốt lời vcb tăng đầu
+2023-02-07,7.2,MWG,"'Gà vàng' chưa đẻ trứng của Thế giới di động: Bách Hoá Xanh lỗ luỹ kế 7.000 tỷ, An Khang lỗ hơn 300 tỷ và MWG Cambodia lỗ hơn 600 tỷ",Tuesday,gà vàng chưa đẻ_trứng thế_giới di_động bách_hoá xanh lỗ luỹ kế an_khang lỗ hơn cambodia lỗ hơn
+2023-01-30,18.5,MWG,MWG: Giải trình KQKD riêng và hợp nhất Quý 04 và năm 2022,Monday,giải_trình kqkd riêng hợp_nhất
+2023-01-30,18.4,MWG,MWG: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-02-14,10.3,NDF,NDF: Thông báo về việc điều chỉnh tình trạng chứng khoán,Tuesday,thông_báo việc điều_chỉnh tình_trạng
+2023-02-14,10.3,NDF,NDF: Quyết định đưa vào diện đình chỉ giao dịch,Tuesday,quyết_định đưa diện đình_chỉ
+2023-02-23,16.4,NET,NET: Thông báo về ngày ĐKCC để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2023,Thursday,thông_báo thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-01,16.4,NET,NET: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-02-23,16.2,NOS,"NOS: 10.3.2023, ngày GDKHQ Tổ chức Đại hội đồng cổ đông thường niên năm 2023",Thursday,tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-02-17,14.2,NOS,NOS: Thông báo về ngày ĐKCC để thực hiện quyền tổ chức ĐHĐCĐ thường niên năm 2023,Friday,thông_báo thực_hiện quyền tổ_chức đhđcđ thường_niên
+2023-02-10,14.2,NOS,NOS: Bổ nhiệm bà Mai Thị Khánh Chi giữ chức Phụ trách quản trị từ 08/02/2023,Friday,bổ_nhiệm mai thị khánh giữ chức phụ_trách quản_trị
+2023-01-30,13.0,NOS,Lộ diện các doanh nghiệp lỗ lớn năm 2022,Monday,lộ diện doanh_nghiệp lỗ lớn
+2023-01-12,9.5,NOS,NOS: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-02-03,19.0,NSC,Lộ diện quán quân EPS trên sàn chứng khoán,Saturday,lộ diện quán_quân eps sàn
+2023-01-30,17.0,NSC,NSC: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-02-01,16.3,NSG,NSG: Bổ nhiệm ông Trần Bá Tòng giữ chức Kế toán trưởng từ 16/01/2023,Wednesday,bổ_nhiệm trần bá tòng giữ chức kế_toán_trưởng
+2023-02-23,15.5,NT2,Hơn 53% tổng lượng cổ phiếu lưu hành của NT2 được 'mở khóa' sang dạng tự do chuyển nhượng,Thursday,hơn cổ_phiếu lưu_hành được mở khóa sang dạng tự_do
+2023-02-23,14.5,NT2,NT2: Nghị quyết HĐQT v/v triệu tập ĐHĐCĐ thường niên 2023,Thursday,nghị_quyết hđqt v v triệu_tập đhđcđ
+2023-02-22,17.2,NT2,NT2: Quyết định giao nhiệm vụ thực hiện công tác KTNB,Wednesday,quyết_định giao nhiệm_vụ thực_hiện công_tác
+2023-01-25,15.0,NT2,"Nhơn Trạch 2 (NT2): Giá vốn tăng mạnh, lợi nhuận quý 4 sụt giảm 95% so với cùng kỳ 2021",Wednesday,nhơn_trạch giá vốn tăng mạnh lợi_nhuận sụt giảm so cùng kỳ
+2023-01-18,13.3,NT2,NT2: Báo cáo tình hình quản trị công ty năm 2022,Wednesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-10,16.4,NT2,NT2: Bổ nhiệm lại ông Lê Việt An giữ chức Kế toán trưởng từ 9.1.2023,Tuesday,bổ_nhiệm lại lê việt an giữ chức kế_toán_trưởng
+2023-02-17,16.5,NVT,NVT: Miễn nhiệm bà Ng Siok Leng - Phó TGĐ từ 16.2.2023,Friday,miễn_nhiệm ng siok leng tgđ
+2023-02-07,14.4,NVT,NVT: Biện pháp và lộ trình khắc phục tình trạng chứng khoán bị cảnh báo,Tuesday,biện_pháp lộ_trình khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-02-06,15.2,NVT,Chủ chuỗi Resort cao cấp chính thức báo lỗ 12 tỷ đồng trong năm 2022,Monday,chủ chuỗi cao_cấp chính_thức báo lỗ
+2023-01-31,15.4,NVT,NVT: Giải trình BCTC HN và Cty mẹ quý 4/2022 so với cùng kỳ năm trước,Tuesday,giải_trình bctc hn cty mẹ so cùng kỳ trước
+2023-01-31,15.0,NVT,NVT: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-02-09,13.3,OGC,"Thay đổi nhân sự quản trị và điều hành, OGC báo lãi trăm tỷ đồng năm 2022",Thursday,thay_đổi nhân_sự quản_trị điều_hành báo lãi
+2023-01-31,16.0,OGC,OGC: Báo cáo tình hình khắc phục tình trạng chứng khoán thuộc diện cảnh báo và kiểm soát,Tuesday,báo_cáo tình_hình khắc_phục tình_trạng chứng_khoán thuộc diện cảnh_báo
+2023-01-30,18.5,OGC,OGC: Giải trình KQKD riêng và hợp nhất Quý 04 và năm 2022,Monday,giải_trình kqkd riêng hợp_nhất
+2023-01-30,18.4,OGC,OGC: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-02-14,14.1,ONW,ONW: Quyết định xử phạt vi phạm hành chính trong lĩnh vực chứng khoán,Tuesday,quyết_định xử_phạt vi_phạm hành_chính lĩnh_vực
+2023-02-10,19.0,ONW,Công ty liên quan cổng game 123game.vn bị Ủy ban Chứng khoán Nhà nước xử phạt,Sunday,công_ty liên_quan cổng game vn bị ủy_ban chứng_khoán nhà_nước
+2023-02-10,17.0,ONW,Dịch vụ Một Thế giới bị UBCKNN xử phạt do vi phạm công bố thông tin,Friday,dịch_vụ thế_giới bị ubcknn xử_phạt vi_phạm công_bố
+2023-01-31,19.5,ONW,ONW: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-02-22,16.5,OPC,OPC: Bố vợ ông Nguyễn Thế Đề - Kế toán trưởng đăng ký bán 56.028 cp,Wednesday,bố_vợ nguyễn_thế đề kế_toán_trưởng đăng_ký bán
+2023-01-27,11.1,OPC,OPC: Báo cáo tình hình quản trị công ty năm 2022,Friday,báo_cáo tình_hình quản_trị công_ty
+2023-02-17,17.4,PAC,"PAC: 17.3.2023, ngày GDKHQ tổ chức ĐHĐCĐ thường niên năm 2023",Friday,tổ_chức đhđcđ thường_niên
+2023-02-15,16.1,PAC,PAC: Ngày ĐKCC chốt DSCĐ để thực hiện quyền tham dự ĐHCĐ thường niên năm 2023,Wednesday,chốt dscđ thực_hiện quyền tham_dự đhcđ thường_niên
+2023-02-01,16.5,PAC,PAC: Thông báo thay đổi nhân sự,Wednesday,thông_báo thay_đổi
+2023-01-19,17.1,PAC,PAC: Bổ nhiệm lại có thời hạn chức vụ Tổng Giám đốc đối với ông Lê Văn Năm từ 1.2.2023,Thursday,bổ_nhiệm lại có thời_hạn chức_vụ tổng_giám_đốc đối_với lê văn
+2023-01-19,16.4,PAC,PAC: Kế hoạch SXKD và chuẩn bị ĐHĐCĐ thường niên năm 2023,Thursday,kế_hoạch sxkd chuẩn_bị đhđcđ thường_niên
+2023-01-19,16.3,PAC,PAC: Nghị quyết HĐQT số 41 về công tác nhân sự,Thursday,nghị_quyết hđqt số công_tác_nhân sự
+2023-01-19,16.3,PAC,PAC: Bổ nhiệm ông Nguyễn Duy Hưng giữ chức Phó TGĐ từ 1.2.2023,Thursday,bổ_nhiệm nguyễn_duy_hưng giữ chức tgđ
+2023-01-19,14.0,PAC,PAC: Công đoàn PAC đã bán 2.500 cp,Thursday,công_đoàn đã bán
+2023-01-18,16.4,PAC,PAC: Giải trình biến động KQKD quý 4/2022 so với cùng kỳ năm trước,Wednesday,giải_trình biến_động kqkd so cùng kỳ trước
+2023-01-18,16.4,PAC,PAC: Báo cáo tình hình quản trị công ty năm 2022,Wednesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,14.5,PAN,PAN: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-02-02,20.2,PBP,PBP: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-01-09,14.4,PBP,PBP: Nghị quyết phê duyệt kế hoạch SXKD 2023,Monday,nghị_quyết phê_duyệt kế_hoạch
+2023-02-10,17.3,PC1,"PC1: CBTT quyết định chào bán, phương án phát hành trái phiếu riêng lẻ năm 2022 và giải trình chậm CBTT",Friday,cbtt quyết_định chào bán phương_án phát_hành trái_phiếu giải_trình chậm
+2023-01-19,17.4,PC1,PC1: Quyết định xử phạt vi phạm hành chính về thuế của Cục thuế TP.Hà Nội,Thursday,quyết_định xử_phạt vi_phạm hành_chính thuế thuế tp hà nội
+2023-01-17,16.3,PC1,PC1: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-02-14,17.1,PCE,"PCE: 24.2.2023, ngày GDKHQg Đại hội đồng cổ đông thường niên năm 2023",Tuesday,đại_hội_đồng cổ_đông thường_niên
+2023-02-07,11.2,PCE,PCE: Thông báo về ngày ĐKCC để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2023,Tuesday,thông_báo thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-01,22.3,PCE,PCE: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-19,15.1,PCE,PCE: Nghị quyết HĐQT phê duyệt kế hoạch kinh doanh năm 2023,Thursday,nghị_quyết hđqt phê_duyệt kế_hoạch kinh_doanh
+2023-02-23,16.4,PCT,PCT: Ký kết Hợp đồng tín dụng với Ngân hàng thương mại cổ phần Bảo Việt – Chi nhánh Nam Sài Gòn,Thursday,ký_kết hợp_đồng tín_dụng ngân_hàng thương_mại cổ_phần bảo việt chi_nhánh nam
+2023-02-23,16.4,PCT,PCT: Nghị quyết việc phê duyệt chốt danh sách cổ đông để tổ chức ĐHĐCĐ TN năm 2023,Thursday,nghị_quyết việc phê_duyệt chốt danh_sách cổ_đông tổ_chức đhđcđ tn
+2023-02-22,14.1,PCT,PCT: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-13,16.3,PCT,"PCT: Ngày 18/01/2023, giao dịch đầu tiên 4.599.896 cổ phiếu niêm yết bổ sung",Friday,đầu_tiên cổ_phiếu niêm_yết
+2023-02-23,14.2,PET,PET: Giấy chứng nhận đăng ký doanh nghiệp thay đổi lần thứ 21,Thursday,giấy chứng_nhận đăng_ký doanh_nghiệp thay_đổi thứ
+2023-02-23,10.4,PET,"PET: 24.2.2023, niêm yết bổ sung 8.981.873 cp",Thursday,niêm_yết bổ_sung
+2023-02-16,17.5,PET,PET: Nghị quyết HĐQT v/v thay đổi nội dung đăng ký doanh nghiệp và sửa đổi Điều lệ,Thursday,nghị_quyết hđqt v v thay_đổi nội_dung đăng_ký doanh_nghiệp sửa_đổi
+2023-02-16,17.5,PET,PET: Điều lệ công ty ban hành tháng 02/2023,Thursday,điều_lệ công_ty ban_hành
+2023-02-02,10.4,PET,PET: Số lượng cổ phiếu có quyền biểu quyết là 98.819.297 cp,Thursday,số_lượng cổ_phiếu có quyền biểu_quyết là
+2023-02-02,10.4,PET,PET: Đã phát hành 8.981.873 cổ phiếu để trả cổ tức,Thursday,đã phát_hành cổ_phiếu trả cổ_tức
+2023-01-31,9.1,PET,PET: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-10,13.2,PET,"PET: 18.1.2023, ngày GDKHQ thực hiện quyền nhận cổ tức bằng cổ phiếu năm 2021 (tỷ lệ 100:10)",Tuesday,thực_hiện quyền nhận cổ_tức cổ_phiếu
+2023-02-27,11.1,PGC,PGC: Nghị quyết HĐQT chốt danh sách cổ đông họp ĐHĐCĐ thường niên năm 2023,Monday,nghị_quyết hđqt chốt danh_sách cổ_đông họp đhđcđ thường_niên
+2023-02-21,17.2,PGC,PGC: Nghị quyết HĐQT v/v tạm giao kế hoạch SXKD năm 2023,Tuesday,nghị_quyết hđqt v v tạm giao kế_hoạch sxkd
+2023-02-03,16.5,PGC,PGC: Giải trình chênh lệch lợi nhuận sau thuế quý 4/2022 so với quý 4/2021,Friday,giải_trình chênh_lệch lợi_nhuận sau thuế so
+2023-01-30,17.5,PGC,PGC: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-02-21,10.4,PGD,"Công ty con của PV GAS lên kế hoạch lợi nhuận 2023 giảm một nửa, cổ phiếu tăng gần 30% từ đầu năm",Tuesday,công_ty_con pv lên kế_hoạch lợi_nhuận giảm một_nửa cổ_phiếu tăng gần đầu
+2023-02-20,16.1,PGD,PGD: Nghị quyết HĐQT v/v chấp thuận kế hoạch năm 2023,Monday,nghị_quyết hđqt v v chấp_thuận kế_hoạch
+2023-01-18,13.3,PGD,PGD: Giải trình LNST quý 4/2022 tăng so với cùng kỳ năm trước,Wednesday,giải_trình lnst tăng so cùng kỳ trước
+2023-01-13,15.4,PGD,PGD: Báo cáo tình hình quản trị công ty năm 2022,Friday,báo_cáo tình_hình quản_trị công_ty
+2023-02-02,20.0,PGS,PGS: Nghị quyết HĐQT thống nhất chỉ tiêu kế hoạch SXKD năm 2023,Thursday,nghị_quyết hđqt thống_nhất chỉ_tiêu kế_hoạch sxkd
+2023-01-18,15.0,PGS,PGS: Ông Đào Hữu Thắng phụ trách Quản trị từ 16.1.2023,Wednesday,đào hữu thắng phụ_trách quản_trị
+2023-01-17,15.2,PGS,PGS: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-02-06,16.0,PHH,PHH: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-02-23,17.1,PIT,PIT: Nghị quyết HĐQT về tổ chức ĐHĐCĐ thường niên năm 2023,Thursday,nghị_quyết hđqt tổ_chức đhđcđ thường_niên
+2023-02-23,17.1,PIT,PIT: Ngày ĐKCC thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2023,Thursday,thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-01-19,16.4,PIT,PIT: Giải trình KQKD quý 4/2022 lỗ so với cùng kỳ năm trước,Thursday,giải_trình kqkd lỗ so cùng kỳ trước
+2023-01-10,16.1,PIT,PIT: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-02-14,14.0,PIV,PIV: Nghị quyết HĐQT thông qua phương án thoái vốn tại CTCP BOT Cầu Thái Hà,Tuesday,nghị_quyết hđqt thông_qua phương_án thoái vốn ctcp bot cầu
+2023-01-18,10.0,PIV,PIV: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-16,8.0,PIV,PIV: Nghị quyết HĐQT thông qua kế hoạch thoái toàn bộ khoản đầu tư tại CTCP BOT Cầu Thái Hà,Monday,nghị_quyết hđqt thông_qua kế_hoạch thoái toàn_bộ khoản đầu_tư ctcp bot cầu
+2023-02-27,0.1,PLC,"Nương theo “sóng” đầu tư công, cổ phiếu doanh nghiệp nhựa đường thị phần số 1 Việt Nam tăng 150% sau 3 tháng",Monday,nương theo sóng đầu_tư công cổ_phiếu doanh_nghiệp nhựa_đường thị_phần số việt nam tăng sau
+2023-02-23,16.0,PLC,PLC: CBTT về ngày ĐKCC để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2023,Thursday,cbtt thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-23,8.1,PLC,"Sóng đầu tư công “thổi hơi nóng” tại cao tốc Bắc - Nam, doanh nghiệp cung cấp nhựa đường 'bốc đầu', cổ phiếu tăng gấp đôi từ đầu năm",Thursday,sóng đầu_tư công thổi hơi nóng cao_tốc bắc nam doanh_nghiệp cung_cấp nhựa_đường bốc đầu cổ_phiếu tăng gấp đầu
+2023-02-01,22.5,PLC,PLC: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-11,16.3,PLO,PLO: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-02-24,0.0,PLX,"Chuỗi dự án khí - điện Lô B tiến thêm một bước quan trọng, triển vọng nào cho các cổ phiếu dầu khí?",Friday,chuỗi dự_án khí điện lô b tiến thêm bước quan_trọng triển_vọng cổ_phiếu
+2023-02-07,16.5,PLX,PLX: Quyết định v/v nghỉ việc hưởng chế độ hưu trí của ông Nguyễn Thanh Sơn - Phó TGĐ,Tuesday,quyết_định v v nghỉ_việc hưởng chế_độ hưu_trí nguyễn_thanh_sơn phó
+2023-02-03,18.5,PLX,"Petrolimex thông qua phương án thoái vốn PG Bank, quy mô giao dịch tối thiểu 2.556 tỷ đồng",Friday,petrolimex thông_qua phương_án thoái vốn pg bank quy_mô giao_dịch tối_thiểu
+2023-02-03,16.5,PLX,PLX: Nghị quyết HĐQT v/v thông qua phương án thoái vốn đầu tư tại PG Bank,Friday,nghị_quyết hđqt v v thông_qua phương_án thoái vốn đầu_tư pg
+2023-02-01,0.0,PLX,"Hai nhà bán lẻ xăng dầu Petrolimex và PV Oil thu hơn 1.100 tỷ mỗi ngày trong quý 4, tồn kho trên 20.000 tỷ đồng cuối năm 2022",Wednesday,nhà bán_lẻ xăng dầu petrolimex pv oil thu hơn tồn_kho cuối
+2023-01-31,17.4,PLX,PLX: Giải trình BCTC quý 4/2022 so với cùng kỳ năm trước,Tuesday,giải_trình bctc so cùng kỳ trước
+2023-01-30,17.3,PLX,PLX: Đăng ký chào bán cổ phiếu,Monday,đăng_ký chào bán
+2023-01-30,17.0,PLX,PLX: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-01-17,10.3,PLX,"PLX: Nghị quyết HĐQT v/v điều chỉnh, sửa đổi một số nội dung tại QĐ số 612/PLX-QĐ-HĐQT",Tuesday,nghị_quyết hđqt v v điều_chỉnh sửa_đổi một_số nội_dung qđ số qđ
+2023-01-10,11.4,PLX,"Sau khi hạ chỉ tiêu lợi nhuận năm 2022, Petrolimex (PLX) bất ngờ báo lãi trước thuế quý 4 gần 1.500 tỷ",Tuesday,sau khi hạ chỉ tiêu bất_ngờ báo lãi thuế gần
+2023-02-20,15.3,PMB,"PMB: 3.3.2023, ngày GDKHQ Đại hội đồng cổ đông thường niên năm 2023",Monday,đại_hội_đồng cổ_đông thường_niên
+2023-02-15,10.5,PMB,PMB: CBTT ngày ĐKCC để thực hiện quyền tham dự ĐHĐCĐ thường niên năm 2023,Wednesday,cbtt thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-02,20.2,PMB,PMB: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-01-19,15.1,PMB,PMB: Nghị quyết HĐQT thông qua các chỉ tiêu kế hoạch SXKD năm 2023,Thursday,nghị_quyết hđqt thông_qua chỉ_tiêu kế_hoạch sxkd
+2023-01-30,17.2,PMG,PMG: Báo cáo tiến độ khắc phục tình trạng chứng khoán bị kiểm soát,Monday,báo_cáo tiến_độ khắc_phục tình_trạng chứng_khoán bị kiểm_soát
+2023-01-30,17.1,PMG,PMG: Giải trình KQKD HN và riêng quý 4/2022 so với cùng kỳ năm trước,Monday,giải_trình kqkd hn riêng so cùng kỳ trước
+2023-01-13,16.5,PMG,PMG: Báo cáo tình hình quản trị công ty năm 2022,Friday,báo_cáo tình_hình quản_trị công_ty
+2023-02-21,0.0,PNJ,"Vàng 24K đóng góp gần 40% tổng doanh thu, PNJ lãi ròng 302 tỷ trong tháng đầu năm",Tuesday,vàng đóng_góp gần lãi_ròng đầu
+2023-02-09,16.4,PNJ,"PNJ thay đổi cơ cấu tổ chức, luân chuyển vị trí loạt lãnh đạo cấp cao",Thursday,thay_đổi cơ_cấu tổ_chức luân_chuyển vị_trí lãnh_đạo cấp cao
+2023-02-08,16.4,PNJ,PNJ: Thông báo thay đổi nhân sự công ty,Wednesday,thông_báo thay_đổi nhân_sự
+2023-02-08,13.4,PNJ,PNJ: Giao dịch 81.997.568 cp niêm yết bổ sung,Wednesday,giao_dịch cp niêm_yết
+2023-02-08,11.2,PNJ,"PNJ: Thông qua hợp đồng, giao dịch với NCLQ NNB trong năm 2023",Wednesday,thông_qua hợp_đồng giao_dịch nclq nnb
+2023-02-08,11.0,PNJ,PNJ: CBTT v/v nhận Giấy chứng nhận ĐKDN thay đổi lần thứ 35,Wednesday,cbtt v v nhận giấy chứng_nhận đkdn thay_đổi thứ
+2023-02-03,17.4,PNJ,"PNJ: 7.2.2023, niêm yết bổ sung 81.997.568 cp",Friday,niêm_yết bổ_sung
+2023-01-31,16.2,PNJ,PNJ: Sửa đổi Khoản 2 Điều 14 Điều lệ tổ chức và hoạt động do vốn điều lệ tăng,Tuesday,sửa_đổi khoản điều điều_lệ tổ_chức hoạt_động vốn điều_lệ tăng
+2023-01-31,15.3,PNJ,PNJ: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,8.0,PNJ,"Đẩy mạnh tích trữ tồn kho trước khi giá vàng tăng mạnh, cổ phiếu PNJ về vùng đỉnh dịp Vía Thần Tài",Tuesday,đẩy mạnh tích_trữ tồn_kho khi giá vàng tăng mạnh cổ_phiếu vùng đỉnh dịp vía
+2023-01-20,19.0,PNJ,"PNJ lãi kỷ lục trong năm 2022, doanh thu vàng 24K tăng 75%",Sunday,lãi kỷ_lục vàng tăng
+2023-01-13,17.0,PNJ,PNJ: CBTT v/v nhận Giấy chứng nhận ĐKDN thay đổi lần thứ 34,Friday,cbtt v v nhận giấy chứng_nhận đkdn thay_đổi thứ
+2023-01-13,15.4,PNJ,PNJ: Số lượng cổ phiếu có quyền biểu quyết đang lưu hành là 327.999.629 cp,Friday,số_lượng cổ_phiếu có quyền biểu_quyết đang lưu_hành là
+2023-02-22,0.0,POM,"Giá thép thế giới nóng lên từng ngày, vì sao cổ phiếu thép chững lại?",Wednesday,giá thép thế_giới nóng lên từng vì_sao cổ_phiếu thép chững lại
+2023-02-13,20.2,POM,"Ngành thép được nhận định đã qua cơn bĩ cực, Pomina (POM) có tân Chủ tịch mới",Monday,ngành thép được nhận_định đã qua cơn bĩ_cực pomina có tân chủ_tịch mới
+2023-02-10,15.2,POM,POM: Nghị quyết HĐQT v/v phân công lại chức vụ trong HĐQT,Friday,nghị_quyết hđqt v v phân_công lại chức_vụ
+2023-02-02,12.5,POM,"Pomina (POM) báo lỗ nặng nhất ngành thép năm 2022, chị gái Chủ tịch HĐQT muốn thoái sạch vốn",Thursday,pomina báo lỗ nặng nhất ngành thép chủ_tịch hđqt muốn thoái sạch vốn
+2023-02-01,17.4,POM,POM: Chị ông Đỗ Tiến Sĩ - CT.HĐQT đăng ký bán 2.486.118 cp,Wednesday,đỗ tiến_sĩ ct hđqt đăng_ký bán
+2023-02-01,10.3,POM,"Thêm Pomina báo lỗ, một năm đầy khó khăn với ngành thép",Wednesday,thêm pomina báo lỗ đầy khó_khăn ngành thép
+2023-02-01,8.1,POM,"Giảm khoảng 45.000 tỷ từ mức kỷ lục giữa năm 2022, tồn kho ngành thép xuống mức thấp nhất trong vòng 7 quý",Wednesday,giảm khoảng mức kỷ_lục ngành thép xuống mức thấp nhất vòng
+2023-01-31,17.4,POM,POM: Giải trình chênh lệch KQKD quý 4/2022 so với cùng kỳ năm trước,Tuesday,giải_trình chênh_lệch kqkd so cùng kỳ trước
+2023-01-31,16.2,POM,POM: Công ty TNHH TM & SX Thép Việt đã mua 600.000 cp,Tuesday,công_ty tnhh tm sx thép việt đã mua
+2023-01-30,16.3,POM,POM: Chị ông Đỗ Tiến Sĩ - CT.HĐQT đăng ký bán 4.588.103 cp,Monday,đỗ tiến_sĩ ct hđqt đăng_ký bán
+2023-01-16,14.5,POM,POM: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-01-11,16.1,POM,POM: Công ty TNHH TM & SX Thép Việt đăng ký mua 800.000 cp,Wednesday,công_ty tnhh tm sx thép việt đăng_ký mua
+2023-02-16,14.1,POW,PV Power (POW) ước doanh thu tháng 1/2023 không đạt kế hoạch,Thursday,pv power ước doanh_thu kế_hoạch
+2023-02-14,10.0,POW,POW: Nghị quyết HĐQT v/v thông qua kế hoạch tổ chức ĐHĐCĐ thường niên năm 2023,Tuesday,nghị_quyết hđqt v v thông_qua kế_hoạch tổ_chức đhđcđ thường_niên
+2023-01-31,14.4,POW,"PV Power (POW) báo lãi quý 4 cao gấp 39 lần cùng kỳ, lợi nhuận cả năm 2022 bỏ xa kế hoạch",Tuesday,pv power báo lãi cao gấp kỳ lợi_nhuận
+2023-01-30,17.3,POW,POW: Giải trình BCTC quý 4/2022 so với cùng kỳ năm trước,Monday,giải_trình bctc so cùng kỳ trước
+2023-01-30,17.2,POW,POW: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-01-12,15.0,POW,Phó TGĐ PV Power Nguyễn Duy Giang: Tổng công ty ước tính vượt 18% kế hoạch doanh thu và 37% kế hoạch lợi nhuận năm 2022,Thursday,tgđ pv power nguyễn_duy_giang tổng_công_ty ước_tính vượt kế_hoạch doanh_thu kế_hoạch lợi_nhuận
+2023-01-16,17.2,PPC,PPC: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-02-20,9.5,PRT,PRT: Tài liệu họp Đại hội đồng cổ đông,Monday,tài_liệu họp đại_hội_đồng
+2023-02-13,17.5,PRT,PRT: Thông báo nộp tiền sử dụng đất theo bản án của Tòa án,Monday,thông_báo nộp tiền sử_dụng đất theo bản_án
+2023-01-31,23.4,PRT,PRT: Đính chính Báo cáo quản trị công ty năm 2022,Tuesday,đính_chính báo_cáo quản_trị công_ty
+2023-01-30,23.4,PRT,PRT: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-01-18,13.0,PRT,"PRT: Nhận được bản án hình sự phúc thẩm đối với vụ án Vi phạm quy định về quản lý, sử dụng tài sản nhà nước gây thất thoát, lãng phí và tham ô tài sản",Wednesday,nhận được bản_án hình_sự phúc_thẩm đối_với vụ_án vi_phạm quy_định quản_lý sử_dụng tài_sản nhà_nước gây thất_thoát lãng_phí tham_ô
+2023-01-17,8.0,PRT,PRT: 8.2.2023 ngày GDKHQ Tham dự Đại hội đồng cổ đông thường niên năm 2022,Tuesday,tham_dự đại_hội_đồng cổ_đông thường_niên
+2023-01-10,10.5,PRT,PRT: Thông báo ngày ĐKCC dự kiến để tổ chức Đại hội đồng cổ đông thường niên năm 2022,Tuesday,thông_báo dự_kiến tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-02-21,9.1,PSD,PSD: Nghị quyết HĐQT thông qua việc mua lại cổ phiếu ESOP,Tuesday,nghị_quyết hđqt thông_qua việc mua lại cổ_phiếu
+2023-02-21,9.1,PSD,PSD: Thông báo về ngày đăng ký cuối cùng để thực hiện quyền tham dự ĐHĐCĐTN năm 2022,Tuesday,thông_báo cuối_cùng thực_hiện quyền tham_dự đhđcđtn
+2023-02-21,9.1,PSD,PSD: Nghị quyết HĐQT về kế hoạch tổ chức ĐHĐCĐ TN 2023,Tuesday,nghị_quyết hđqt kế_hoạch tổ_chức đhđcđ
+2023-02-17,0.0,PSD,"PSD: 27.2.2023, ngày GDKHQ trả cổ tức đợt 1/2022 (800 đ/cp)",Friday,trả cổ_tức
+2023-02-13,15.0,PSD,PSD: Thông báo ngày đăng ký cuối cùng để thực hiện quyền nhận tạm ứng cổ tức đợt 1 năm 2022,Monday,thông_báo cuối_cùng thực_hiện quyền nhận tạm_ứng cổ_tức đợt
+2023-01-18,9.5,PSD,PSD: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-17,11.0,PSD,"PSD: Ngày 30/01/2023, giao dịch đầu tiên 9.204.786 cổ phiếu niêm yết bổ sung",Tuesday,đầu_tiên cổ_phiếu niêm_yết
+2023-01-17,15.5,PTE,PTE: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-01-11,16.0,PTE,PTE: Nghị quyết HĐQT thông qua các hợp đồng giao dịch với các đối tác năm 2023,Wednesday,nghị_quyết hđqt thông_qua hợp_đồng giao_dịch đối_tác
+2023-02-03,16.5,PTL,PTL: Giải trình phương án khắc phục tình trạng chứng khoán bị cảnh báo,Friday,giải_trình phương_án khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-02-01,16.0,PTL,PTL: Nghị quyết HĐQT v/v phát hành cổ phiếu riêng lẻ,Wednesday,nghị_quyết hđqt v v phát_hành cổ_phiếu
+2023-01-31,15.5,PTL,PTL: Giải trình biến động kết quả kinh doanh HN quý 4/2022 so với quý 4/2021,Tuesday,giải_trình biến_động kết_quả kinh_doanh hn so
+2023-01-18,16.4,PTL,PTL: Báo cáo tình hình quản trị công ty năm 2022,Wednesday,báo_cáo tình_hình quản_trị công_ty
+2023-02-14,14.2,PVA,PVA: Bổ sung giải trình biến động lợi nhuận sau thuế Quý 4/2022 so với cùng kỳ năm trước,Tuesday,bổ_sung giải_trình biến_động lợi_nhuận sau thuế so cùng kỳ trước
+2023-02-14,9.3,PVA,PVA: Quyết định về việc đưa vào diện cảnh báo,Tuesday,quyết_định việc đưa diện
+2023-02-07,16.4,PVB,PVB: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-01-13,19.0,PVB,"Đem 40% tài sản đi gửi ngân hàng, một doanh nghiệp dầu khí lỗ quý thứ 3 liên tiếp",Saturday,đem tài_sản đi gửi ngân_hàng doanh_nghiệp dầu_khí lỗ thứ
+2023-01-13,16.3,PVB,PVB: Xử phạt vi phạm hành chính,Friday,xử_phạt vi_phạm
+2023-02-08,16.4,PVC,PVC: Bổ nhiệm ông Trương Đại Nghĩa - Chủ tịch HĐQT kiêm nhiệm giữ chức Chủ tịch HĐQT Công ty TNHH Dịch vụ Hóa chất Dầu khí,Wednesday,bổ_nhiệm trương đại_nghĩa chủ_tịch hđqt kiêm_nhiệm giữ chức chủ_tịch hđqt công_ty tnhh dịch_vụ hóa_chất
+2023-02-01,23.1,PVC,PVC: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-02-24,0.0,PVD,"Chuỗi dự án khí - điện Lô B tiến thêm một bước quan trọng, triển vọng nào cho các cổ phiếu dầu khí?",Friday,chuỗi dự_án khí điện lô b tiến thêm bước quan_trọng triển_vọng cổ_phiếu
+2023-02-15,11.2,PVD,"Khối ngoại mua ròng nghìn tỷ, có lãi trở lại sau 3 quý thua lỗ, khó khăn nhất đã qua với PV Drilling (PVD)?",Wednesday,khối ngoại mua có lãi trở_lại sau thua_lỗ khó_khăn nhất đã qua pv drilling
+2023-02-08,0.0,PVD,"Các siêu cổ phiếu từng có thị giá cao “ngất ngưởng” hàng trăm nghìn đồng, giờ ra sao?",Wednesday,cổ_phiếu từng có thị_giá cao_ngất_ngưởng hàng giờ ra
+2023-01-31,15.4,PVD,PVD: Giải trình BCTC quý 4/2022,Tuesday,giải_trình bctc
+2023-01-31,14.4,PVD,"Sau 3 quý thua lỗ liên tiếp, PVD Drilling báo lãi 53 tỷ đồng trong quý 4/2022",Tuesday,sau thua_lỗ liên_tiếp drilling báo lãi
+2023-01-19,14.2,PVD,PVD: Báo cáo tình hình quản trị công ty năm 2022,Thursday,báo_cáo tình_hình quản_trị công_ty
+2023-02-01,15.2,PVE,PVE: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-02-03,10.2,PVG,PVG: Giải trình chênh lệch lợi nhuận trên Báo cáo tài chính Quý 4-2022,Friday,giải_trình chênh_lệch lợi_nhuận báo_cáo tài_chính
+2023-01-27,15.1,PVG,PVG: Báo cáo quản trị công ty năm 2022,Friday,báo_cáo quản_trị công_ty
+2023-02-03,11.4,PVH,PVH: Báo cáo quản trị công ty năm 2022,Friday,báo_cáo quản_trị công_ty
+2023-02-10,16.3,PVR,"PVR: 27.2.2023, ngày GDKHQ Tham dự Đại hội đồng cổ đông thường niên năm 2023",Friday,tham_dự đại_hội_đồng cổ_đông thường_niên
+2023-02-07,11.4,PVR,PVR: Thông báo ngày ĐKCC dự kiến để tổ chức Đại hội đồng cổ đông thường niên năm 2023,Tuesday,thông_báo dự_kiến tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-01-16,18.0,PVR,PVR: Giải trình biến động lợi nhuận sau thuế Quý 4/2022 so với cùng kỳ năm trước,Monday,giải_trình biến_động lợi_nhuận sau thuế so cùng kỳ trước
+2023-01-16,8.1,PVR,PVR: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-02-24,0.0,PVS,"Chuỗi dự án khí - điện Lô B tiến thêm một bước quan trọng, triển vọng nào cho các cổ phiếu dầu khí?",Friday,chuỗi dự_án khí điện lô b tiến thêm bước quan_trọng triển_vọng cổ_phiếu
+2023-02-21,8.5,PVS,PVS: DELTA GLOBAL FINANCIAL HOLDINGS PRIVATE LIMITED đăng ký mua 150.000 CP,Tuesday,delta global financial holdings private limited đăng_ký mua
+2023-02-21,8.5,PVS,PVS: Kiwoom Vietnam Tomorrow Securities Master Fund[Equity] đăng ký mua 200.000 CP,Tuesday,kiwoom vietnam tomorrow securities master fund equity đăng_ký mua
+2023-02-14,15.0,PVS,"PVS báo lãi cao nhất 15 quý, nhóm VinaCapital muốn mua thêm 1,5 triệu cổ phiếu",Tuesday,báo lãi cao nhất nhóm vinacapital muốn mua thêm
+2023-02-13,15.0,PVS,PVS: Công ty cổ phần Quản lý quỹ VinaCapital đăng ký mua 500.000 CP,Monday,công_ty cổ_phần quản_lý quỹ vinacapital đăng_ký mua
+2023-02-13,13.3,PVS,PVS: Quỹ đầu tư Cổ phiếu tiếp cận thị trường Việt Nam đăng ký mua 1.000.000 CP,Monday,quỹ đầu_tư cổ_phiếu tiếp_cận thị_trường việt nam đăng_ký mua
+2023-02-02,19.3,PVS,PVS: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-01-31,18.5,PVS,PVS: Nghị quyết Phê duyệt giải thể Công ty Liên doanh PTSC Ca Rong Do Ltd. và chấm dứt Dự án đầu tư ra nước ngoài,Tuesday,nghị_quyết phê_duyệt giải_thể công_ty liên_doanh ptsc ca rong ltd chấm_dứt dự_án đầu_tư ra
+2023-01-18,11.0,PVS,"PTSC (PVS) ước lãi trước thuế quý 4/2022 gấp 3,5 lần cùng kỳ, cao nhất trong vòng 15 quý",Wednesday,ptsc ước lãi thuế gấp cùng kỳ cao nhất vòng
+2023-02-27,14.3,PVT,PVT: Nghị quyết HĐQT v/v chốt danh sách cổ đông để thực hiện quyền tham dự ĐHĐCĐ TN 2023,Monday,nghị_quyết hđqt v v chốt danh_sách cổ_đông thực_hiện quyền tham_dự đhđcđ
+2023-01-30,18.2,PVT,PVT: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-01-27,17.2,PVT,PVT: Giải trình BCTC quý 04.2022,Friday,giải_trình bctc
+2023-02-24,15.3,PVV,PVV: Thông báo ngày ĐKCC dự kiến để tổ chức Đại hội đồng cổ đông thường niên năm 2023,Friday,thông_báo dự_kiến tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-02-24,10.0,PVV,PVV: Ông Đinh Cảnh Tiến - Phó Chủ tịch HĐQT đăng ký mua 100.000 CP,Friday,đinh cảnh tiến chủ_tịch hđqt đăng_ký mua
+2023-02-06,9.2,PVV,PVV: Bố sung thông tin Báo cáo quản trị công ty năm 2022,Monday,bố sung thông_tin báo_cáo quản_trị công_ty
+2023-01-31,14.1,PVV,PVV: Công ty cố phần đầu tư SPX đăng ký mua 1.500.000 CP,Tuesday,công_ty cố phần đầu_tư spx đăng_ký mua
+2023-01-19,22.2,PVV,PVV: Ông Trịnh Đức Phú - Chủ tịch HĐQT đính chính đẫ bán 500.000 CP,Thursday,trịnh đức phú chủ_tịch hđqt đính_chính đẫ bán
+2023-01-18,16.4,PVV,PVV: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-18,14.4,PVV,PVV: Ông Trịnh Đức Phú - Chủ tịch HĐQT đã bán 445.000 CP,Wednesday,trịnh đức phú chủ_tịch hđqt đã bán
+2023-01-18,13.5,PVV,PVV: Công ty cố phần đầu tư SPX đã mua 654.500 CP,Wednesday,công_ty cố phần đầu_tư spx đã mua
+2023-01-11,10.4,PVV,PVV: Ông Đinh Cảnh Tiến - Phó Chủ tịch HĐQT chưa mua CP,Wednesday,đinh cảnh tiến chủ_tịch hđqt chưa mua
+2023-01-11,10.4,PVV,PVV: Ông Phạm Đức Tuấn - Ủy viên HĐQT chưa mua CP,Wednesday,phạm đức tuấn ủy_viên hđqt chưa mua
+2023-01-11,10.4,PVV,PVV: Em ông Phạm Đức Tuấn - Ủy viên HĐQT đã mua 48.300 CP,Wednesday,em phạm đức tuấn ủy_viên hđqt đã mua
+2023-01-19,22.2,PVX,PVX: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-01-30,13.0,PVY,Lộ diện các doanh nghiệp lỗ lớn năm 2022,Monday,lộ diện doanh_nghiệp lỗ lớn
+2023-01-18,13.1,PXA,PXA: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-31,18.3,PXI,"PXI: Quyết định sửa chữa, bổ sung Bản án sơ thẩm về tranh chấp hợp đồng xây dựng với CTCP Đầu tư và Xây lắp Dầu khí Sài Gòn",Tuesday,quyết_định sửa_chữa bổ_sung bản_án sơ_thẩm tranh_chấp hợp_đồng xây_dựng ctcp đầu_tư xây_lắp dầu_khí
+2023-01-17,17.2,PXI,PXI: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-02-27,9.3,PXM,PXM: Thông báo ngày ĐKCC để tổ chức Đại hội đồng cổ đông thường niên 2023,Monday,thông_báo tổ_chức đại_hội_đồng cổ_đông
+2023-01-11,16.2,PXM,PXM: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-31,11.0,PXS,PXS: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-01-12,8.1,PXT,PXT: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-01-30,18.2,QBS,QBS: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-01-19,17.2,QBS,QBS: Giải trình BCTC quý 4/2022 và báo cáo khắc phục tình trạng chứng khoán bị kiểm soát,Thursday,giải_trình bctc báo_cáo khắc_phục tình_trạng chứng_khoán bị kiểm_soát
+2023-02-06,16.3,RCD,RCD: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-02-23,14.0,RDP,"RDP: 10.3.2023, ngày GDKHQ tổ chức ĐHĐCĐ thường niên năm 2023",Thursday,tổ_chức đhđcđ thường_niên
+2023-02-21,15.2,RDP,RDP: Nghị quyết HĐQT v/v tổ chức họp ĐHĐCĐ thường niên 2023,Tuesday,nghị_quyết hđqt v v tổ_chức họp đhđcđ
+2023-02-20,17.4,RDP,RDP: Nghị quyết HĐQT v/v triệu tập họp ĐHĐCĐ thường niên năm 2023,Monday,nghị_quyết hđqt v v triệu_tập họp đhđcđ thường_niên
+2023-02-10,16.0,RDP,RDP: Nghị quyết HĐQT v/v điều chỉnh cổ phiếu chuyển nhượng,Friday,nghị_quyết hđqt v v điều_chỉnh cổ_phiếu
+2023-02-08,18.0,RDP,RDP: Đính chính BCTC Cty mẹ quý 4/2022,Wednesday,đính_chính bctc cty mẹ
+2023-01-30,18.1,RDP,"RDP: Giải trình, báo cáo tình hình khắc phục tình trạng chứng khoán bị cảnh báo quý 4/2022",Monday,giải_trình báo_cáo tình_hình khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-01-30,18.1,RDP,RDP: Giải trình BCTC HN và Cty mẹ quý 4/2022 so với cùng kỳ năm trước,Monday,giải_trình bctc hn cty mẹ so cùng kỳ trước
+2023-01-19,17.0,RDP,RDP: Báo cáo tình hình quản trị công ty năm 2022,Thursday,báo_cáo tình_hình quản_trị công_ty
+2023-01-13,18.0,RDP,RDP: Giấy chứng nhận đăng ký hoạt động chi nhánh tại Nghệ An thay đổi lần thứ 2,Friday,giấy chứng_nhận đăng_ký hoạt_động chi_nhánh nghệ_an thứ
+2023-02-22,13.5,RIC,Casino lớn nhất Quảng Ninh lỗ triền miên,Wednesday,lớn nhất quảng_ninh lỗ
+2023-01-30,19.4,RIC,RIC: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-02-22,15.4,S12,S12: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-19,13.4,S27,"S27: Ông Phạm Anh Tuấn đã bán 23.700 CP, không còn là cổ đông lớn từ 13/01/2023",Thursday,phạm tuấn đã bán cp không_còn là cổ_đông lớn
+2023-01-12,13.4,S27,S27: Cổ đông lớn Phạm Anh Tuấn đã bán 200CP,Thursday,cổ_đông lớn phạm tuấn đã bán
+2023-01-12,13.4,S27,S27: Cổ đông lớn Phạm Anh Tuấn đã bán 1.100CP,Thursday,cổ_đông lớn phạm tuấn đã bán
+2023-01-12,13.4,S27,S27: Cổ đông lớn Phạm Anh Tuấn đã bán 100CP,Thursday,cổ_đông lớn phạm tuấn đã bán
+2023-01-12,13.4,S27,S27: Cổ đông lớn Pham Anh Tuấn đã bán 100CP,Thursday,cổ_đông lớn pham tuấn đã bán
+2023-02-16,17.0,SAB,SAB: Giấy xác nhận v/v thay đổi nội dung đăng ký doanh nghiệp,Thursday,giấy xác_nhận v v thay_đổi nội_dung đăng_ký
+2023-02-10,11.1,SAB,"Sabeco (SAB) muốn mua thêm cổ phần của 2 công ty đang thua lỗ trăm tỷ, nâng thành công ty con",Friday,sabeco muốn mua thêm cổ_phần công_ty đang thua_lỗ tỷ nâng thành_công_ty con
+2023-02-09,10.5,SAB,SAB: QĐ v/v nâng tỷ lệ sở hữu của SABECO tại SABIBECO GROUP và SAIGON PACKAGING GROUP,Thursday,qđ v v nâng tỷ_lệ sở_hữu sabeco sabibeco group saigon packaging
+2023-02-08,0.0,SAB,"Các siêu cổ phiếu từng có thị giá cao “ngất ngưởng” hàng trăm nghìn đồng, giờ ra sao?",Wednesday,cổ_phiếu từng có thị_giá cao_ngất_ngưởng hàng giờ ra
+2023-02-06,0.1,SAB,"Top DN nhiều tiền, trả hết nợ vẫn còn hơn chục nghìn tỷ: Một công ty BĐS giá cổ phiếu chưa đầy 7.500 đồng, tiền ròng đem chia cho mỗi cổ phần nhận tới 6.400 đồng",Monday,dn nhiều tiền trả hết nợ vẫn còn hơn tỷ công_ty bđs giá cổ_phiếu chưa đầy đồng_tiền ròng đem chia cổ_phần nhận đồng
+2023-02-03,19.0,SAB,"Hai “ông lớn” ngành bia Sabeco và Habeco đang 'đốt' bao nhiêu tiền cho quảng cáo, khuyến mại?",Sunday,lớn ngành bia sabeco habeco đang đốt bao_nhiêu tiền quảng_cáo
+2023-02-03,13.2,SAB,"SAB: 24.3.2023, ngày GDKHQ để thực hiện quyền tham dự ĐHCĐ thường niên năm 2023",Friday,thực_hiện quyền tham_dự đhcđ thường_niên
+2023-01-31,14.4,SAB,SAB: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-30,18.5,SAB,SAB: Tổ chức ĐHĐCĐ thường niên 2023,Monday,tổ_chức đhđcđ
+2023-01-30,18.5,SAB,SAB: Giải trình BCTC riêng quý 04/2022,Monday,giải_trình bctc
+2023-01-30,18.4,SAB,SAB: Giải trình BCTC hợp nhất quý 04/2022,Monday,giải_trình bctc hợp_nhất
+2023-02-22,10.0,SAM,"Một công ty chứng khoán muốn bán 5,9 triệu cổ phiếu SAM Holdings (SAM) ngay vùng đáy",Wednesday,công_ty chứng_khoán muốn bán cổ_phiếu holdings vùng đáy
+2023-02-21,17.2,SAM,SAM: CTCP Chứng khoán Quốc Gia đăng ký bán 5.928.000 cp,Tuesday,ctcp chứng_khoán quốc_gia đăng_ký bán
+2023-02-14,13.4,SAM,SAM: Nghị quyết HĐQT thông qua chủ trương giao dịch với các bên có liên quan đến công ty năm 2023,Tuesday,nghị_quyết hđqt thông_qua chủ_trương giao_dịch bên có liên_quan công_ty
+2023-01-31,14.5,SAM,SAM: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,8.3,SAM,SAM: Giải trình chênh lệch lợi nhuận sau thuế quý 4/2022 so với quý 4/2021,Tuesday,giải_trình chênh_lệch lợi_nhuận sau thuế so
+2023-01-31,16.5,SBT,"SBT121002: Báo cáo định kỳ tình hình thanh toán gốc, lãi trái phiếu doanh nghiệp năm 2022",Tuesday,báo_cáo định_kỳ tình_hình thanh_toán gốc lãi trái_phiếu doanh_nghiệp
+2023-01-31,16.2,SBT,SBT121002: Báo cáo quản trị công ty bán niên 2023,Tuesday,báo_cáo quản_trị công_ty
+2023-01-31,15.0,SBT,SBT: Bổ nhiệm ông Trần Quốc Thảo giữ chức Phó TGĐ từ 30.1.2023,Tuesday,bổ_nhiệm trần quốc thảo giữ chức tgđ
+2023-01-31,14.3,SBT,SBT: Báo cáo tình hình quản trị công ty 6 tháng 2022-2023,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-30,16.0,SBT,"SBT121002: Đơn vị đã CBTT Q2 NĐ 22-23 hợp nhất và không công bố được báo cáo Mẹ Q2 NĐ 22-23 do đó, đơn vị gửi dữ liệu tại mục bất thường này.",Monday,đơn_vị đã cbtt nđ hợp_nhất không_công_bố được báo_cáo mẹ nđ do_đó đơn_vị gửi dữ_liệu mục bất_thường
+2023-01-27,17.2,SBT,SBT121002: Giải trình biến động kết quả kinh doanh quý 2 Niên độ 2022-2023,Friday,giải_trình biến_động kết_quả kinh_doanh niên độ
+2023-01-27,11.2,SBT,SBT: Giải trình biến động KQKD quý 2 niên độ 2022-2023,Friday,giải_trình biến_động kqkd niên độ
+2023-02-24,13.3,SBV,"SBV: 16.3.2023, ngày GDKHQ tham dự ĐHĐCĐ thường niên năm 2023",Friday,tham_dự đhđcđ thường_niên
+2023-02-20,17.4,SBV,SBV: Nghị quyết HĐQT về ngày ĐKCC tham dự ĐHĐCĐ thường niên năm 2023,Monday,nghị_quyết hđqt tham_dự đhđcđ thường_niên
+2023-02-14,17.2,SBV,SBV: Nghị quyết HĐQT v/v thông qua giao dịch với các bên có liên quan trong năm 2023,Tuesday,nghị_quyết hđqt v v thông_qua giao_dịch bên có liên_quan
+2023-01-30,18.0,SBV,SBV: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-01-30,17.2,SBV,SBV: Giải trình chênh lệch LNST quý 4/2022 so với cùng kỳ năm trước,Monday,giải_trình chênh_lệch lnst so cùng kỳ trước
+2023-01-30,16.3,SBV,Doanh nghiệp kinh doanh dây thừng duy nhất trên sàn chứng khoán báo lãi thấp kỷ lục từ khi niêm yết,Monday,doanh_nghiệp kinh_doanh dây thừng duy_nhất sàn chứng_khoán báo lãi thấp kỷ_lục khi
+2023-02-20,15.2,SCD,SCD: Nhắc nhở chậm CBTT giao dịch với bên có liên quan,Monday,nhắc_nhở chậm cbtt giao_dịch bên có
+2023-02-16,13.2,SCD,SCD: Nghị quyết HĐQT v/v thông qua giao dịch với Công ty Cổ phần Bao bì Sài Gòn,Thursday,nghị_quyết hđqt v v thông_qua giao_dịch công_ty cổ_phần bao_bì
+2023-01-26,8.5,SCD,"Cạnh tranh khốc liệt, Sá xị Chương Dương lỗ 85 tỷ đồng trong 2 năm",Thursday,cạnh_tranh khốc_liệt sá xị chương_dương lỗ
+2023-01-19,16.4,SCD,SCD: Cập nhật kết quả cải thiện lỗ và phương án khắc phục KQKD thời gian tới,Thursday,cập_nhật kết_quả cải_thiện lỗ phương_án khắc_phục kqkd thời_gian
+2023-01-19,16.4,SCD,SCD: Giải trình KQKD quý 4/2022 so với cùng kỳ năm trước,Thursday,giải_trình kqkd so cùng kỳ trước
+2023-01-19,16.2,SCD,SCD: Giải trình và phương án khắc phục chứng khoán bị cảnh báo,Thursday,giải_trình phương_án khắc_phục chứng_khoán bị cảnh_báo
+2023-01-13,11.0,SCD,SCD: Báo cáo tình hình quản trị công ty năm 2022,Friday,báo_cáo tình_hình quản_trị công_ty
+2023-02-27,9.1,SCO,SCO: Nghị quyết HĐQT v/v thông qua ngày chốt danh sách cổ đông để thực hiện quyền tham dự ĐHĐCĐ năm 2023,Monday,nghị_quyết hđqt v v thông_qua danh_sách cổ_đông thực_hiện quyền tham_dự đhđcđ
+2023-02-27,9.1,SCO,SCO: Công văn v/v chốt danh sách cổ đông ngày ĐKCC để thực hiện quyền tham dự ĐHĐCĐ năm 2023,Monday,công_văn v v chốt danh_sách cổ_đông thực_hiện quyền tham_dự đhđcđ
+2023-01-10,14.0,SCO,SCO: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-02-14,10.3,SD1,SD1: Thông báo về việc điều chỉnh tình trạng chứng khoán,Tuesday,thông_báo việc điều_chỉnh tình_trạng
+2023-02-14,10.3,SD1,SD1: Quyết định đưa vào diện cảnh báo,Tuesday,quyết_định đưa diện
+2023-02-03,16.4,SD5,"SD5: 8.2.2023, ngày GDKHQ trả cổ tức bằng tiền mặt (750đ/cp)",Friday,trả cổ_tức tiền_mặt
+2023-01-27,16.4,SD5,SD5: Báo cáo quản trị công ty năm 2022,Friday,báo_cáo quản_trị công_ty
+2023-01-19,10.5,SD5,SD5: Thông báo ngày đăng ký cuối cùng và ngày chi trả cổ tức năm 2021,Thursday,cuối_cùng cổ_tức
+2023-01-19,9.4,SD5,SD5: Nghị quyết về việc phê duyệt trả cổ tức năm 2021 bằng tiền,Thursday,nghị_quyết việc phê_duyệt trả cổ_tức tiền
+2023-02-20,8.4,SD6,SD6: Nghị quyết HĐQT phê duyệt kế hoạch tổ chức ĐHĐCĐ TN 2023,Monday,nghị_quyết hđqt phê_duyệt kế_hoạch tổ_chức đhđcđ
+2023-01-31,15.2,SDJ,SDJ: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-02-02,14.5,SDP,SDP: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-01-16,12.0,SDY,SDY: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-02-14,8.4,SGO,SGO: Quyết định về việc đưa vào diện đình chỉ giao dịch,Tuesday,quyết_định việc đưa diện đình_chỉ
+2023-02-24,17.2,SGT,SGT: Quyết định HĐQT về ngày ĐKCC tổ chức ĐHĐCĐ thường niên năm 2023,Friday,quyết_định hđqt tổ_chức đhđcđ thường_niên
+2023-02-01,17.3,SGT,SGT: Đính chính chức danh Ông Lê Nguyễn Hoàng Anh và ngày ký BCTC HN quý 4/2022,Wednesday,đính_chính chức_danh lê_nguyễn_hoàng_anh ký bctc hn
+2023-01-31,15.2,SGT,SGT: Giải trình phương án khắc phục tình trạng chứng khoán bị cảnh báo quý 4/2022,Tuesday,giải_trình phương_án khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-01-31,14.3,SGT,SGT: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-18,18.1,SGT,SGT: Bà Lê Thị Kim Nhung - TV.BKS đã bán 43.600 cp (đính chính),Wednesday,lê_thị_kim nhung tv bks đã bán cp
+2023-01-16,17.4,SGT,SGT: Quyết định HĐQT ban hành quy chế CBTT 2023,Monday,quyết_định hđqt ban_hành quy_chế
+2023-01-10,16.2,SGT,SGT: Bà Lê Thị Kim Nhung - TV.BKS đã bán 43.600 cp,Tuesday,lê_thị_kim nhung tv bks đã bán
+2023-02-09,9.4,SII,Loạt doanh nghiệp đối mặt với án hủy niêm yết,Thursday,doanh_nghiệp đối_mặt án hủy
+2023-01-30,13.0,SII,Lộ diện các doanh nghiệp lỗ lớn năm 2022,Monday,lộ diện doanh_nghiệp lỗ lớn
+2023-01-19,11.1,SII,SII: Lưu ý Công ty về khả năng hủy niêm yết,Thursday,lưu_ý công_ty khả_năng hủy
+2023-01-17,18.0,SII,SII: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-17,17.5,SII,SII: Giải trình cổ phiếu bị kiểm soát do KQKD,Tuesday,giải_trình cổ_phiếu bị kiểm_soát
+2023-01-11,16.3,SII,SII: Nghị quyết HĐQT về phương án thoái vốn tại CTCP nước Sài Gòn - An Khê,Wednesday,nghị_quyết hđqt phương_án thoái vốn ctcp nước sài_gòn
+2023-01-11,16.3,SII,SII: Nghị quyết HĐQT v/v giải thể Công ty TNHH MTV Đầu tư Nước SGN,Wednesday,nghị_quyết hđqt v v giải_thể công_ty tnhh mtv đầu_tư nước
+2023-02-10,19.0,SJC,Doanh nghiệp có ca sỹ Khánh Phương là cổ đông lớn thua lỗ nặng,Sunday,doanh_nghiệp có ca sỹ khánh phương là cổ_đông lớn thua_lỗ nặng
+2023-01-31,19.5,SJC,SJC: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-01-19,11.2,SJC,SJC: Cổ đông lớn Nguyễn Thanh Hải đã mua 33.600 CP,Thursday,cổ_đông lớn nguyễn thanh_hải đã mua
+2023-01-16,11.3,SJC,"Ca sỹ “Chiếc khăn gió ấm” tham gia HĐQT, một cổ phiếu bất động sản tăng gấp 9 lần sau chưa đầy 5 tháng",Monday,ca sỹ khăn gió ấm tham_gia hđqt cổ_phiếu bất_động_sản tăng gấp sau chưa đầy_tháng
+2023-01-30,18.5,SJD,SJD: CBTT tình hình khắc phục việc CK bị đưa vào diện kiểm soát và giải trình BCTC Q4/2022,Monday,cbtt tình_hình khắc_phục việc ck bị đưa diện kiểm_soát giải_trình
+2023-01-19,14.2,SJD,SJD: Báo cáo tình hình quản trị công ty năm 2022,Thursday,báo_cáo tình_hình quản_trị công_ty
+2023-02-16,13.2,SMA,SMA: Nghị quyết HĐQT v/v vay vốn của công ty,Thursday,nghị_quyết hđqt v v vay vốn công_ty
+2023-02-08,15.3,SMA,SMA: Thay đổi địa chỉ website,Wednesday,thay_đổi địa_chỉ
+2023-02-01,15.1,SMA,SMA: Giải trình khắc phục tình trạng chứng khoán bị cảnh báo,Wednesday,giải_trình khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-01-30,17.2,SMA,SMA: Giải trình KQKD quý 4/2022 so với cùng kỳ năm trước,Monday,giải_trình kqkd so cùng kỳ trước
+2023-01-19,16.5,SMA,SMA: Báo cáo tình hình quản trị công ty năm 2022,Thursday,báo_cáo tình_hình quản_trị công_ty
+2023-02-24,12.5,SP2,SP2: Bổ nhiệm ông Bùi Quế Lâm giữ chức Phó TGĐ từ 01/03/2023,Friday,bổ_nhiệm bùi quế_lâm giữ chức tgđ
+2023-02-20,9.0,SP2,SP2: Thông báo về trạng thái chứng khoán,Monday,thông_báo trạng_thái
+2023-02-20,8.5,SP2,SP2: Quyết định về việc đưa ra khỏi diện hạn chế giao dịch,Monday,quyết_định việc đưa ra khỏi diện hạn_chế
+2023-02-15,10.4,SP2,SP2: Giải trình liên quan đến Báo cáo tài chính kiểm toán năm 2022,Wednesday,giải_trình liên_quan báo_cáo tài_chính kiểm_toán
+2023-02-10,16.3,SP2,"SP2: 27.2.2023, ngày GDKHQ Đại hội đồng cổ đông thường niên năm 2023",Friday,đại_hội_đồng cổ_đông thường_niên
+2023-02-07,11.4,SP2,SP2: Thông báo ngày ĐKCC dự kiến để tổ chức Đại hội đồng cổ đông thường niên năm 2023,Tuesday,dự_kiến tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-01-17,15.0,SP2,SP2: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-02-24,11.0,STT,STT: Ký kết hợp đồng kiểm toán,Friday,ký_kết hợp_đồng
+2023-02-22,9.3,STT,STT: Nghị quyết HĐQT v/v lựa chọn công ty kiểm toán BCTC năm 2022,Wednesday,nghị_quyết hđqt v v lựa_chọn công_ty kiểm_toán bctc
+2023-02-02,14.3,STT,STT: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-02-14,8.4,TBH,TBH: Quyết định về việc đưa vào diện cảnh báo,Tuesday,quyết_định việc đưa diện
+2023-02-22,9.5,TCJ,TCJ: Cổ đông lớn Nguyễn Thanh Hiền đã mua 113.400 CP,Wednesday,cổ_đông lớn thanh đã mua
+2023-02-01,15.0,TCJ,TCJ: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-18,9.5,TCK,TCK: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-31,17.4,TCR,TCR: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-27,17.2,TCR,TCR: Giải trình chênh lệch lợi nhuận BCTC HN và Cty mẹ quý 4/2022 so với cùng kỳ năm trước,Friday,giải_trình chênh_lệch lợi_nhuận bctc hn cty mẹ so cùng kỳ trước
+2023-01-27,11.2,TCR,TCR: Lộ trình khắc phục LNST chưa phân phối đến quý 4/2022,Friday,lộ_trình khắc_phục lnst chưa phân_phối
+2023-02-24,16.1,TDH,TDH: TCBC và CĐ về kết luận điều tra bổ sung vụ án hình sự liên quan đến hoạt động của Thủ Đức House,Friday,tcbc cđ kết_luận điều_tra bổ_sung vụ_án hình_sự liên_quan hoạt_động thủ_đức
+2023-02-08,0.0,TDH,"Các siêu cổ phiếu từng có thị giá cao “ngất ngưởng” hàng trăm nghìn đồng, giờ ra sao?",Wednesday,cổ_phiếu từng có thị_giá cao_ngất_ngưởng hàng giờ ra
+2023-02-03,8.5,TDH,Một công ty bất động sản chỉ còn vỏn vẹn 3 tỷ tiền mặt và tiền gửi,Friday,công_ty bất_động_sản chỉ còn vỏn_vẹn tiền_mặt tiền gửi
+2023-01-31,15.3,TDH,TDH: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,8.4,TDH,"TDH: Báo cáo tình hình khắc phục tình trạng chứng khoán bị kiểm soát, hạn chế giao dịch",Tuesday,báo_cáo tình_hình khắc_phục tình_trạng chứng_khoán bị kiểm_soát hạn_chế
+2023-01-18,13.2,TDH,"Sau gần 1 năm cam kết lấy lại chợ nông sản chưa thành, Thuduc House (TDH) đâm đơn kiện",Wednesday,sau gần cam_kết lấy lại chợ nông_sản chưa thành thuduc house đâm_đơn kiện
+2023-01-17,16.3,TDH,TDH: Thông cáo báo chí liên quan đến Chợ Nông Sản Thủ Đức,Tuesday,thông_cáo báo_chí liên_quan chợ nông_sản
+2023-01-09,17.0,TDH,TDH: Thông qua chủ trương giao dịch với các bên có liên quan năm 2023,Monday,thông_qua chủ_trương giao_dịch bên có liên_quan
+2023-02-07,17.1,TGG,TGG: Thông báo họp và tài liệu họp ĐHĐCĐ bất thường năm 2023,Tuesday,thông_báo họp tài_liệu họp đhđcđ bất_thường
+2023-02-07,14.5,TGG,TGG: Ông Ngô Quang Tuấn - CĐL đã mua 166.000 cp,Tuesday,ngô quang tuấn cđl đã mua
+2023-01-31,14.5,TGG,TGG: Báo cáo tình hình quản trị công ty năm 2022,Tuesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-30,18.3,TGG,TGG: Giải trình KQKD HN và riêng quý 4/2022 so với cùng kỳ năm trước,Monday,giải_trình kqkd hn riêng so cùng kỳ trước
+2023-01-19,11.1,TGG,"TGG: 2.2.2023, ngày GDKHQ tham dự ĐHĐCĐ bất thường năm 2023",Thursday,tham_dự đhđcđ bất_thường
+2023-01-13,14.2,TGG,TGG: Nghị quyết HĐQT v/v triệu tập ĐHĐCĐ bất thường năm 2023,Friday,nghị_quyết hđqt v v triệu_tập đhđcđ bất_thường
+2023-01-10,17.3,TGG,TGG: CBTT thanh lý hợp đồng kiểm toán,Tuesday,cbtt thanh_lý hợp_đồng
+2023-01-30,19.4,TH1,TH1: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-01-09,9.0,TH1,TH1: Nghị quyết HĐQT thông qua kết quả hoạt động SXKD năm 2022 và kế hoạch năm 2023,Monday,nghị_quyết hđqt thông_qua kết_quả hoạt_động kế_hoạch
+2023-01-31,17.3,TNI,TNI: Giải trình phương án khắc phục tình trạng chứng khoán bị cảnh báo quý 4/2022,Tuesday,giải_trình phương_án khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-01-30,13.0,TNI,Lộ diện các doanh nghiệp lỗ lớn năm 2022,Monday,lộ diện doanh_nghiệp lỗ lớn
+2023-01-19,13.4,TNI,TNI: Giải trình chênh lệch lợi nhuận quý 4/2022 so với cùng kỳ năm trước,Thursday,giải_trình chênh_lệch lợi_nhuận so cùng kỳ trước
+2023-01-18,16.3,TNI,TNI: Báo cáo tình hình quản trị công ty năm 2022,Wednesday,báo_cáo tình_hình quản_trị công_ty
+2023-01-13,14.2,TNI,TNI: Nghị quyết HĐQT thông qua chủ trương giao dịch mau bán hàng hóa với CTCP Thép Sài Gòn,Friday,nghị_quyết hđqt thông_qua chủ_trương giao_dịch mau bán hàng_hóa ctcp thép
+2023-02-10,10.1,TNM,TNM: Ông Nguyễn Văn Cưng - Phó Chủ tịch HĐQT đã bán 20.900 CP,Friday,nguyễn_văn_cưng chủ_tịch hđqt đã bán
+2023-01-30,11.5,TNM,"TNM: 7.2.2023, ngày GDKHQ lấy ý kiến cổ đông bằng văn bản",Monday,lấy ý_kiến cổ_đông văn_bản
+2023-01-17,9.5,TNM,TNM: Thông báo ngày đăng ký cuối cùng dự kiến để lấy ý kiến cổ đông bằng văn bản,Tuesday,thông_báo cuối_cùng dự_kiến lấy ý_kiến cổ_đông văn_bản
+2023-01-12,14.3,TNM,TNM: Ông Nguyễn Văn Cưng - Phó Chủ tịch HĐQT đăng ký bán 25.960 CP,Thursday,nguyễn_văn_cưng chủ_tịch hđqt đăng_ký bán
+2023-02-22,15.2,TOP,TOP: Ông Nguyễn Ngọc Dưỡng - Chủ tịch HĐQT đăng ký mua 500.000 CP,Wednesday,nguyễn_ngọc_dưỡng chủ_tịch hđqt đăng_ký mua
+2023-02-22,15.2,TOP,TOP: Ông Đặng Đức Lợi - Giám đốc đăng ký bán 443.600 CP,Wednesday,đặng_đức lợi giám_đốc đăng_ký bán
+2023-02-16,15.0,TOP,TOP: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-02-14,10.2,TOP,TOP: Thông báo về việc điều chỉnh tình trạng chứng khoán,Tuesday,thông_báo việc điều_chỉnh tình_trạng
+2023-02-14,10.2,TOP,TOP: Quyết định về việc đưa vào diện cảnh báo,Tuesday,quyết_định việc đưa diện
+2023-01-19,13.4,TOP,TOP: Ông Vũ Đình Phúc - Ủy viên HĐQT đã bán 300.000 CP,Thursday,vũ_đình phúc ủy_viên hđqt đã bán
+2023-01-16,11.4,TOP,TOP: Công bố nhận được đơn xin từ nhiệm chức vụ thành viên HĐQT của ông Vũ Đình Phúc,Monday,công_bố nhận được đơn xin nhiệm_chức_vụ thành_viên hđqt vũ_đình
+2023-02-14,8.4,TS4,TS4: Quyết định về việc đưa vào diện đình chỉ giao dịch,Tuesday,quyết_định việc đưa diện đình_chỉ
+2023-01-17,16.5,TS4,TS4: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-02-15,10.4,TSD,"TSD: Nghị quyết HĐQT thông qua quyết toán BCTC 2022, kế hoạch 2023 và bổ nhiệm chức vụ Phó giám đốc",Wednesday,nghị_quyết hđqt thông_qua quyết_toán bctc kế_hoạch bổ_nhiệm chức vụ phó
+2023-02-15,8.2,TSD,TSD: Bổ nhiệm ông Võ Quang Hòa giữ chức Phó giám đốc từ 14/02/2023,Wednesday,bổ_nhiệm võ quang hòa_giữ chức giám_đốc
+2023-01-30,14.2,TSD,TSD: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-01-16,18.0,TSD,TSD: Giải trình chậm công bố thông tin việc ký hợp đồng kiểm toán,Monday,giải_trình chậm công_bố thông_tin việc ký hợp_đồng
+2023-02-01,15.3,TTF,"Giảm lỗ trong quý 4, Gỗ Trường Thành (TTF) báo lãi ròng 11 tỷ đồng cả năm",Wednesday,giảm lỗ gỗ trường_thành báo lãi_ròng
+2023-01-31,17.3,TTF,TTF: Giải trình biến động KQKD quý 4/2022 so với cùng kỳ năm trước,Tuesday,giải_trình biến_động kqkd so cùng kỳ trước
+2023-01-31,15.5,TTF,TTF: Giải trình phương án khắc phục tình trạng chứng khoán bị cảnh báo,Tuesday,giải_trình phương_án khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-01-19,14.3,TTF,TTF: Báo cáo tình hình quản trị công ty năm 2022,Thursday,báo_cáo tình_hình quản_trị công_ty
+2023-01-12,17.5,TTF,TTF: Ông Võ Quốc Lợi - TV.HĐQT đã mua 1.000.000 cp,Thursday,võ quốc lợi tv hđqt đã mua
+2023-01-09,10.5,TTF,TTF: Nghị quyết HĐQT về phương án vay vốn ngắn hạn ngân hàng đối với CT TNHH MTV Sứ Thiên Thanh,Monday,nghị_quyết hđqt về phương_án vay vốn ngắn_hạn ngân_hàng đối_với ct tnhh mtv sứ
+2023-02-23,17.2,UDC,UDC: Nghị quyết HĐQT thông qua phương án sử dụng tài sản đảm bảo nghĩa vụ thanh toán,Thursday,nghị_quyết hđqt thông_qua phương_án sử_dụng tài_sản đảm_bảo nghĩa_vụ
+2023-02-14,9.2,UDC,Hàng loạt cổ phiếu có nguy cơ bị huỷ niêm yết do nhiều năm thua lỗ triền miên,Tuesday,hàng_loạt cổ_phiếu có nguy_cơ bị huỷ niêm_yết nhiều
+2023-02-08,19.3,UDC,"Loạt doanh nghiệp lỗ triền miên, cổ phiếu vào 'tầm ngắm' phải rời sàn",Wednesday,doanh_nghiệp lỗ triền_miên cổ_phiếu tầm ngắm phải rời sàn
+2023-02-03,16.0,UDC,UDC: Lưu ý công ty về khả năng hủy niêm yết,Friday,lưu_ý công_ty khả_năng hủy
+2023-02-03,16.0,UDC,UDC: Kết quả thực hiện lộ trình khắc phục tình trạng chứng khoán bị kiểm soát,Friday,kết_quả thực_hiện lộ_trình khắc_phục tình_trạng chứng_khoán bị kiểm_soát
+2023-01-27,16.3,UDC,UDC: Báo cáo tình hình quản trị công ty năm 2022,Friday,báo_cáo tình_hình quản_trị công_ty
+2023-02-17,8.5,V11,V11: Báo cáo quản trị công ty năm 2022,Friday,báo_cáo quản_trị công_ty
+2023-02-21,10.3,VAT,"VAT: Cổ đông lớn Trần Kim Phượng đã bán 900 CP, đã mua 50.300 CP",Tuesday,cổ_đông lớn trần kim_phượng đã bán cp đã mua
+2023-02-14,9.3,VAT,VAT: Quyết định về việc đưa vào diện đình chỉ giao dịch,Tuesday,quyết_định việc đưa diện đình_chỉ
+2023-02-14,9.0,VAT,VAT: Quyết định về việc đưa vào diện cảnh báo,Tuesday,quyết_định việc đưa diện
+2023-01-19,14.0,VAT,VAT: Cổ đông lớn Trần Kim Phượng đã mua 1.200 CP,Thursday,cổ_đông lớn trần kim_phượng đã mua
+2023-02-07,21.1,VC5,VC5: Cổ đông lớn Hồ Trung Đông đã mua 50.300 CP,Tuesday,cổ_đông lớn hồ trung_đông đã mua
+2023-02-07,21.1,VC5,VC5:Cổ đông lớn Hồ Trung Đông đã mua 101.200 CP,Tuesday,cổ_đông lớn hồ trung_đông đã mua
+2023-02-07,16.3,VC5,"VC5: Ông Hồ Trung Đông đã mua 49.900 CP, trở thành CĐL từ 14/10/2022",Tuesday,hồ trung_đông đã mua cp trở_thành cđl
+2023-02-23,11.4,VCT,VCT: Thông báo ngày ĐKCC dự kiến để thực hiện quyền tham dự ĐHĐCĐ thường niên 2023,Thursday,thông_báo dự_kiến thực_hiện quyền tham_dự đhđcđ
+2023-01-30,22.5,VCT,VCT: Báo cáo quản trị công ty năm 2022,Monday,báo_cáo quản_trị công_ty
+2023-01-17,12.1,VES,VES: Báo cáo quản trị công ty năm 2022,Tuesday,báo_cáo quản_trị công_ty
+2023-01-31,17.3,VFG,VFG: Thông báo v/v chấm dứt đầu tư ra nước ngoài,Tuesday,thông_báo v v chấm_dứt đầu_tư ra
+2023-01-30,18.3,VFG,VFG: Báo cáo tình hình quản trị công ty năm 2022,Monday,báo_cáo tình_hình quản_trị công_ty
+2023-01-19,17.4,VFG,"VFG: 7.2.2023, ngày GDKHQ chi tạm ứng cổ tức đợt 2 năm 2022 (1.000 đ/cp)",Thursday,tạm_ứng cổ_tức đợt
+2023-01-19,16.2,VFG,VFG: CBTT v/v khắc phục diện kiểm soát do có ý kiến ngoại trừ,Thursday,cbtt v v khắc_phục diện kiểm_soát có ý_kiến
+2023-01-18,16.2,VFG,VFG: Ngày ĐKCC chốt danh sách cổ đông để chi trả cổ tức đợt 2 năm 2022,Wednesday,chốt danh_sách cổ_đông chi_trả cổ_tức đợt
+2023-01-17,16.1,VFG,VFG: Giải trình chênh lệch lợi nhuận sau thuế quý 4/2022 so với quý 4/2021,Tuesday,giải_trình chênh_lệch lợi_nhuận sau thuế so
+2023-01-17,16.0,VFG,VFG: Nghị quyết HĐQT số 01 ngày 16/01/2023,Tuesday,nghị_quyết hđqt số
+2023-01-17,16.0,VFG,VFG: Nghị quyết HĐQT v/v thông qua giao dịch với người có liên quan trong năm 2023,Tuesday,nghị_quyết hđqt v v thông_qua giao_dịch người có liên_quan
+2023-02-10,15.1,VIR,VIR: Báo cáo quản trị công ty năm 2022,Friday,báo_cáo quản_trị công_ty
+2023-01-13,16.4,VIR,VIR: Nghị quyết Hội đồng quản trị về việc hạch toán bổ sung các khoản nộp ngân sách nhà nước,Friday,nghị_quyết hội_đồng_quản_trị việc hạch_toán bổ_sung khoản nộp ngân_sách
+2023-01-12,10.1,VNI,VNI: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-02-24,13.2,VOS,"VOS: 9.3.2023, ngày GDKHQ tổ chức ĐHĐCĐ thường niên năm 2023",Friday,tổ_chức đhđcđ thường_niên
+2023-02-17,16.4,VOS,VOS: Ngày ĐKCC để thực hiện quyền tham dự ĐHCĐ thường niên năm 2023,Friday,thực_hiện quyền tham_dự đhcđ thường_niên
+2023-02-17,16.1,VOS,VOS: Nghị quyết HĐQT về chủ trương tổ chức họp ĐHĐCĐ thường niên 2023,Friday,nghị_quyết hđqt chủ_trương tổ_chức họp đhđcđ
+2023-01-31,16.0,VOS,VOS: Biện pháp và lộ trình khắc phục tình trạng chứng khoán bị cảnh báo,Tuesday,biện_pháp lộ_trình khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-01-30,17.2,VOS,VOS: Giải trình chênh lệch doanh thu và lợi nhuận quý 4/2022 và năm 2022,Monday,giải_trình chênh_lệch doanh_thu lợi_nhuận
+2023-01-30,13.0,VOS,Lộ diện các doanh nghiệp lỗ lớn năm 2022,Monday,lộ diện doanh_nghiệp lỗ lớn
+2023-02-01,15.1,VPC,VPC: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-02-23,16.3,VSF,VSF: Nghị quyết HĐQT v/v triệu tập họp ĐHĐCĐ thường niên 2023,Thursday,nghị_quyết hđqt v v triệu_tập họp đhđcđ
+2023-02-14,10.2,VSF,VSF: Thông báo về việc điều chỉnh tình trạng chứng khoán,Tuesday,thông_báo việc điều_chỉnh tình_trạng
+2023-02-14,10.2,VSF,VSF: Quyết định đưa ra khỏi diện hạn chế giao dịch,Tuesday,quyết_định đưa ra khỏi diện hạn_chế
+2023-02-10,14.2,VSF,VSF: Bổ nhiệm ông Nguyễn Văn Hiển giữ chức Phó TGĐ từ 09/02/2023,Friday,bổ_nhiệm nguyễn_văn_hiển giữ chức tgđ
+2023-02-02,14.4,VSF,VSF: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-02-27,9.1,VST,"VST: Công bố thông tin Giấy chứng nhận đăng ký chứng khoán, đăng ký thay đổi lần 5",Monday,công_bố thông_tin giấy chứng_nhận đăng_ký chứng_khoán đăng_ký thay_đổi
+2023-02-16,14.5,VST,VST: Nghị quyết HĐQT v/v đăng ký tăng vốn điều lệ,Thursday,nghị_quyết hđqt v v đăng_ký tăng vốn
+2023-02-10,14.2,VST,VST: Công ty TNHH Mua bán nợ Việt Nam đã mua 4.000.000 CP,Friday,công_ty tnhh mua_bán nợ việt nam đã mua
+2023-02-02,15.0,VST,VST: Số lượng cổ phiếu có quyền biểu quyết đang lưu hành là 66.999.337 CP,Thursday,số_lượng cổ_phiếu có quyền biểu_quyết đang lưu_hành là
+2023-02-02,15.0,VST,VST: Đã phát hành 4.000.000 cổ phiêu để hoán đổi nợ,Thursday,đã phát_hành cổ phiêu hoán đổi nợ
+2023-01-27,14.5,VST,VST: Báo cáo quản trị công ty năm 2022,Friday,báo_cáo quản_trị công_ty
+2023-01-17,10.4,VST,VST: Công đoàn CTCP Vận tải và Thuê tàu biển Việt Nam đăng ký bán 30.000 CP,Tuesday,công_đoàn ctcp vận_tải thuê tàu_biển việt nam đăng_ký bán
+2023-01-16,13.5,VST,VST: Công đoàn CTCP Vận tải và Thuê tàu biển Việt Nam đã bán 26.000 CP,Monday,công_đoàn ctcp vận_tải thuê tàu_biển việt nam đã bán
+2023-02-27,9.2,VTG,VTG: Nghị quyết HĐQT v/v giải thể chi nhánh TP.HCM,Monday,nghị_quyết hđqt v v giải_thể chi_nhánh tp
+2023-02-01,16.3,VTG,VTG: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-17,15.0,VTG,VTG: Ký hợp đồng kiểm toán để thực hiện kiểm toán Báo cáo tài chính năm 2022,Tuesday,ký hợp_đồng kiểm_toán thực_hiện kiểm_toán báo_cáo tài_chính
+2023-01-18,15.3,VTI,VTI: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-02-27,9.1,VTR,VTR: Thay đổi giấy đăng ký kinh doanh,Monday,thay_đổi giấy đăng_ký
+2023-02-24,19.0,VTR,"Sau khi tăng vốn điều lệ, ai là cổ đông lớn của Vietravel?",Saturday,sau khi tăng vốn điều_lệ là cổ_đông lớn
+2023-02-22,15.3,VTR,VTR: Giấy chứng nhận đăng ký chứng khoán thay đổi lần 7,Wednesday,giấy chứng_nhận đăng_ký chứng_khoán thay_đổi
+2023-02-16,15.0,VTR,VTR: Quyết định v/v tăng vốn điều lệ sau khi kết thúc đợt phát hành cổ phiếu hoán đổi nợ và chào bán cổ phiếu riêng lẻ,Thursday,quyết_định v v tăng vốn điều_lệ sau khi kết_thúc đợt phát_hành cổ_phiếu hoán đổi nợ chào bán cổ_phiếu
+2023-02-16,15.0,VTR,VTR: Sửa đổi bổ sung điều lệ tổ chức và hoạt động Công ty,Thursday,sửa_đổi bổ_sung điều_lệ tổ_chức hoạt_động
+2023-02-16,14.2,VTR,"VTR: CTCP Tập đoàn Hưng Thịnh được hoán đổi nợ thành 6.000.000 CP, trở thành CĐL từ 07/02/2023",Thursday,ctcp tập_đoàn hưng_thịnh được hoán đổi nợ thành cp trở_thành cđl
+2023-02-10,19.5,VTR,"Tập đoàn Hưng Thịnh trở thành cổ đông lớn sở hữu 20,5% vốn cổ phần của Vietravel",Friday,tập_đoàn hưng_thịnh trở_thành cổ_đông lớn sở_hữu vốn cổ_phần
+2023-02-10,16.0,VTR,Chủ tịch HĐQT Nguyễn Quốc Kỳ trở thành cổ đông lớn tại Vietravel (VTR) sau đợt chào bán riêng lẻ,Friday,chủ_tịch hđqt nguyễn_quốc_kỳ trở_thành cổ_đông lớn vietravel sau đợt chào bán
+2023-02-10,14.2,VTR,VTR: Ông Võ Quang Liên Kha - Ủy viên HĐQT đã mua 529.300 CP,Friday,võ quang kha ủy_viên hđqt đã mua
+2023-02-10,14.2,VTR,VTR: Ông Nguyễn Thị Lê Hương - Ủy viên HĐQT đã mua 529.500 CP,Friday,nguyễn_thị lê_hương ủy_viên hđqt đã mua
+2023-02-10,14.2,VTR,VTR: Ông Đỗ Thanh Hùng - Giám đốc tài chính đã mua 349.400 CP,Friday,đỗ thanh hùng giám_đốc tài_chính đã mua
+2023-02-10,14.2,VTR,VTR: Ông Huỳnh Phan Phương Hoàng - Phó Tổng Giám đốc đã mua 92.100 CP,Friday,huỳnh phan_phương hoàng tổng_giám_đốc đã mua
+2023-02-10,14.2,VTR,VTR: Ông Nguyễn Hà Trung - Phó Tổng Giám đốc đã mua 108.100 CP,Friday,nguyễn_hà trung tổng_giám_đốc đã mua
+2023-02-10,14.2,VTR,VTR: Ông Trần Đoàn Thế Duy - Tổng Giám đốc đã mua 530.100 CP,Friday,trần duy tổng_giám_đốc đã mua
+2023-02-10,14.2,VTR,VTR: Ông Nguyễn Quốc Kỳ - Chủ tịch HĐQT đã mua 2.916.800 CP,Friday,nguyễn_quốc_kỳ chủ_tịch hđqt đã mua
+2023-02-09,14.4,VTR,VTR: Đã phát hành 12.000.000 cổ phiếu hoán đổi nợ và chào bán cổ phiếu riêng lẻ,Thursday,đã phát_hành cổ_phiếu hoán đổi nợ chào bán cổ_phiếu
+2023-02-09,14.4,VTR,VTR: Số lượng cổ phiếu có quyền biểu quyết đang lưu hành là 28.658.247 CP,Thursday,số_lượng cổ_phiếu có quyền biểu_quyết đang lưu_hành là
+2023-02-09,14.2,VTR,"TGĐ Vũ Đức Biên: 'Vietravel Airlines như con chim mà sau dịch Covid-19 chả còn cọng lông nào', lại thêm vụ Trung Quốc mở tour đến 20 nước nhưng không có Việt Nam",Thursday,tgđ vũ đức biên vietravel airlines chim sau dịch covid chả còn cọng lông lại thêm vụ trung_quốc mở tour nước không_có việt nam
+2023-02-09,14.2,VTR,VTR: Bà Nguyễn Nguyệt Vân Khanh - Ủy viên HĐQT chưa mua CP,Thursday,nguyễn_nguyệt vân khanh ủy_viên hđqt chưa mua
+2023-02-08,11.1,VTR,VTR: Nghị quyết HĐQT thông qua phương án xử lý cổ phiếu chưa phân phối hết trong đợt chào bán riêng lẻ,Wednesday,nghị_quyết hđqt thông_qua phương_án xử_lý cổ_phiếu chưa phân_phối hết đợt chào bán
+2023-02-01,16.1,VTR,VTR: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-01-12,10.2,VTR,VTR: Ông Trần Đoàn Thế Duy - Tổng Giám đốc đăng ký mua 530.100 CP,Thursday,trần duy tổng_giám_đốc đăng_ký mua
+2023-01-12,10.2,VTR,VTR: Bà Nguyễn Thị Lê Hương - Ủy viên HĐQT đăng ký mua 529.500 CP,Thursday,nguyễn_thị lê_hương ủy_viên hđqt đăng_ký mua
+2023-01-12,10.2,VTR,VTR: Ông Võ Quang Liên Kha - Ủy viên HĐQT đăng ký mua 529.300 CP,Thursday,võ quang kha ủy_viên hđqt đăng_ký mua
+2023-01-12,10.2,VTR,VTR: Ông Nguyễn Quốc Kỳ - Chủ tịch HĐQT đăng ký mua 2.916.800 CP,Thursday,nguyễn_quốc_kỳ chủ_tịch hđqt đăng_ký mua
+2023-01-12,10.2,VTR,VTR: Bà Nguyễn Nguyệt Vân Khanh - Ủy viên HĐQT đăng ký mua 19.500 CP,Thursday,nguyễn_nguyệt vân khanh ủy_viên hđqt đăng_ký mua
+2023-01-12,10.2,VTR,VTR: Ông Nguyễn Hà Trung - Phó Tổng Giám đốc đăng ký mua 108.100 CP,Thursday,nguyễn_hà trung tổng_giám_đốc đăng_ký mua
+2023-01-12,10.2,VTR,VTR: Ông Huỳnh Phan Phương Hoàng - Phó Tổng Giám đốc đăng ký mua 92.100 CP,Thursday,huỳnh phan_phương hoàng tổng_giám_đốc đăng_ký mua
+2023-01-12,10.2,VTR,VTR: Ông Đỗ Thanh Hùng - Giám đốc tài chính đăng ký mua 349.400 CP,Thursday,đỗ thanh hùng giám_đốc tài_chính đăng_ký mua
+2023-01-19,13.4,VVN,VVN: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
+2023-01-18,8.1,X77,X77: Báo cáo quản trị công ty năm 2022,Wednesday,báo_cáo quản_trị công_ty
+2023-02-09,13.2,XPH,XPH: Bổ nhiệm ông Lê Mạnh Cường giữ chức Phụ trách nhiệm vụ Kế toán trưởng từ 09/02/2023,Thursday,bổ_nhiệm lê mạnh cường giữ chức phụ_trách_nhiệm_vụ kế_toán_trưởng
+2023-02-09,13.2,XPH,XPH: Quyết định duy trì diện bị hạn chế giao dịch trên hệ thống giao dịch UPCoM,Thursday,quyết_định duy_trì diện bị hạn_chế giao_dịch hệ_thống giao_dịch
+2023-02-03,8.5,XPH,XPH: Giải trình liên quan đến Báo cáo tài chính giữa niên độ năm 2022,Friday,giải_trình liên_quan báo_cáo tài_chính niên độ
+2023-02-02,13.4,XPH,XPH: Báo cáo quản trị công ty năm 2022,Thursday,báo_cáo quản_trị công_ty
