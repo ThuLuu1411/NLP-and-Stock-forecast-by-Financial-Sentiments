@@ -1,0 +1,544 @@
+new_date,ma_ck,session,return,title_new
+2023-01-10,BHT,return_in_session,0.0,tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-01-10,HAG,return_before_session,-0.008830079448272037,hoàng gia lai hagl lãi trở_lại sau đức hào_phóng thưởng đậm nhân_viên mức cao thuộc người trồng chuối
+2023-01-10,PET,return_in_session,-0.007623925110659259,thực_hiện quyền nhận cổ_tức cổ_phiếu
+2023-01-10,PLX,return_in_session,0.04865448816352538,sau khi hạ chỉ tiêu bất_ngờ báo lãi thuế gần
+2023-01-10,PRT,return_in_session,-0.017544309650909393,thông_báo dự_kiến tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-01-10,SCO,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-10,TDH,return_before_session,-0.06503247027085468,thông_qua chủ_trương giao_dịch bên có liên_quan
+2023-01-11,ATG,return_before_session,0.0,bổ_nhiệm nguyễn thanh_tùng giữ chức phụ_trách kế_toán
+2023-01-11,BT6,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-01-11,HTT,return_in_session,0.0,đào văn chiến chủ_tịch hđqt chưa mua
+2023-01-11,LCM,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-11,NT2,return_before_session,0.0017714796483820209,bổ_nhiệm lại lê việt an giữ chức kế_toán_trưởng
+2023-01-11,PIT,return_before_session,0.002129926257824849,báo_cáo tình_hình quản_trị công_ty
+2023-01-11,PTE,return_before_session,0.0,nghị_quyết hđqt thông_qua hợp_đồng giao_dịch đối_tác
+2023-01-11,PVV,return_in_session,0.0,đinh cảnh tiến chủ_tịch hđqt chưa mua phạm đức tuấn ủy_viên hđqt chưa mua em phạm đức tuấn ủy_viên hđqt đã mua
+2023-01-11,SGT,return_before_session,-0.027292142288007512,lê_thị_kim nhung tv bks đã bán
+2023-01-11,TGG,return_before_session,0.0,cbtt thanh_lý hợp_đồng
+2023-01-12,HAG,return_in_session,-0.01916991610772017,hoàng gia lai hagl bán bánh_chưng tết heo ăn chuối giá đồng
+2023-01-12,HAS,return_before_session,0.0,quyết_định thuế hà nội v v xử_lý vi_phạm hành_chính thuế
+2023-01-12,HLG,return_before_session,0.0,phạm phúc toại chủ_tịch hđqt đã bán phạm thúy an phó_chủ_tịch hđqt đã mua
+2023-01-12,HLG,return_in_session,0.0,phạm hoàng long tổng_giám_đốc đã mua con phạm phúc toại chủ_tịch hđqt đã mua
+2023-01-12,HTT,return_in_session,0.0,đào văn chiến chủ_tịch hđqt đăng_ký mua
+2023-01-12,KSH,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-12,LO5,return_in_session,0.0,nghị_quyết đại_hội_đồng cổ_đông bất_thường ký hợp_đồng kiểm_toán báo_cáo tài_chính
+2023-01-12,MSN,return_in_session,-0.02956920812294861,chào bán trái_phiếu ra
+2023-01-12,NOS,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-12,PLO,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-01-12,POM,return_before_session,0.0,công_ty tnhh tm sx thép việt đăng_ký mua
+2023-01-12,POW,return_in_session,0.008547060578458348,tgđ pv power nguyễn_duy_giang tổng_công_ty ước_tính vượt kế_hoạch doanh_thu kế_hoạch lợi_nhuận
+2023-01-12,PXM,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-01-12,PXT,return_in_session,0.03174869831458027,báo_cáo quản_trị công_ty
+2023-01-12,S27,return_in_session,0.0,cổ_đông lớn phạm tuấn đã bán cổ_đông lớn phạm tuấn đã bán cổ_đông lớn phạm tuấn đã bán cổ_đông lớn pham tuấn đã bán
+2023-01-12,SII,return_before_session,0.0,nghị_quyết hđqt phương_án thoái vốn ctcp nước sài_gòn nghị_quyết hđqt v v giải_thể công_ty tnhh mtv đầu_tư nước
+2023-01-12,TNM,return_in_session,0.0,nguyễn_văn_cưng chủ_tịch hđqt đăng_ký bán
+2023-01-12,VNI,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-12,VTR,return_in_session,0.0,trần duy tổng_giám_đốc đăng_ký mua nguyễn_thị lê_hương ủy_viên hđqt đăng_ký mua võ quang kha ủy_viên hđqt đăng_ký mua nguyễn_quốc_kỳ chủ_tịch hđqt đăng_ký mua nguyễn_nguyệt vân khanh ủy_viên hđqt đăng_ký mua nguyễn_hà trung tổng_giám_đốc đăng_ký mua huỳnh phan_phương hoàng tổng_giám_đốc đăng_ký mua đỗ thanh hùng giám_đốc tài_chính đăng_ký mua
+2023-01-13,DP2,return_before_session,-0.14903557916048796,báo_cáo quản_trị công_ty
+2023-01-13,HLG,return_before_session,0.13036181786324344,dâu lê ngọc ánh tổng_giám_đốc đăng_ký bán lê ngọc ánh tổng_giám_đốc đăng_ký mua
+2023-01-13,HNG,return_in_session,-0.006872879287762064,hagl agrico xin gia_hạn thời_gian nộp bctc xin gia_hạn thời_gian nộp bctc báo_cáo tình_hình quản_trị
+2023-01-13,HOT,return_before_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-01-13,PGD,return_in_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-01-13,PNJ,return_in_session,0.002320186655697126,số_lượng cổ_phiếu có quyền biểu_quyết đang lưu_hành là
+2023-01-13,SCD,return_in_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-01-13,TGG,return_in_session,-0.005555569844602105,nghị_quyết hđqt v v triệu_tập đhđcđ bất_thường
+2023-01-13,TNI,return_in_session,0.0065789710980425605,nghị_quyết hđqt thông_qua chủ_trương giao_dịch mau bán hàng_hóa ctcp thép
+2023-01-13,TTF,return_before_session,0.0,võ quốc lợi tv hđqt đã mua
+2023-01-16,ATG,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-16,BHT,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-16,HFX,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-16,HOT,return_before_session,0.0,bổ_nhiệm nguyễn_thị ngọc_lan giữ chức gđ
+2023-01-16,ISG,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-16,MPT,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-01-16,MSN,return_before_session,0.0,cbtt chào bán tp ra
+2023-01-16,MSN,return_in_session,-0.00105318598465859,thông_báo chào bán trái_phiếu ra thông_báo chào bán trái_phiếu ra
+2023-01-16,PCT,return_before_session,0.0,đầu_tiên cổ_phiếu niêm_yết
+2023-01-16,PIV,return_before_session,0.0,nghị_quyết hđqt thông_qua kế_hoạch thoái toàn_bộ khoản đầu_tư ctcp bot cầu
+2023-01-16,PMG,return_before_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-01-16,PNJ,return_before_session,0.0011580777206278686,cbtt v v nhận giấy chứng_nhận đkdn thay_đổi thứ
+2023-01-16,POM,return_in_session,-0.0036429912785009805,báo_cáo tình_hình quản_trị công_ty
+2023-01-16,PVB,return_before_session,0.0,xử_phạt vi_phạm
+2023-01-16,PVR,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-16,RDP,return_before_session,-0.003062789530545767,giấy chứng_nhận đăng_ký hoạt_động chi_nhánh nghệ_an thứ
+2023-01-16,SDY,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-16,SJC,return_in_session,0.0,ca sỹ khăn gió ấm tham_gia hđqt cổ_phiếu bất_động_sản tăng gấp sau chưa đầy_tháng
+2023-01-16,TOP,return_in_session,0.0,công_bố nhận được đơn xin nhiệm_chức_vụ thành_viên hđqt vũ_đình
+2023-01-16,VIR,return_before_session,0.0,nghị_quyết hội_đồng_quản_trị việc hạch_toán bổ_sung khoản nộp ngân_sách
+2023-01-16,VST,return_in_session,0.0,công_đoàn ctcp vận_tải thuê tàu_biển việt nam đã bán
+2023-01-17,AGF,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-17,BT6,return_before_session,0.0,giải_trình liên_quan báo_cáo tài_chính kiểm_toán bán_niên
+2023-01-17,CMI,return_before_session,0.0,nghị_quyết hđqt v v lựa_chọn đơn_vị kiểm_toán bctc kết_thúc
+2023-01-17,HU1,return_in_session,0.0,báo_cáo tình_hình quản_trị công_ty tài_liệu họp đhđcđ lấy ý_kiến cổ_đông văn_bản
+2023-01-17,LM3,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-01-17,MSN,return_before_session,-0.0021097054238497065,giải_trình việc chậm công_bố
+2023-01-17,PGS,return_in_session,0.0695260626486103,báo_cáo quản_trị công_ty
+2023-01-17,PLX,return_in_session,0.014835066403941107,nghị_quyết hđqt v v điều_chỉnh sửa_đổi một_số nội_dung qđ số qđ
+2023-01-17,PPC,return_before_session,0.014388737452099452,báo_cáo tình_hình quản_trị công_ty
+2023-01-17,PRT,return_before_session,0.07342746855481735,tham_dự đại_hội_đồng cổ_đông thường_niên
+2023-01-17,PSD,return_in_session,0.01190490250631824,đầu_tiên cổ_phiếu niêm_yết
+2023-01-17,PTE,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-17,PVR,return_before_session,0.0,giải_trình biến_động lợi_nhuận sau thuế so cùng kỳ trước
+2023-01-17,SGT,return_before_session,0.0,quyết_định hđqt ban_hành quy_chế
+2023-01-17,SP2,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-17,TNM,return_in_session,0.0,thông_báo cuối_cùng dự_kiến lấy ý_kiến cổ_đông văn_bản
+2023-01-17,TSD,return_before_session,0.0,giải_trình chậm công_bố thông_tin việc ký hợp_đồng
+2023-01-17,VES,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-17,VFG,return_before_session,0.023122417420854212,nghị_quyết hđqt số nghị_quyết hđqt v v thông_qua giao_dịch người có liên_quan
+2023-01-17,VST,return_in_session,0.0,công_đoàn ctcp vận_tải thuê tàu_biển việt nam đăng_ký bán
+2023-01-17,VTG,return_in_session,0.0,ký hợp_đồng kiểm_toán thực_hiện kiểm_toán báo_cáo tài_chính
+2023-01-18,DLG,return_in_session,0.018349138668196617,kinh_doanh thua_lỗ đức long gia lai xin lùi thời_gian trả nợ hơn
+2023-01-18,DXV,return_before_session,0.04401688541677426,giải_trình chênh_lệch lợi_nhuận sau thuế so biện_pháp lộ_trình khắc_phục lỗ lũy kế
+2023-01-18,GAB,return_before_session,0.0,bổ_nhiệm lưu văn thịnh giữ chức chủ_tịch hđqt biên_bản họp nghị_quyết đhđcđ bất_thường
+2023-01-18,GAB,return_in_session,0.0,công_ty khai_khoáng quản_lý_tài_sản chính_thức có chủ_tịch mới
+2023-01-18,HAG,return_in_session,0.03342629255912618,hagl mời cổ_đông nắm cổ_phiếu gặp_gỡ ban lãnh_đạo đầu mới công_bố nhà tài_trợ mới clb
+2023-01-18,HPI,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-18,HSI,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-18,HU3,return_in_session,0.13526599843673087,báo_cáo tình_hình quản_trị công_ty
+2023-01-18,HVN,return_before_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-01-18,NT2,return_in_session,-0.008748962193235538,báo_cáo tình_hình quản_trị công_ty
+2023-01-18,PC1,return_before_session,0.009680617710723496,báo_cáo tình_hình quản_trị công_ty
+2023-01-18,PGD,return_in_session,0.06704450262899705,giải_trình lnst tăng so cùng kỳ trước
+2023-01-18,PGS,return_in_session,0.0,đào hữu thắng phụ_trách quản_trị
+2023-01-18,PIV,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-18,PRT,return_in_session,0.042925044717033844,nhận được bản_án hình_sự phúc_thẩm đối_với vụ_án vi_phạm quy_định quản_lý sử_dụng tài_sản nhà_nước gây thất_thoát lãng_phí tham_ô
+2023-01-18,PSD,return_in_session,-0.01749315744751723,báo_cáo quản_trị công_ty
+2023-01-18,PVS,return_in_session,0.032523191705560145,ptsc ước lãi thuế gấp cùng kỳ cao nhất vòng
+2023-01-18,PVV,return_in_session,0.0,trịnh đức phú chủ_tịch hđqt đã bán công_ty cố phần đầu_tư spx đã mua
+2023-01-18,PXA,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-18,PXI,return_before_session,-0.048790164169432056,báo_cáo quản_trị công_ty
+2023-01-18,SII,return_before_session,-0.04445176257083392,báo_cáo tình_hình quản_trị công_ty giải_trình cổ_phiếu bị kiểm_soát
+2023-01-18,TCK,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-18,TDH,return_before_session,0.0034542348680873824,thông_cáo báo_chí liên_quan chợ nông_sản
+2023-01-18,TDH,return_in_session,-0.003454234868087446,sau gần cam_kết lấy lại chợ nông_sản chưa thành thuduc house đâm_đơn kiện
+2023-01-18,TS4,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-01-18,VFG,return_before_session,0.0,giải_trình chênh_lệch lợi_nhuận sau thuế so
+2023-01-18,VTI,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-18,X77,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-19,CIG,return_before_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-01-19,DIC,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-19,DLR,return_before_session,0.0,giải_trình lợi_nhuận sau thuế bctc
+2023-01-19,HAG,return_before_session,0.028229788863971046,công_văn ubcknn chấp_thuận chào bán riêng_lẻ
+2023-01-19,HU1,return_before_session,0.0,giải_trình chênh_lệch lnst so cùng kỳ trước
+2023-01-19,JVC,return_in_session,0.025642430613337652,báo_cáo tình_hình quản_trị công_ty
+2023-01-19,PAC,return_before_session,0.06100405646337005,giải_trình biến_động kqkd so cùng kỳ trước báo_cáo tình_hình quản_trị công_ty
+2023-01-19,PAC,return_in_session,-0.00914640522607626,công_đoàn đã bán
+2023-01-19,PCE,return_in_session,0.07666588174791694,nghị_quyết hđqt phê_duyệt kế_hoạch kinh_doanh
+2023-01-19,PMB,return_in_session,0.0,nghị_quyết hđqt thông_qua chỉ_tiêu kế_hoạch sxkd
+2023-01-19,PTL,return_before_session,-0.002936859673309825,báo_cáo tình_hình quản_trị công_ty
+2023-01-19,PVD,return_in_session,0.009569451016150672,báo_cáo tình_hình quản_trị công_ty
+2023-01-19,PVV,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-01-19,S27,return_in_session,0.0,phạm tuấn đã bán cp không_còn là cổ_đông lớn
+2023-01-19,SD5,return_in_session,0.05264373348542188,cuối_cùng cổ_tức nghị_quyết việc phê_duyệt trả cổ_tức tiền
+2023-01-19,SGT,return_before_session,0.030077455237277954,lê_thị_kim nhung tv bks đã bán cp
+2023-01-19,SII,return_in_session,0.07053015080583787,lưu_ý công_ty khả_năng hủy
+2023-01-19,SJC,return_in_session,0.0,cổ_đông lớn nguyễn thanh_hải đã mua
+2023-01-19,SJD,return_in_session,0.006644542718668511,báo_cáo tình_hình quản_trị công_ty
+2023-01-19,TGG,return_in_session,-0.03774032798284697,tham_dự đhđcđ bất_thường
+2023-01-19,TNI,return_before_session,0.01600034134644112,báo_cáo tình_hình quản_trị công_ty
+2023-01-19,TNI,return_in_session,-0.016000341346441075,giải_trình chênh_lệch lợi_nhuận so cùng kỳ trước
+2023-01-19,TOP,return_in_session,0.0,vũ_đình phúc ủy_viên hđqt đã bán
+2023-01-19,TTF,return_in_session,0.0657087962857616,báo_cáo tình_hình quản_trị công_ty
+2023-01-19,VAT,return_in_session,0.0,cổ_đông lớn trần kim_phượng đã mua
+2023-01-19,VFG,return_before_session,0.0626402826275771,chốt danh_sách cổ_đông chi_trả cổ_tức đợt
+2023-01-19,VVN,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-27,CEG,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-27,HU3,return_in_session,0.0,giải_trình khắc_phục tình_trạng chứng_khoán bị kiểm_soát
+2023-01-27,OPC,return_in_session,0.0076045993852192125,báo_cáo tình_hình quản_trị công_ty
+2023-01-27,PVG,return_in_session,0.026668247082161273,báo_cáo quản_trị công_ty
+2023-01-27,SBT,return_in_session,-0.0034662079764861725,giải_trình biến_động kqkd niên độ
+2023-01-27,TCR,return_in_session,0.0,lộ_trình khắc_phục lnst chưa phân_phối
+2023-01-27,VST,return_in_session,0.033901551675681416,báo_cáo quản_trị công_ty
+2023-01-30,ACM,return_in_session,0.0,đính_chính báo_cáo quản_trị công_ty
+2023-01-30,DDM,return_before_session,0.0,giải_trình liên_quan báo_cáo tài_chính
+2023-01-30,DHB,return_before_session,0.010582109330537008,đạm hà bắc lãi kỷ_lục gần
+2023-01-30,GGG,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-01-30,HAG,return_in_session,-0.017904638385480877,báo_cáo tình_hình quản_trị công_ty
+2023-01-30,HVN,return_in_session,-0.021429391455899165,lộ diện doanh_nghiệp lỗ lớn
+2023-01-30,JOS,return_in_session,0.0,giải_trình chênh_lệch lợi_nhuận báo_cáo tài_chính
+2023-01-30,LTC,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-30,MSN,return_before_session,0.012458234922041804,báo_cáo tình_hình thanh_toán gốc lãi cuối báo_cáo tình_hình thanh_toán gốc lãi cuối báo_cáo tình_hình thanh_toán gốc lãi cuối báo_cáo tình_hình thanh_toán gốc lãi cuối báo_cáo tình_hình thanh_toán gốc lãi cuối báo_cáo tình_hình thanh_toán gốc lãi cuối báo_cáo tình_hình thanh_toán gốc lãi cuối báo_cáo tình_hình thanh_toán gốc lãi cuối báo_cáo tình_hình thanh_toán gốc lãi cuối báo_cáo tình_hình thanh_toán gốc lãi cuối báo_cáo tình_hình thanh_toán gốc lãi cuối báo_cáo tình_hình thanh_toán gốc lãi cuối báo_cáo tình_hình thanh_toán gốc lãi kỳ cuối báo_cáo tình_hình thanh_toán gốc lãi cuối
+2023-01-30,MSN,return_in_session,-0.028987536873252298,masan group báo lãi_ròng mở mới siêu_thị winmart doanh_thu phúc long vươn gần
+2023-01-30,NOS,return_in_session,0.0,lộ diện doanh_nghiệp lỗ lớn
+2023-01-30,PVT,return_before_session,0.004750602758597799,giải_trình bctc
+2023-01-30,PVY,return_in_session,0.0,lộ diện doanh_nghiệp lỗ lớn
+2023-01-30,SBT,return_before_session,-0.00347826437632492,đơn_vị đã cbtt nđ hợp_nhất không_công_bố được báo_cáo mẹ nđ do_đó đơn_vị gửi dữ_liệu mục bất_thường giải_trình biến_động kết_quả kinh_doanh niên độ
+2023-01-30,SD5,return_before_session,-0.025001302205417155,báo_cáo quản_trị công_ty
+2023-01-30,SII,return_in_session,0.0038535693159899723,lộ diện doanh_nghiệp lỗ lớn
+2023-01-30,TCR,return_before_session,-0.028987536873252298,giải_trình chênh_lệch lợi_nhuận bctc hn cty mẹ so cùng kỳ trước
+2023-01-30,TNI,return_in_session,0.028528083614538246,lộ diện doanh_nghiệp lỗ lớn
+2023-01-30,TNM,return_in_session,0.0,lấy ý_kiến cổ_đông văn_bản
+2023-01-30,TSD,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-30,UDC,return_before_session,0.010050335853501506,báo_cáo tình_hình quản_trị công_ty
+2023-01-30,VOS,return_in_session,0.0183491386681964,lộ diện doanh_nghiệp lỗ lớn
+2023-01-31,AMD,return_in_session,0.0595920972022456,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,AST,return_before_session,0.006993035490970604,giải_trình báo_cáo tình_hình khắc_phục tình_trạng chứng_khoán bị kiểm_soát giải_trình biến_động kqkd so cùng kỳ trước
+2023-01-31,AST,return_in_session,-0.006993035490970525,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,CIG,return_in_session,0.03841701610379179,giải_trình lnst so cùng kỳ trước giải_trình phương_án khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-01-31,DLG,return_in_session,0.008230499136515444,giải_trình bctc so cùng kỳ trước báo_cáo tình_hình quản_trị công_ty đức long gia lai lỗ kỷ_lục gần trích lập
+2023-01-31,DXV,return_in_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,GAB,return_before_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,HAS,return_in_session,0.0,nghị_quyết hđqt v v thông_qua dự_kiến kế_hoạch doanh_thu lợi_nhuận sau thuế
+2023-01-31,HNG,return_in_session,-0.006500564603093428,hagl agrico lỗ kỷ_lục gần lỗ luỹ kế đã ngốn hơn nửa vốn chủ giải_trình biện_pháp lộ_trình khắc_phục tình_trạng chứng_khoán bị cảnh_báo báo_cáo tình_hình quản_trị công_ty
+2023-01-31,HNM,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-01-31,HU1,return_before_session,0.0,giải_trình khắc_phục tình_trạng chứng_khoán bị kiểm_soát
+2023-01-31,ITA,return_in_session,0.002072539601972375,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,JVC,return_in_session,0.005830920310793144,giải_trình biến_động lnst so cùng kỳ trước
+2023-01-31,LHG,return_before_session,-0.01642747414194793,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,MCG,return_before_session,0.0030816665374081144,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,MHC,return_before_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,MSN,return_before_session,-0.018803126963096224,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,MSN,return_in_session,0.009940439705250935,thông_cáo báo_chí kết_quả kinh_doanh
+2023-01-31,MWG,return_before_session,-0.006514681021193754,giải_trình kqkd riêng hợp_nhất báo_cáo tình_hình quản_trị công_ty
+2023-01-31,NSC,return_before_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,NVT,return_in_session,0.018349138668196617,giải_trình bctc hn cty mẹ so cùng kỳ trước báo_cáo tình_hình quản_trị công_ty
+2023-01-31,OGC,return_before_session,-0.012422519998557096,báo_cáo tình_hình khắc_phục tình_trạng chứng_khoán thuộc diện cảnh_báo giải_trình kqkd riêng hợp_nhất báo_cáo tình_hình quản_trị công_ty
+2023-01-31,PAN,return_in_session,0.005763704716749913,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,PET,return_in_session,0.0670771620888127,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,PGC,return_before_session,-0.012422519998557096,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,PLX,return_before_session,0.009402352678390334,đăng_ký chào bán báo_cáo tình_hình quản_trị công_ty
+2023-01-31,PMG,return_before_session,0.0,báo_cáo tiến_độ khắc_phục tình_trạng chứng_khoán bị kiểm_soát giải_trình kqkd hn riêng so cùng kỳ trước
+2023-01-31,PNJ,return_before_session,-0.013100624045698093,đẩy mạnh tích_trữ tồn_kho khi giá vàng tăng mạnh cổ_phiếu vùng đỉnh dịp vía
+2023-01-31,PNJ,return_in_session,-0.008830079448272037,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,POM,return_before_session,0.02389192142473022,đỗ tiến_sĩ ct hđqt đăng_ký bán
+2023-01-31,POW,return_before_session,0.008064559836730495,giải_trình bctc so cùng kỳ trước báo_cáo tình_hình quản_trị công_ty
+2023-01-31,POW,return_in_session,-0.00402415029972538,pv power báo lãi cao gấp kỳ lợi_nhuận
+2023-01-31,PRT,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-01-31,PTL,return_in_session,0.013072081567352921,giải_trình biến_động kết_quả kinh_doanh hn so
+2023-01-31,PVD,return_in_session,0.019231361927887592,giải_trình bctc sau thua_lỗ liên_tiếp drilling báo lãi
+2023-01-31,PVT,return_before_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,PVV,return_in_session,0.0,công_ty cố phần đầu_tư spx đăng_ký mua
+2023-01-31,PXS,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-31,QBS,return_before_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,RDP,return_before_session,-0.006319136351478546,giải_trình báo_cáo tình_hình khắc_phục tình_trạng chứng_khoán bị cảnh_báo giải_trình bctc hn cty mẹ so cùng kỳ trước
+2023-01-31,RIC,return_before_session,0.036367644170875006,báo_cáo quản_trị công_ty
+2023-01-31,SAB,return_before_session,-0.015915455305899568,tổ_chức đhđcđ giải_trình bctc giải_trình bctc hợp_nhất
+2023-01-31,SAB,return_in_session,0.010638398205055797,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,SAM,return_in_session,0.0,báo_cáo tình_hình quản_trị công_ty giải_trình chênh_lệch lợi_nhuận sau thuế so
+2023-01-31,SBT,return_in_session,0.010221554071538009,bổ_nhiệm trần quốc thảo giữ chức tgđ báo_cáo tình_hình quản_trị công_ty
+2023-01-31,SBV,return_before_session,-0.009132483563272474,báo_cáo tình_hình quản_trị công_ty giải_trình chênh_lệch lnst so cùng kỳ trước doanh_nghiệp kinh_doanh dây thừng duy_nhất sàn chứng_khoán báo lãi thấp kỷ_lục khi
+2023-01-31,SDJ,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-01-31,SGT,return_in_session,0.025689486115311085,giải_trình phương_án khắc_phục tình_trạng chứng_khoán bị cảnh_báo báo_cáo tình_hình quản_trị công_ty
+2023-01-31,SJD,return_before_session,0.006389798098770988,cbtt tình_hình khắc_phục việc ck bị đưa diện kiểm_soát giải_trình
+2023-01-31,SMA,return_before_session,0.03413300636945862,giải_trình kqkd so cùng kỳ trước
+2023-01-31,TDH,return_in_session,0.028528083614538246,báo_cáo tình_hình quản_trị công_ty báo_cáo tình_hình khắc_phục tình_trạng chứng_khoán bị kiểm_soát hạn_chế
+2023-01-31,TGG,return_before_session,-0.0023781224049673243,giải_trình kqkd hn riêng so cùng kỳ trước
+2023-01-31,TGG,return_in_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,TH1,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-01-31,TTF,return_in_session,0.0063762171392758435,giải_trình phương_án khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-01-31,VCT,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-01-31,VFG,return_before_session,0.022121917087270692,báo_cáo tình_hình quản_trị công_ty
+2023-01-31,VOS,return_before_session,0.013544225107757253,biện_pháp lộ_trình khắc_phục tình_trạng chứng_khoán bị cảnh_báo giải_trình chênh_lệch doanh_thu lợi_nhuận
+2023-02-01,ABC,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-01,AMD,return_in_session,0.034786116085415604,trịnh văn quyết bị bắt khiến dn thất_thoát doanh_thu lỗ kỷ_lục
+2023-02-01,APT,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-01,BHT,return_before_session,0.0,thông_báo triệu_tập đại_hội_đồng cổ_đông thường_niên
+2023-02-01,CDO,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-01,CMI,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-01,CYC,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-01,DCT,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-01,DDM,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-01,DHB,return_before_session,0.0,giải_trình liên_quan báo_cáo tài_chính báo_cáo quản_trị công_ty
+2023-02-01,DLR,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-01,HAS,return_before_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-02-01,HLG,return_before_session,0.0,báo_cáo quản_trị công_ty giải_trình liên_quan báo_cáo tài_chính công_ty mẹ
+2023-02-01,ITA,return_before_session,-0.07076907088820726,buộc thanh_lý hợp_đồng dự_án kiên lương tân_tạo đặng_thị hoàng_yến ghi_nhận doanh_thu âm hàng lỗ ròng kỷ_lục
+2023-02-01,ITA,return_in_session,0.0,hđqt thông_qua việc điều_chuyển tiền công_ty bên có
+2023-02-01,MCG,return_in_session,-0.02572489123843593,báo_cáo giải_trình kqkd tình_trạng khắc_phục chứng_khoán bị kiểm_soát
+2023-02-01,MCI,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-01,ONW,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-01,PLX,return_before_session,0.008119124438504412,nhà bán_lẻ xăng dầu petrolimex pv oil thu hơn tồn_kho cuối giải_trình bctc so cùng kỳ trước
+2023-02-01,PNJ,return_before_session,-0.001109262454285845,sửa_đổi khoản điều điều_lệ tổ_chức hoạt_động vốn điều_lệ tăng
+2023-02-01,POM,return_before_session,0.005141399500418652,giải_trình chênh_lệch kqkd so cùng kỳ trước công_ty tnhh tm sx thép việt đã mua
+2023-02-01,POM,return_in_session,-0.04367506350266153,thêm pomina báo lỗ đầy khó_khăn ngành thép giảm khoảng mức kỷ_lục ngành thép xuống mức thấp nhất vòng
+2023-02-01,PRT,return_before_session,0.0,đính_chính báo_cáo quản_trị công_ty
+2023-02-01,PTL,return_before_session,0.06534988020845041,nghị_quyết hđqt v v phát_hành cổ_phiếu
+2023-02-01,PVE,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-01,PVS,return_before_session,0.003898640415657323,nghị_quyết phê_duyệt giải_thể công_ty liên_doanh ptsc ca rong ltd chấm_dứt dự_án đầu_tư ra
+2023-02-01,PXI,return_before_session,0.0,quyết_định sửa_chữa bổ_sung bản_án sơ_thẩm tranh_chấp hợp_đồng xây_dựng ctcp đầu_tư xây_lắp dầu_khí
+2023-02-01,SBT,return_before_session,0.01680711831638119,báo_cáo định_kỳ tình_hình thanh_toán gốc lãi trái_phiếu doanh_nghiệp báo_cáo quản_trị công_ty
+2023-02-01,SJC,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-01,SMA,return_in_session,0.0,giải_trình khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-02-01,TCJ,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-01,TCR,return_before_session,0.0,báo_cáo tình_hình quản_trị công_ty
+2023-02-01,TNI,return_before_session,0.0031397200046676247,giải_trình phương_án khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-02-01,TTF,return_before_session,0.014721611825359927,giải_trình biến_động kqkd so cùng kỳ trước
+2023-02-01,TTF,return_in_session,-0.0470172065167105,giảm lỗ gỗ trường_thành báo lãi_ròng
+2023-02-01,VFG,return_before_session,0.0025477720787985617,thông_báo v v chấm_dứt đầu_tư ra
+2023-02-01,VPC,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,ATA,return_in_session,0.0,nghị_quyết hđqt v v tổ_chức đhđcđ
+2023-02-02,ATB,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,BHT,return_before_session,0.0,giải_trình liên_quan báo_cáo tài_chính công_văn giải_trình ý_kiến kiểm_toán
+2023-02-02,BHT,return_in_session,0.0,cbtt tài_liệu họp đại_hội_đồng cổ_đông thường_niên
+2023-02-02,HAG,return_before_session,0.010050335853501506,bán gần heo chuối chưa đủ trả_lãi vay bí_mật mức lãi đều_đặn hoàng_anh gia lai là biện_pháp lộ_trình khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-02-02,HAG,return_in_session,-0.05129329438755046,hoàng gia lai hagl đưa đề_xuất mới v league bố_trí phòng riêng khách uống nước tăng_lực
+2023-02-02,HOT,return_before_session,0.002195390563435656,lưu_ý công_ty khả_năng hủy
+2023-02-02,HVN,return_in_session,-0.03007745523727795,hose tiếp_tục lưu_ý khả_năng hủy niêm_yết cổ_phiếu vietnam airlines lưu_ý khả_năng hủy
+2023-02-02,KHL,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,LQN,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,MES,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,MSN,return_before_session,0.027966607739145187,đính_chính kqkd
+2023-02-02,NET,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,NSG,return_before_session,0.0,bổ_nhiệm trần bá tòng giữ chức kế_toán_trưởng
+2023-02-02,PAC,return_before_session,0.0,thông_báo thay_đổi
+2023-02-02,PCE,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,PET,return_in_session,-0.004773278752657771,số_lượng cổ_phiếu có quyền biểu_quyết là đã phát_hành cổ_phiếu trả cổ_tức
+2023-02-02,PLC,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,POM,return_before_session,0.0,đỗ tiến_sĩ ct hđqt đăng_ký bán
+2023-02-02,POM,return_in_session,-0.027150989065950745,pomina báo lỗ nặng nhất ngành thép chủ_tịch hđqt muốn thoái sạch vốn
+2023-02-02,PVC,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,SDP,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,SGT,return_before_session,-0.02264247674975989,đính_chính chức_danh lê_nguyễn_hoàng_anh ký bctc hn
+2023-02-02,STT,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,VSF,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,VST,return_in_session,0.0,số_lượng cổ_phiếu có quyền biểu_quyết đang lưu_hành là đã phát_hành cổ phiêu hoán đổi nợ
+2023-02-02,VTG,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,VTR,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-02,XPH,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-03,AMD,return_before_session,0.0,ký hợp_đồng
+2023-02-03,CIG,return_before_session,-0.04211148535012685,nghị_quyết hđqt v v thông_qua nội_dung phiên họp hđqt nghị_quyết hđqt v v thông_qua nội_dung chốt dscđ có quyền tham_dự
+2023-02-03,HOT,return_before_session,-0.052896946122085474,nghị_quyết hđqt v v tiếp_tục tạm ngừng hoạt_động đối_với văn_phòng giấy chứng_nhận đăng_ký doanh_nghiệp thay_đổi thứ
+2023-02-03,MCG,return_in_session,-0.027683428748416856,cổ_phiếu có khả_năng bị hủy niêm_yết
+2023-02-03,MSN,return_before_session,-0.011440582401893168,báo_cáo quản_trị công_ty
+2023-02-03,PBP,return_before_session,0.032002731086173734,báo_cáo quản_trị công_ty
+2023-02-03,PGS,return_before_session,-0.007722046093910278,nghị_quyết hđqt thống_nhất chỉ_tiêu kế_hoạch sxkd
+2023-02-03,PMB,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-03,PVG,return_in_session,-0.107888962011185,giải_trình chênh_lệch lợi_nhuận báo_cáo tài_chính
+2023-02-03,PVH,return_in_session,0.05129329438755048,báo_cáo quản_trị công_ty
+2023-02-03,PVS,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-03,SAB,return_in_session,0.03698255579670708,thực_hiện quyền tham_dự đhcđ thường_niên
+2023-02-03,TDH,return_in_session,0.0032102756302481894,công_ty bất_động_sản chỉ còn vỏn_vẹn tiền_mặt tiền gửi
+2023-02-03,UDC,return_before_session,0.0,lưu_ý công_ty khả_năng hủy kết_quả thực_hiện lộ_trình khắc_phục tình_trạng chứng_khoán bị kiểm_soát
+2023-02-03,XPH,return_in_session,0.0,giải_trình liên_quan báo_cáo tài_chính niên độ
+2023-02-06,AMD,return_in_session,0.05715841383994862,lỗ kỷ_lục doanh_nghiệp bất_ngờ thông_báo tìm được đơn_vị kiểm_toán bctc giải_trình nguyên_nhân biện_pháp khắc_phục tình_trạng cổ_phiếu diện hạn_chế
+2023-02-06,DLG,return_before_session,0.0,đính_chính bctc hn
+2023-02-06,HAG,return_in_session,0.01268028517590921,bầu đầu đón đúng sóng giá sầu_riêng tăng nóng từng vượt hagl sẵn_sàng vườn
+2023-02-06,HOT,return_before_session,0.0,báo_cáo phương_án khắc_phục tình_trạng cổ_phiếu có khả_năng hủy
+2023-02-06,HSA,return_in_session,0.0,nghị_quyết hđqt v v chốt danh_sách cổ_đông tổ_chức đhđcđ
+2023-02-06,MSN,return_before_session,-0.024122826762622864,báo_cáo định_kỳ thanh_toán gốc lãi trái_phiếu báo_cáo định_kỳ tình_hình thanh_toán gốc lãi trái_phiếu báo_cáo định_kỳ thanh_toán gốc lãi trái_phiếu báo_cáo định_kỳ tình_hình thanh_toán gốc lãi trái_phiếu báo_cáo định_kỳ tình_hình thanh_toán gốc lãi trái_phiếu
+2023-02-06,NVT,return_in_session,-0.011709735672907982,chủ chuỗi cao_cấp chính_thức báo lỗ
+2023-02-06,PGC,return_before_session,0.0,giải_trình chênh_lệch lợi_nhuận sau thuế so
+2023-02-06,PHH,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-06,PLX,return_before_session,0.0,petrolimex thông_qua phương_án thoái vốn pg bank quy_mô giao_dịch tối_thiểu nghị_quyết hđqt v v thông_qua phương_án thoái vốn đầu_tư pg
+2023-02-06,PNJ,return_before_session,0.0060716640685497736,niêm_yết bổ_sung
+2023-02-06,PTL,return_before_session,0.0670107102829603,giải_trình phương_án khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-02-06,PVV,return_in_session,0.0,bố sung thông_tin báo_cáo quản_trị công_ty
+2023-02-06,SAB,return_before_session,-0.012001187609689655,dn nhiều tiền trả hết nợ vẫn còn hơn tỷ công_ty bđs giá cổ_phiếu chưa đầy đồng_tiền ròng đem chia cổ_phần nhận đồng
+2023-02-06,SD5,return_before_session,0.0,trả cổ_tức tiền_mặt
+2023-02-07,CMI,return_before_session,0.0,giải_trình nguyên_nhân báo_cáo kqkd lợi_nhuận sau thuế
+2023-02-07,DLG,return_before_session,0.0,quyết_định hđqt chủ_trương thực_hiện hợp_đồng giao_dịch bên
+2023-02-07,MSN,return_before_session,-0.003120127336243634,làm rõ nội_dung nghị_quyết hđqt báo_cáo tình_hình quản_trị công_ty
+2023-02-07,MSN,return_in_session,-0.019990144876502386,đính_chính nội_dung bảng kết_quả kinh_doanh trang thông_cáo báo_chí tình_hình kqkd tiếng đính_chính nội_dung dòng trang bảng kqkd thông_cáo báo_chí tình_hình kqdk thông_cáo báo_chí tình_hình kết_quả kinh_doanh chưa kiểm_toán
+2023-02-07,MWG,return_before_session,-0.010661081786113703,gà vàng chưa đẻ_trứng thế_giới di_động bách_hoá xanh lỗ luỹ kế an_khang lỗ hơn cambodia lỗ hơn
+2023-02-07,MWG,return_in_session,-0.020574629393193686,quỹ đầu_tư sgi capital chốt lời vcb tăng đầu
+2023-02-07,NVT,return_in_session,0.042200354490376686,biện_pháp lộ_trình khắc_phục tình_trạng chứng_khoán bị cảnh_báo
+2023-02-07,PCE,return_in_session,0.0,thông_báo thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-07,PVR,return_in_session,0.0,thông_báo dự_kiến tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-02-07,RCD,return_before_session,0.0,báo_cáo quản_trị công_ty
+2023-02-07,SP2,return_in_session,0.0,dự_kiến tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-02-07,TGG,return_in_session,-0.03763885149993492,ngô quang tuấn cđl đã mua
+2023-02-08,ITA,return_before_session,0.007255170881172016,quyết_định hđqt v v thoái vốn ctcp đầu_tư phát_triển đô_thị quyết_định v v thoái vốn ctcp đầu_tư phát_triển đô_thị
+2023-02-08,ITA,return_in_session,-0.012121360532344963,tân_tạo thoái vốn phát_triển năng_lượng tân_tạo đầu_tư phát_triển đô_thị
+2023-02-08,MWG,return_before_session,0.0,báo_cáo thay_đổi sở_hữu nhóm nhà_đầu_tư nước_ngoài có liên_quan là cổ_đông lớn
+2023-02-08,MWG,return_in_session,-0.026609108727964535,nỗ_lực tái cấu_trúc nguyễn_đức tài có trái ngọt đầu_tiên biên lợi_nhuận cửa_hàng bách_hoá xanh đổi_chiều âm sang dương nợ ròng giảm gần so nhiều ngân_hàng tuyển thêm người fpt tăng hơn người đất xanh thế_giới di_động có động_thái cắt_giảm gây sốc
+2023-02-08,PLX,return_before_session,0.0,quyết_định v v nghỉ_việc hưởng chế_độ hưu_trí nguyễn_thanh_sơn phó
+2023-02-08,PNJ,return_in_session,-0.0024096397201530655,giao_dịch cp niêm_yết thông_qua hợp_đồng giao_dịch nclq nnb cbtt v v nhận giấy chứng_nhận đkdn thay_đổi thứ
+2023-02-08,PVB,return_before_session,0.008097210232619303,báo_cáo quản_trị công_ty
+2023-02-08,PVD,return_before_session,0.005154650588664422,cổ_phiếu từng có thị_giá cao_ngất_ngưởng hàng giờ ra
+2023-02-08,SAB,return_before_session,-0.011572985557658521,cổ_phiếu từng có thị_giá cao_ngất_ngưởng hàng giờ ra
+2023-02-08,SMA,return_in_session,0.0,thay_đổi địa_chỉ
+2023-02-08,TDH,return_before_session,0.04959694113937198,cổ_phiếu từng có thị_giá cao_ngất_ngưởng hàng giờ ra
+2023-02-08,TGG,return_before_session,0.013605652055778678,thông_báo họp tài_liệu họp đhđcđ bất_thường
+2023-02-08,VC5,return_before_session,0.0,cổ_đông lớn hồ trung_đông đã mua cổ_đông lớn hồ trung_đông đã mua hồ trung_đông đã mua cp trở_thành cđl
+2023-02-08,VTR,return_in_session,0.0,nghị_quyết hđqt thông_qua phương_án xử_lý cổ_phiếu chưa phân_phối hết đợt chào bán
+2023-02-09,APT,return_in_session,0.0,thông_báo hủy ủy_quyền thực_hiện công_bố thông_tin nguyễn_thành_vinh thay_đổi giấy đăng_ký
+2023-02-09,CEG,return_in_session,0.0,thông_báo thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-09,HOT,return_before_session,-0.04533354130152119,doanh_nghiệp lỗ triền_miên cổ_phiếu tầm ngắm phải rời sàn
+2023-02-09,HOT,return_in_session,0.008658062743114531,doanh_nghiệp đối_mặt án hủy
+2023-02-09,HVN,return_in_session,0.0,doanh_nghiệp đối_mặt án hủy
+2023-02-09,MCG,return_before_session,-0.07177968239413085,doanh_nghiệp lỗ triền_miên cổ_phiếu tầm ngắm phải rời sàn
+2023-02-09,MCG,return_in_session,0.13875030850031458,doanh_nghiệp đối_mặt án hủy
+2023-02-09,MSN,return_before_session,0.0,lúc gây_sốt toàn_cầu tỷ_phú nguyễn đăng_quang sắp rót công_ty trí_tuệ nhân_tạo singapore tham_vọng phát_triển retail consumer nghị_quyết hđqt v v ký_kết hợp_đồng tín_dụng hợp_đồng bảo_lãnh ngân_hàng cuối_cùng trả_lãi trái_phiếu kỳ tính lãi công_văn làm rõ nội_dung nq hdqt
+2023-02-09,MSN,return_in_session,-0.01834913866819654,thông_báo xác_nhận danh_sách người sở_hữu_chứng_khoán đối_với mã nghị_quyết hđqt phê_duyệt việc ký_kết hợp_đồng tín_dụng hợp_đồng bảo_lãnh ngân_hàng
+2023-02-09,MWG,return_before_session,-0.0022497197340154416,nghị_quyết hđqt v v triệu_tập họp đhđcđ thường_niên vụ thế_giới di_động sa_thải nhân_viên nhầm_lẫn
+2023-02-09,MWG,return_in_session,-0.009049835519917927,lợi_nhuận tăng_trưởng âm chính_sách esop từng gây tranh_cãi thế_giới di_động tạm_thời
+2023-02-09,OGC,return_in_session,0.0013898542890542977,thay_đổi nhân_sự quản_trị điều_hành báo lãi
+2023-02-09,PNJ,return_before_session,-0.002415460111603662,thông_báo thay_đổi nhân_sự
+2023-02-09,PVC,return_before_session,0.021978906718775382,bổ_nhiệm trương đại_nghĩa chủ_tịch hđqt kiêm_nhiệm giữ chức chủ_tịch hđqt công_ty tnhh dịch_vụ hóa_chất
+2023-02-09,RDP,return_before_session,-0.04009445720187821,đính_chính bctc cty mẹ
+2023-02-09,SAB,return_in_session,-0.017898713571903813,qđ v v nâng tỷ_lệ sở_hữu sabeco sabibeco group saigon packaging
+2023-02-09,SII,return_in_session,0.0,doanh_nghiệp đối_mặt án hủy
+2023-02-09,UDC,return_before_session,-0.034732806918891954,doanh_nghiệp lỗ triền_miên cổ_phiếu tầm ngắm phải rời sàn
+2023-02-09,VTR,return_in_session,0.0,đã phát_hành cổ_phiếu hoán đổi nợ chào bán cổ_phiếu số_lượng cổ_phiếu có quyền biểu_quyết đang lưu_hành là tgđ vũ đức biên vietravel airlines chim sau dịch covid chả còn cọng lông lại thêm vụ trung_quốc mở tour nước không_có việt nam nguyễn_nguyệt vân khanh ủy_viên hđqt chưa mua
+2023-02-09,XPH,return_in_session,0.0,bổ_nhiệm lê mạnh cường giữ chức phụ_trách_nhiệm_vụ kế_toán_trưởng quyết_định duy_trì diện bị hạn_chế giao_dịch hệ_thống giao_dịch
+2023-02-10,AGF,return_in_session,-0.037740327982847086,nghị_quyết hđqt v v tổ_chức đhđcđ
+2023-02-10,GAB,return_before_session,0.0,giấy chứng_nhận đăng_ký doanh_nghiệp thay_đổi thứ
+2023-02-10,HAG,return_before_session,0.0,giấy chứng_nhận đăng_ký doanh_nghiệp thay_đổi thứ
+2023-02-10,HVN,return_before_session,0.0,buồn lớn
+2023-02-10,JVC,return_before_session,0.00966191091173689,nghị_quyết hđqt v v thực_hiện hợp_đồng giao_dịch bên có
+2023-02-10,MSN,return_in_session,-0.006557400546159052,thông_báo trái_phiếu có khả_năng bị hủy_bỏ
+2023-02-10,MWG,return_before_session,0.0,báo_cáo thay_đổi sở_hữu nhóm nđtnn có
+2023-02-10,MWG,return_in_session,-0.044141893229925344,quỹ ngoại quy_mô vừa mua hơn cổ_phiếu thế_giới di_động
+2023-02-10,NOS,return_in_session,-0.0800427076735365,bổ_nhiệm mai thị khánh giữ chức phụ_trách quản_trị
+2023-02-10,PNJ,return_before_session,0.0,thay_đổi cơ_cấu tổ_chức luân_chuyển vị_trí lãnh_đạo cấp cao
+2023-02-10,POM,return_in_session,-0.01834913866819643,nghị_quyết hđqt v v phân_công lại chức_vụ
+2023-02-10,RDP,return_before_session,-0.012959144642505117,nghị_quyết hđqt v v điều_chỉnh cổ_phiếu
+2023-02-10,SAB,return_in_session,-0.034253478478539316,sabeco muốn mua thêm cổ_phần công_ty đang thua_lỗ tỷ nâng thành_công_ty con
+2023-02-10,TNM,return_in_session,-0.15415067982725836,nguyễn_văn_cưng chủ_tịch hđqt đã bán
+2023-02-10,VIR,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-10,VSF,return_in_session,0.04167269640056808,bổ_nhiệm nguyễn_văn_hiển giữ chức tgđ
+2023-02-10,VST,return_in_session,-0.09531017980432477,công_ty tnhh mua_bán nợ việt nam đã mua
+2023-02-10,VTR,return_before_session,-0.11778303565638351,chủ_tịch hđqt nguyễn_quốc_kỳ trở_thành cổ_đông lớn vietravel sau đợt chào bán
+2023-02-10,VTR,return_in_session,0.09151510883577334,võ quang kha ủy_viên hđqt đã mua nguyễn_thị lê_hương ủy_viên hđqt đã mua đỗ thanh hùng giám_đốc tài_chính đã mua huỳnh phan_phương hoàng tổng_giám_đốc đã mua nguyễn_hà trung tổng_giám_đốc đã mua trần duy tổng_giám_đốc đã mua nguyễn_quốc_kỳ chủ_tịch hđqt đã mua
+2023-02-13,ATA,return_before_session,0.0,tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-02-13,BHT,return_in_session,0.0,quyết_định việc đưa diện thông_báo trạng_thái quyết_định việc duy_trì hạn_chế
+2023-02-13,CEG,return_before_session,0.0,tham_dự đại_hội_đồng cổ_đông thường_niên
+2023-02-13,HAG,return_in_session,-0.040821994520255166,đằng sau việc bầu đức bán vốn bapi hagl muốn là dn đầu_tiên trang_trại bàn ăn có đủ thịt rau tỏi
+2023-02-13,HTT,return_in_session,0.0,đào văn chiến chủ_tịch hđqt đăng_ký mua đào văn chiến chủ_tịch hđqt chưa mua
+2023-02-13,HU1,return_in_session,0.0,nghị_quyết biên_bản kiểm_phiếu đhđcđ lấy ý_kiến cổ_đông văn_bản
+2023-02-13,ONW,return_before_session,0.0,dịch_vụ thế_giới bị ubcknn xử_phạt vi_phạm công_bố
+2023-02-13,PC1,return_before_session,-0.00779731046003173,cbtt quyết_định chào bán phương_án phát_hành trái_phiếu giải_trình chậm
+2023-02-13,PSD,return_in_session,0.0,thông_báo cuối_cùng thực_hiện quyền nhận tạm_ứng cổ_tức đợt
+2023-02-13,PVR,return_before_session,0.0,tham_dự đại_hội_đồng cổ_đông thường_niên
+2023-02-13,PVS,return_in_session,0.02079076966907369,công_ty cổ_phần quản_lý quỹ vinacapital đăng_ký mua quỹ đầu_tư cổ_phiếu tiếp_cận thị_trường việt nam đăng_ký mua
+2023-02-13,SP2,return_before_session,0.0,đại_hội_đồng cổ_đông thường_niên
+2023-02-13,VTR,return_before_session,-0.011472401162236807,tập_đoàn hưng_thịnh trở_thành cổ_đông lớn sở_hữu vốn cổ_phần
+2023-02-14,AGF,return_before_session,0.0,nghị_quyết hđqt thống_nhất tổ_chức đhđcđ
+2023-02-14,ASA,return_in_session,0.0,quyết_định việc duy_trì diện đình_chỉ
+2023-02-14,CLG,return_in_session,0.0,quyết_định việc đưa diện thông_báo việc điều_chỉnh tình_trạng
+2023-02-14,CTA,return_in_session,0.0,thông_báo việc điều_chỉnh tình_trạng quyết_định đưa diện đình_chỉ
+2023-02-14,DIC,return_in_session,0.0,thông_báo việc điều_chỉnh tình_trạng quyết_định đưa diện
+2023-02-14,HLG,return_in_session,0.0,dâu lê ngọc ánh tổng_giám_đốc chưa bán lê ngọc ánh tổng_giám_đốc chưa mua thông_báo việc điều_chỉnh tình_trạng quyết_định đưa diện đình_chỉ
+2023-02-14,HNM,return_in_session,0.0,thông_báo việc điều_chỉnh tình_trạng quyết_định đưa ra khỏi diện hạn_chế
+2023-02-14,HSA,return_before_session,0.0,đại_hội_đồng cổ_đông thường_niên
+2023-02-14,HVG,return_in_session,0.0,thông_báo điều_chỉnh tình_trạng quyết_định đưa diện đình_chỉ
+2023-02-14,HVN,return_in_session,0.017094433359300255,hàng_loạt cổ_phiếu có nguy_cơ bị huỷ niêm_yết nhiều
+2023-02-14,KAC,return_in_session,0.0,quyết_định việc đưa diện đình_chỉ thông_báo việc điều_chỉnh trạng_thái
+2023-02-14,KSH,return_in_session,0.0,thông_báo việc điều_chỉnh tình_trạng quyết_định việc đưa diện
+2023-02-14,LCC,return_in_session,0.0,quyết_định việc đưa diện
+2023-02-14,LQN,return_in_session,0.0,quyết_định việc đưa ra khỏi diện hạn_chế thông_báo việc điều_chỉnh tình_trạng
+2023-02-14,NDF,return_in_session,0.0,thông_báo việc điều_chỉnh tình_trạng quyết_định đưa diện đình_chỉ
+2023-02-14,ONW,return_in_session,0.0,quyết_định xử_phạt vi_phạm hành_chính lĩnh_vực
+2023-02-14,PIV,return_in_session,0.0,nghị_quyết hđqt thông_qua phương_án thoái vốn ctcp bot cầu
+2023-02-14,POM,return_before_session,0.049964138205921514,ngành thép được nhận_định đã qua cơn bĩ_cực pomina có tân chủ_tịch mới
+2023-02-14,POW,return_in_session,0.004228336109521105,nghị_quyết hđqt v v thông_qua kế_hoạch tổ_chức đhđcđ thường_niên
+2023-02-14,PRT,return_before_session,0.06394872460027351,thông_báo nộp tiền sử_dụng đất theo bản_án
+2023-02-14,PVA,return_in_session,0.0,bổ_sung giải_trình biến_động lợi_nhuận sau thuế so cùng kỳ trước quyết_định việc đưa diện
+2023-02-14,PVS,return_in_session,0.004106781952653281,báo lãi cao nhất nhóm vinacapital muốn mua thêm
+2023-02-14,SAM,return_in_session,0.005141399500418652,nghị_quyết hđqt thông_qua chủ_trương giao_dịch bên có liên_quan công_ty
+2023-02-14,SD1,return_in_session,0.0,thông_báo việc điều_chỉnh tình_trạng quyết_định đưa diện
+2023-02-14,SGO,return_in_session,0.0,quyết_định việc đưa diện đình_chỉ
+2023-02-14,TBH,return_in_session,0.0,quyết_định việc đưa diện
+2023-02-14,TOP,return_in_session,0.0,thông_báo việc điều_chỉnh tình_trạng quyết_định việc đưa diện
+2023-02-14,TS4,return_in_session,0.0,quyết_định việc đưa diện đình_chỉ
+2023-02-14,UDC,return_in_session,0.05173567439918889,hàng_loạt cổ_phiếu có nguy_cơ bị huỷ niêm_yết nhiều
+2023-02-14,VAT,return_in_session,0.0,quyết_định việc đưa diện đình_chỉ quyết_định việc đưa diện
+2023-02-14,VSF,return_in_session,0.0,thông_báo việc điều_chỉnh tình_trạng quyết_định đưa ra khỏi diện hạn_chế
+2023-02-15,HAG,return_before_session,0.012987195526811112,hoàng gia lai tiếp_tục đạt gần lợi_nhuận đầu
+2023-02-15,HLG,return_in_session,0.0,lê ngọc ánh tổng_giám_đốc đăng_ký mua lê ngọc ánh tổng_giám_đốc đăng_ký bán
+2023-02-15,HU1,return_in_session,0.0,bổ_sung thông_tin báo_cáo quản_trị công_ty nghị_quyết hđqt v v góp vốn thành_lập công_ty
+2023-02-15,ITA,return_before_session,0.0075662403833158766,nhắc_nhở chậm công_bố quyết_định hđqt v v thoái vốn công_ty
+2023-02-15,MWG,return_in_session,0.005865119452398058,tổ_chức đhđcđ thường_niên
+2023-02-15,PCE,return_before_session,0.0,đại_hội_đồng cổ_đông thường_niên
+2023-02-15,PMB,return_in_session,0.0,cbtt thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-15,PVD,return_in_session,0.019093658815579603,khối ngoại mua có lãi trở_lại sau thua_lỗ khó_khăn nhất đã qua pv drilling
+2023-02-15,SBV,return_before_session,0.0,nghị_quyết hđqt v v thông_qua giao_dịch bên có liên_quan
+2023-02-15,SP2,return_in_session,0.0,giải_trình liên_quan báo_cáo tài_chính kiểm_toán
+2023-02-15,TSD,return_in_session,0.0,nghị_quyết hđqt thông_qua quyết_toán bctc kế_hoạch bổ_nhiệm chức vụ phó bổ_nhiệm võ quang hòa_giữ chức giám_đốc
+2023-02-16,MSN,return_in_session,-0.0010758473334630141,thông_báo xác_nhận người sở_hữu_chứng_khoán đối_với mã thông_báo hủy niêm_yết
+2023-02-16,PAC,return_before_session,0.0,chốt dscđ thực_hiện quyền tham_dự đhcđ thường_niên
+2023-02-16,POW,return_in_session,0.02045061047129084,pv power ước doanh_thu kế_hoạch
+2023-02-16,SCD,return_in_session,0.0,nghị_quyết hđqt v v thông_qua giao_dịch công_ty cổ_phần bao_bì
+2023-02-16,SMA,return_in_session,0.0613164239886123,nghị_quyết hđqt v v vay vốn công_ty
+2023-02-16,TOP,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-16,VST,return_in_session,0.0,nghị_quyết hđqt v v đăng_ký tăng vốn
+2023-02-16,VTR,return_in_session,0.0,quyết_định v v tăng vốn điều_lệ sau khi kết_thúc đợt phát_hành cổ_phiếu hoán đổi nợ chào bán cổ_phiếu sửa_đổi bổ_sung điều_lệ tổ_chức hoạt_động ctcp tập_đoàn hưng_thịnh được hoán đổi nợ thành cp trở_thành cđl
+2023-02-17,AGF,return_in_session,0.03774032798284711,tham_dự đại_hội_đồng cổ_đông thường_niên
+2023-02-17,CIG,return_before_session,0.05278269957791917,ctcp đầu_tư fidel đã bán nguyễn_văn_đạt đã mua cp trở_thành
+2023-02-17,CPI,return_in_session,0.0,ctcp cảng quảng_ninh đăng_ký bán
+2023-02-17,DHB,return_in_session,-0.06979576193554185,bổ_nhiệm nguyễn_đình_hồng giữ chức tgđ
+2023-02-17,GAB,return_before_session,0.0,thêm cổ_phiếu diện đình_chỉ cổ_phiếu rơi diện đình_chỉ
+2023-02-17,HLY,return_in_session,0.1561607307552827,báo_cáo quản_trị công_ty
+2023-02-17,MSN,return_in_session,-0.018448705552333182,thời_gian đáo hạn hnx huỷ niêm_yết lô trái_phiếu
+2023-02-17,MWG,return_in_session,-0.0011554016305557627,đặt mục_tiêu lãi_ròng tối_thiểu ngưng mở mới an_khang dọn_dẹp chuỗi bluetronics avasprort
+2023-02-17,NOS,return_in_session,0.0870113769896297,thông_báo thực_hiện quyền tổ_chức đhđcđ thường_niên
+2023-02-17,PET,return_before_session,0.002355713692459205,nghị_quyết hđqt v v thay_đổi nội_dung đăng_ký doanh_nghiệp sửa_đổi điều_lệ công_ty ban_hành
+2023-02-17,PSD,return_before_session,0.006269613013595395,trả cổ_tức
+2023-02-17,SAB,return_before_session,0.0,giấy xác_nhận v v thay_đổi nội_dung đăng_ký
+2023-02-17,V11,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-20,ABC,return_in_session,0.0,bổ_nhiệm hồ thị hà giữ chức người công_bố thông_tin
+2023-02-20,CIG,return_before_session,-0.005555569844602105,trần thị đã mua cp trở_thành
+2023-02-20,HAS,return_before_session,0.0,đính_chính báo_cáo tình_hình quản_trị công_ty
+2023-02-20,JVC,return_before_session,-0.0033277900926745796,nhận được quyết_định cơ_quan_thuế công_ty đã nộp tiền vi_phạm theo quyết_định
+2023-02-20,NVT,return_before_session,0.0,miễn_nhiệm ng siok leng tgđ
+2023-02-20,PAC,return_before_session,0.0271100940094758,tổ_chức đhđcđ thường_niên
+2023-02-20,PMB,return_in_session,0.06453852113757116,đại_hội_đồng cổ_đông thường_niên
+2023-02-20,PRT,return_in_session,-0.008810629682154807,tài_liệu họp đại_hội_đồng
+2023-02-20,SCD,return_in_session,0.0,nhắc_nhở chậm cbtt giao_dịch bên có
+2023-02-20,SD6,return_in_session,0.06453852113757116,nghị_quyết hđqt phê_duyệt kế_hoạch tổ_chức đhđcđ
+2023-02-20,SP2,return_in_session,0.0,thông_báo trạng_thái quyết_định việc đưa ra khỏi diện hạn_chế
+2023-02-20,VOS,return_before_session,0.01542447032563173,thực_hiện quyền tham_dự đhcđ thường_niên nghị_quyết hđqt chủ_trương tổ_chức họp đhđcđ
+2023-02-21,AMD,return_before_session,0.06108769197983828,nghị_quyết hđqt v v triệu_tập đhđcđ bất_thường thực_hiện quyền tham_dự đhcđ bất_thường
+2023-02-21,CIG,return_before_session,0.0,thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-21,ITA,return_in_session,-0.04255961441879577,thực_hiện quyền tham_dự đhđcđ
+2023-02-21,MSN,return_before_session,-0.005305052229693229,thông_báo chào bán trái_phiếu ra công_chúng mã
+2023-02-21,MSN,return_in_session,-0.002129926257824965,báo_cáo kết_quả đợt chào bán trái_phiếu ra cbtt chào bán trái_phiếu ra cuối_cùng thanh_toán tiền lãi gốc báo_cáo kết_quả phát_hành trái_phiếu ra xác_nhận danh_sách người sở_hữu_chứng_khoán mã
+2023-02-21,MWG,return_in_session,0.002249719734015546,điểm_danh thương_hiệu thế_giới di_động bị khai_tử
+2023-02-21,PGD,return_before_session,0.025507759547212665,nghị_quyết hđqt v v chấp_thuận kế_hoạch
+2023-02-21,PGD,return_in_session,-0.043913187089928106,công_ty_con pv lên kế_hoạch lợi_nhuận giảm một_nửa cổ_phiếu tăng gần đầu
+2023-02-21,PNJ,return_before_session,0.004722558954173538,vàng đóng_góp gần lãi_ròng đầu
+2023-02-21,PSD,return_in_session,0.006153865574378286,nghị_quyết hđqt thông_qua việc mua lại cổ_phiếu thông_báo cuối_cùng thực_hiện quyền tham_dự đhđcđtn nghị_quyết hđqt kế_hoạch tổ_chức đhđcđ
+2023-02-21,PVS,return_in_session,-0.01876227645552289,delta global financial holdings private limited đăng_ký mua kiwoom vietnam tomorrow securities master fund equity đăng_ký mua
+2023-02-21,RDP,return_before_session,0.01980262729617973,nghị_quyết hđqt v v triệu_tập họp đhđcđ thường_niên
+2023-02-21,RDP,return_in_session,0.01793770068666725,nghị_quyết hđqt v v tổ_chức họp đhđcđ
+2023-02-21,SBV,return_before_session,0.0,nghị_quyết hđqt tham_dự đhđcđ thường_niên
+2023-02-21,VAT,return_in_session,0.0,cổ_đông lớn trần kim_phượng đã bán cp đã mua
+2023-02-22,GAB,return_before_session,0.0,chuyển cp diện hạn_chế giao_dịch sang diện đình_chỉ quyết_định v v chuyển cổ_phiếu diện hạn_chế giao_dịch sang diện đình_chỉ giao_dịch
+2023-02-22,HLG,return_in_session,0.0,cổ_đông lớn nguyễn_văn được đã mua lê ngọc ánh tổng_giám_đốc đã mua dâu lê ngọc ánh tổng_giám_đốc đã bán
+2023-02-22,ISG,return_in_session,0.0,bổ_nhiệm nguyễn_ngọc_minh giữ chức chủ_tịch hđqt
+2023-02-22,LTC,return_in_session,0.0,đính_chính báo_cáo quản_trị công_ty
+2023-02-22,PCT,return_in_session,-0.01941808585710174,báo_cáo quản_trị công_ty
+2023-02-22,PGC,return_before_session,-0.0062305497506361975,nghị_quyết hđqt v v tạm giao kế_hoạch sxkd
+2023-02-22,POM,return_before_session,0.0,giá thép thế_giới nóng lên từng vì_sao cổ_phiếu thép chững lại
+2023-02-22,RIC,return_in_session,-0.045120435280469544,lớn nhất quảng_ninh lỗ
+2023-02-22,S12,return_in_session,0.0,báo_cáo quản_trị công_ty
+2023-02-22,SAM,return_before_session,-0.01652930195121047,ctcp chứng_khoán quốc_gia đăng_ký bán
+2023-02-22,SAM,return_in_session,-0.013423020332140661,công_ty chứng_khoán muốn bán cổ_phiếu holdings vùng đáy
+2023-02-22,STT,return_in_session,0.0,nghị_quyết hđqt v v lựa_chọn công_ty kiểm_toán bctc
+2023-02-22,TCJ,return_in_session,0.0,cổ_đông lớn thanh đã mua
+2023-02-22,TOP,return_in_session,0.0,nguyễn_ngọc_dưỡng chủ_tịch hđqt đăng_ký mua đặng_đức lợi giám_đốc đăng_ký bán
+2023-02-22,VTR,return_in_session,0.0,giấy chứng_nhận đăng_ký chứng_khoán thay_đổi
+2023-02-23,BHT,return_in_session,0.0,nghị_quyết đại_hội_đồng cổ_đông thường_niên
+2023-02-23,CPI,return_before_session,0.0,nghị_quyết hđqt v v tổ_chức đhđcđ
+2023-02-23,DDM,return_before_session,0.0,thông_báo việc chốt danh_sách cổ_đông dự họp đhđcđ thường_niên
+2023-02-23,HLY,return_in_session,0.0,nghị_quyết hđqt v v chốt danh_sách cổ_đông tham_dự đhđcđ
+2023-02-23,LHG,return_before_session,-0.01801850550267825,thực_hiện quyền tham_dự đhđcđ thường_niên nghị_quyết hđqt v v thống_nhất kế_hoạch tổ_chức đhđcđ thường_niên
+2023-02-23,MSN,return_before_session,0.0054794657646255705,thông_báo trái_phiếu có khả_năng bị hủy_bỏ
+2023-02-23,MSN,return_in_session,-0.043557974339129904,báo_cáo kết_quả phát_hành trái_phiếu ra
+2023-02-23,NT2,return_before_session,-0.007067167223092443,quyết_định giao nhiệm_vụ thực_hiện công_tác
+2023-02-23,NT2,return_in_session,0.0348467313301681,hơn cổ_phiếu lưu_hành được mở khóa sang dạng tự_do nghị_quyết hđqt v v triệu_tập đhđcđ
+2023-02-23,OPC,return_before_session,-0.004016069654889831,bố_vợ nguyễn_thế đề kế_toán_trưởng đăng_ký bán
+2023-02-23,PET,return_in_session,0.031605339415331044,giấy chứng_nhận đăng_ký doanh_nghiệp thay_đổi thứ niêm_yết bổ_sung
+2023-02-23,PLC,return_before_session,-0.0033389012655147096,cbtt thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-23,PLC,return_in_session,0.06787742240308577,sóng đầu_tư công thổi hơi nóng cao_tốc bắc nam doanh_nghiệp cung_cấp nhựa_đường bốc đầu cổ_phiếu tăng gấp đầu
+2023-02-23,RDP,return_in_session,0.03328597763346676,tổ_chức đhđcđ thường_niên
+2023-02-23,VCT,return_in_session,0.0,thông_báo dự_kiến thực_hiện quyền tham_dự đhđcđ
+2023-02-24,ITA,return_in_session,0.0024009615375380463,tổ_chức đhđcđ thường_niên
+2023-02-24,JVC,return_in_session,0.02099027589183583,bổ_nhiệm phạm thanh nam giữ chức_danh tổng_giám_đốc
+2023-02-24,MSN,return_before_session,0.013605652055778678,báo_cáo kết_quả phát_hành trái_phiếu ra
+2023-02-24,MSN,return_in_session,-0.033202821007914635,thực_hiện quyền tham_dự đhcđ thường_niên thông_báo thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-24,MWG,return_in_session,-0.0094563352420354,nửa thập_kỷ dang_dở thế_giới di_động tham_vọng chuỗi kính mắt điện_thoại rẻ chuỗi ava bluetronics đều thành
+2023-02-24,NET,return_before_session,0.0,thông_báo thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-24,NOS,return_before_session,-0.0953101798043249,tổ_chức đại_hội_đồng cổ_đông thường_niên
+2023-02-24,PCT,return_before_session,-0.019802627296179643,ký_kết hợp_đồng tín_dụng ngân_hàng thương_mại cổ_phần bảo việt chi_nhánh nam nghị_quyết việc phê_duyệt chốt danh_sách cổ_đông tổ_chức đhđcđ tn
+2023-02-24,PIT,return_before_session,0.0,nghị_quyết hđqt tổ_chức đhđcđ thường_niên thực_hiện quyền tham_dự đhđcđ thường_niên
+2023-02-24,PLX,return_before_session,-0.002610967540720402,chuỗi dự_án khí điện lô b tiến thêm bước quan_trọng triển_vọng cổ_phiếu
+2023-02-24,PVD,return_before_session,0.0022909517465557624,chuỗi dự_án khí điện lô b tiến thêm bước quan_trọng triển_vọng cổ_phiếu
+2023-02-24,PVS,return_before_session,0.0037664827954768648,chuỗi dự_án khí điện lô b tiến thêm bước quan_trọng triển_vọng cổ_phiếu
+2023-02-24,PVV,return_in_session,0.02298951822469878,thông_báo dự_kiến tổ_chức đại_hội_đồng cổ_đông thường_niên đinh cảnh tiến chủ_tịch hđqt đăng_ký mua
+2023-02-24,SBV,return_in_session,0.0,tham_dự đhđcđ thường_niên
+2023-02-24,SP2,return_in_session,0.0,bổ_nhiệm bùi quế_lâm giữ chức tgđ
+2023-02-24,STT,return_in_session,-0.11122563511022437,ký_kết hợp_đồng
+2023-02-24,UDC,return_before_session,0.01856201786005956,nghị_quyết hđqt thông_qua phương_án sử_dụng tài_sản đảm_bảo nghĩa_vụ
+2023-02-24,VOS,return_in_session,-0.004197277935340036,tổ_chức đhđcđ thường_niên
+2023-02-24,VSF,return_before_session,0.0,nghị_quyết hđqt v v triệu_tập họp đhđcđ
