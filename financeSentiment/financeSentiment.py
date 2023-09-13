@@ -65,8 +65,9 @@ def clean_text(text,
 
 
 class Classification():
-    def __init__(self):
-        self.model=None
+    def __init__(self, 
+                 model_ = None):
+        self.model=model_
         self.stockList = None
     
     #Clean text data
